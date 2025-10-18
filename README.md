@@ -8,7 +8,29 @@ A comprehensive collection of materials for teaching HKU research students how t
 **Target Audience**: HKU Research Students  
 **Duration**: 2 hours  
 **Format**: Interactive workshop with hands-on activities  
-**Focus**: AI agents in education research
+**Focus**: AI agents in education research  
+**Host**: Prof Yongyan Li, HKU  
+**Facilitator**: Dr Simon Wang, HKBU
+
+## 📝 Workshop Abstract
+
+**AI Agents for Research: Transforming Education Research Workflows**
+
+This interactive workshop introduces HKU research students to the transformative potential of AI agents in education research. Unlike traditional chatbots that require constant context switching, AI agents provide seamless, integrated workflows that eliminate the need for copy-paste operations between tools and environments.
+
+The workshop is structured around three comprehensive demonstrations:
+
+1. **Introduction to AI Agents**: Participants will experience the fundamental differences between AI agents and chatbots, learning to leverage direct file system access, autonomous code generation, and persistent memory across sessions.
+
+2. **Explore Litstudy**: Students will discover how AI agents integrate with litstudy, an open-source Python package for systematic literature reviews, enabling automated citation network analysis, author collaboration mapping, and topic modeling.
+
+3. **New Use Cases**: Advanced applications demonstrate complex research workflows, including multi-tool integration, collaborative research with AI agents, and sophisticated document processing capabilities.
+
+Through hands-on activities using Jupyter notebooks, participants will practice file management, code generation, literature analysis, and research planning. The workshop emphasizes practical applications, showing how AI agents can enhance research productivity, improve literature review efficiency, and enable more sophisticated research methodologies.
+
+By the end of the workshop, participants will have hands-on experience with AI agent capabilities, understand their integration with research tools, and be equipped to apply these technologies to their own research projects. The session includes comprehensive documentation, practice exercises, and follow-up resources for continued learning.
+
+**Learning Outcomes**: Participants will gain proficiency in AI agent usage, enhanced literature review capabilities, improved research productivity, and practical skills for integrating AI agents into their research workflows.
 
 ## 🎯 Overview
 
@@ -208,6 +230,10 @@ pip install jupyter notebook
 
 ## 📧 Contact and Support
 
+**Workshop Host**: Prof. Yongyan Li  
+**Institution**: The University of Hong Kong  
+**Email**: yongyan@hku.hk  
+
 **Workshop Facilitator**: Dr. Simon Wang  
 **Institution**: Hong Kong Baptist University  
 **Email**: simonwang@hkbu.edu.hk  
@@ -219,8 +245,9 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## 🙏 Acknowledgments
 
+- **Prof Yongyan Li** - Workshop Host, HKU
+- **Dr Simon Wang** - Guest Speaker and Facilitator, HKBU
 - **litstudy** team at Netherlands eScience Center
-- **motifmatchr** developers at Greenleaf Lab, Stanford
 - **GitHub Copilot** for AI assistance
 - **HKU Research Students** for feedback and suggestions
 
