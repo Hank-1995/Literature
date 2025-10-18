@@ -24,13 +24,13 @@ The workshop is structured around three comprehensive demonstrations:
 
 2. **Explore Litstudy**: Students will discover how AI agents integrate with litstudy, an open-source Python package for systematic literature reviews, enabling automated citation network analysis, author collaboration mapping, and topic modeling.
 
-3. **New Use Cases**: Advanced applications demonstrate complex research workflows, including multi-tool integration, collaborative research with AI agents, and sophisticated document processing capabilities.
+3. **New Use Cases**: An open-ended exploration where students brainstorm innovative applications of AI agents in their own research contexts, followed by collaborative prototyping of selected ideas.
 
 Through hands-on activities using Jupyter notebooks, participants will practice file management, code generation, literature analysis, and research planning. The workshop emphasizes practical applications, showing how AI agents can enhance research productivity, improve literature review efficiency, and enable more sophisticated research methodologies.
 
 By the end of the workshop, participants will have hands-on experience with AI agent capabilities, understand their integration with research tools, and be equipped to apply these technologies to their own research projects. The session includes comprehensive documentation, practice exercises, and follow-up resources for continued learning.
 
-**Learning Outcomes**: Participants will gain proficiency in AI agent usage, enhanced literature review capabilities, improved research productivity, and practical skills for integrating AI agents into their research workflows.
+**Learning Outcomes**: Participants will gain proficiency in AI agent usage, enhanced literature review capabilities, improved research productivity, and practical skills for integrating AI agents into their research workflows. The open-ended "New Use Cases" section encourages creative thinking and collaborative problem-solving, enabling students to explore innovative applications and rapidly prototype solutions for their specific research needs.
 
 ## 🎯 Overview
 
@@ -144,10 +144,10 @@ pip install jupyter notebook
 - **Practice Exercises**: Litstudy analysis with sample data
 
 ### Demo 3: New Use Cases
-- **Advanced Applications**: Complex research workflows
-- **Tool Integration**: Multiple AI agent capabilities
-- **Collaborative Research**: Team-based AI agent usage
-- **Practice Exercises**: Advanced scenarios and use cases
+- **Brainstorming Session**: Students explore innovative AI agent applications
+- **Collaborative Prototyping**: Rapid development of selected ideas
+- **Open-ended Exploration**: Creative applications in research contexts
+- **Practice Exercises**: Hands-on implementation of brainstormed concepts
 
 ## 🛠️ Key Tools and Scripts
 
