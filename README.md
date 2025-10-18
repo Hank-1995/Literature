@@ -5,8 +5,10 @@ A comprehensive collection of materials for teaching HKU research students how t
 
 ## 📅 Workshop Information
 
-**Target Audience**: HKU Research Students  
+**Date**: 24 October 2025  
+**Time**: 18:30 - 20:30  
 **Duration**: 2 hours  
+**Venue**: TBA  
 **Format**: Interactive workshop with hands-on activities  
 **Focus**: AI agents in education research  
 **Host**: Prof Yongyan Li, HKU  
