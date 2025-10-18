@@ -1,7 +1,7 @@
-# Agent2HKU
-**AI Agents for HKU Research Students: Education Workshop Materials**
+# Agent4HKU
+**AI Agents for HKU Research Students: Comprehensive Workshop Materials**
 
-A comprehensive collection of materials for teaching HKU research students how to use AI agents in their research workflows, with a focus on education research applications.
+A comprehensive collection of materials for teaching HKU research students how to use AI agents in their research workflows, organized into three main demonstration areas.
 
 ## 📅 Workshop Information
 
@@ -12,49 +12,63 @@ A comprehensive collection of materials for teaching HKU research students how t
 
 ## 🎯 Overview
 
-This repository contains materials for a comprehensive workshop that introduces HKU research students to AI agents and their applications in education research. The workshop covers:
+This repository contains materials for a comprehensive workshop that introduces HKU research students to AI agents and their applications in education research. The workshop is organized into three main demonstration areas:
 
-- **AI Agent Fundamentals**: Understanding the difference between AI agents and chatbots
-- **Hands-on Operations**: File management, code generation, web search, and document processing
-- **Literature Analysis**: Using AI agents for systematic literature reviews
-- **Research Tools**: Integration with litstudy for systematic literature analysis
+1. **Introduction to AI Agents**: Fundamentals and basic operations
+2. **Explore Litstudy**: Systematic literature review tools
+3. **New Use Cases**: Advanced applications and workflows
 
 ## 📁 Repository Structure
 
 ```
-agent2hku/
-├── docs/                          # Workshop documentation and guides
-│   ├── HKU_AI_Agents_Education_Workshop_Plan.md
-│   ├── AI_Agent_Introduction_Demo.md
-│   ├── Hands_on_Activities_Guide.md
-│   ├── Literature_Analysis_Guide.md
-│   ├── Litstudy_Demo_Guide.md
-│   ├── Workshop_Materials_Checklist.md
-│   └── Workshop_Summary_Overview.md
-├── scripts/                       # Python and R scripts for demonstrations
-│   ├── demo1_extract_methods.py
-│   ├── demo2_motif_analysis.R
-│   ├── demo2_prepare_analysis.py
-│   ├── comprehensive_citation_mapper.py
-│   ├── enhanced_pdf_to_md.py
-│   ├── extract_all_references.py
-│   ├── individual_reference_search.py
-│   ├── map_citations.py
-│   ├── master_process.py
-│   ├── pdf_text_extractor.py
-│   ├── revise_metadata.py
-│   ├── run_conversion.py
-│   ├── simple_pdf_to_md.py
-│   └── requirements.txt
-├── data/                          # Sample data and outputs
-│   ├── example_peaks.bed
-│   ├── example_peaks.csv
-│   ├── litstudy_analysis_report.json
-│   ├── litstudy_badia_analysis_*.json
-│   ├── litstudy_badia_paper_*.csv
-│   ├── litstudy_paper_collection_*.csv
-│   ├── litstudy_simple_demo_*.txt
-│   └── paper_analysis_report.*
+agent4hku/
+├── introduction_to_agent/         # Demo 1: AI Agent Fundamentals
+│   ├── data/                      # Sample data for basic operations
+│   │   ├── example_peaks.bed
+│   │   ├── example_peaks.csv
+│   │   └── paper_analysis_report.*
+│   ├── docs/                      # Documentation for AI agent basics
+│   │   ├── AI_Agent_Introduction_Demo.md
+│   │   ├── Hands_on_Activities_Guide.md
+│   │   └── HKU_AI_Agents_Education_Workshop_Plan.md
+│   ├── scripts/                    # Basic AI agent scripts
+│   │   ├── demo1_extract_methods.py
+│   │   └── demo2_prepare_analysis.py
+│   └── practice/                  # Hands-on practice notebooks
+│       └── 01_ai_agent_basics.ipynb
+├── litstudy_explore/              # Demo 2: Literature Analysis
+│   ├── data/                      # Literature analysis data
+│   │   ├── litstudy_analysis_report.json
+│   │   ├── litstudy_badia_analysis_*.json
+│   │   ├── litstudy_badia_paper_*.csv
+│   │   └── litstudy_paper_collection_*.csv
+│   ├── docs/                      # Litstudy documentation
+│   │   ├── Litstudy_Demo_Guide.md
+│   │   └── Literature_Analysis_Guide.md
+│   ├── scripts/                   # Literature analysis scripts
+│   │   └── demo2_motif_analysis.R
+│   └── practice/                  # Litstudy practice notebooks
+│       └── 02_litstudy_analysis.ipynb
+├── new_use_cases/                 # Demo 3: Advanced Applications
+│   ├── data/                      # Advanced use case data
+│   ├── docs/                      # Advanced application documentation
+│   │   ├── Workshop_Materials_Checklist.md
+│   │   └── Workshop_Summary_Overview.md
+│   ├── scripts/                    # Advanced AI agent scripts
+│   │   ├── comprehensive_citation_mapper.py
+│   │   ├── enhanced_pdf_to_md.py
+│   │   ├── extract_all_references.py
+│   │   ├── individual_reference_search.py
+│   │   ├── map_citations.py
+│   │   ├── master_process.py
+│   │   ├── pdf_text_extractor.py
+│   │   ├── revise_metadata.py
+│   │   ├── run_conversion.py
+│   │   ├── simple_pdf_to_md.py
+│   │   └── final_comprehensive_citation_mapper.py
+│   └── practice/                  # Advanced practice notebooks
+│       └── 03_advanced_applications.ipynb
+├── requirements.txt               # Python dependencies
 └── README.md                      # This file
 ```
 
@@ -64,52 +78,54 @@ agent2hku/
 
 1. **AI Agent Access**: GitHub Copilot, ChatGPT, or similar
 2. **Python 3.7+**: For running scripts and litstudy
-3. **Text Editor**: VS Code, Sublime Text, or similar
-4. **Internet Connection**: For web search and data access
+3. **Jupyter Notebook**: For practice exercises
+4. **Text Editor**: VS Code, Sublime Text, or similar
+5. **Internet Connection**: For web search and data access
 
 ### Installation
 
 ```bash
 # Clone the repository
-git clone https://github.com/tesolchina/agent2hku.git
-cd agent2hku
+git clone https://github.com/tesolchina/agent4hku.git
+cd agent4hku
 
 # Install Python dependencies
-pip install -r scripts/requirements.txt
+pip install -r requirements.txt
 
 # Install litstudy for literature analysis
 pip install litstudy pandas matplotlib networkx scikit-learn
+
+# Install Jupyter for practice notebooks
+pip install jupyter notebook
 ```
 
 ### Running the Workshop
 
-1. **Review Documentation**: Start with `docs/Workshop_Summary_Overview.md`
-2. **Follow the Plan**: Use `docs/HKU_AI_Agents_Education_Workshop_Plan.md`
-3. **Try Activities**: Work through `docs/Hands_on_Activities_Guide.md`
-4. **Explore Scripts**: Run examples from the `scripts/` directory
+1. **Start with Introduction**: Begin with `introduction_to_agent/` folder
+2. **Explore Litstudy**: Move to `litstudy_explore/` for literature analysis
+3. **Advanced Applications**: Try `new_use_cases/` for advanced workflows
+4. **Practice Exercises**: Use Jupyter notebooks in each `practice/` folder
 
 ## 🎓 Workshop Components
 
-### Part 1: AI Agent Introduction (30 minutes)
+### Demo 1: Introduction to AI Agents
 - **What are AI Agents?**: Differences from traditional chatbots
 - **Live Demonstrations**: File operations, code generation, web search
 - **Key Advantages**: No context switching, persistent memory, autonomous actions
+- **Practice Exercises**: Hands-on activities with Jupyter notebooks
 
-### Part 2: Hands-on Activities (45 minutes)
-- **File Management**: Research folder structure and document processing
-- **Code Generation**: Data analysis and visualization
-- **Web Search**: Literature search and information synthesis
-- **Research Planning**: Question development and methodology planning
-
-### Part 3: Literature Analysis (30 minutes)
-- **Review Article Analysis**: AI agent analysis of Gen AI education literature
-- **Research Synthesis**: Thematic analysis and practical applications
-- **Research Gaps**: Future research directions and opportunities
-
-### Part 4: Litstudy Demo (15 minutes)
+### Demo 2: Explore Litstudy
+- **Literature Analysis**: Systematic literature review tools
 - **Citation Networks**: Research connections and patterns
 - **Collaboration Analysis**: Author networks and research communities
 - **Topic Modeling**: Research themes and temporal trends
+- **Practice Exercises**: Litstudy analysis with sample data
+
+### Demo 3: New Use Cases
+- **Advanced Applications**: Complex research workflows
+- **Tool Integration**: Multiple AI agent capabilities
+- **Collaborative Research**: Team-based AI agent usage
+- **Practice Exercises**: Advanced scenarios and use cases
 
 ## 🛠️ Key Tools and Scripts
 
