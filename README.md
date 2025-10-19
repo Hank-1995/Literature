@@ -8,7 +8,7 @@ A comprehensive collection of materials for teaching HKU research students how t
 **Date**: 24 October 2025  
 **Time**: 18:30 - 20:30  
 **Duration**: 2 hours  
-**Venue**: TBA  
+**Venue**: Meng Wah Complex 703-704  
 **Format**: Interactive workshop with hands-on activities  
 **Focus**: AI agents in education research  
 **Host**: Prof Yongyan Li, HKU  
