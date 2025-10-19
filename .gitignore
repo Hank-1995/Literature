@@ -46,11 +46,13 @@ venv.bak/
 *.xlsx
 *.xls
 *.pdf
-*.txt
 *.bed
 *.vcf
 *.fasta
 *.fastq
+
+# Allow workshop announcement
+!workshop_announcement.txt
 
 # Output files
 outputs/
