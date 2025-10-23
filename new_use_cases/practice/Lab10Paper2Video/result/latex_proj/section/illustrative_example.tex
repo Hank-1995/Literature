@@ -1,0 +1,42 @@
+\section{Illustrative example}
+
+To demonstrate the capabilities of \textbf{litstudy}, we provide a comprehensive example that shows how to use the package for exploring a research domain. The example covers:
+
+\begin{itemize}
+\item Data collection from multiple sources
+\item Data cleaning and preprocessing
+\item Statistical analysis and visualization
+\item Network analysis
+\item Topic modeling
+\end{itemize}
+
+The following code snippet demonstrates the basic usage of \textbf{litstudy}:
+
+\begin{verbatim}
+import litstudy
+
+# Create a new study
+study = litstudy.Study()
+
+# Add documents from different sources
+study.add_documents_from_scopus(query="machine learning")
+study.add_documents_from_semantic_scholar(query="deep learning")
+
+# Filter and clean the data
+study.filter_by_year(min_year=2020)
+study.remove_duplicates()
+
+# Generate statistics
+stats = study.compute_statistics()
+study.plot_publications_per_year()
+
+# Create bibliographic networks
+network = study.create_citation_network()
+study.plot_network(network)
+
+# Perform topic modeling
+topics = study.discover_topics()
+study.plot_topic_distribution(topics)
+\end{verbatim}
+
+This example shows how \textbf{litstudy} can be used to quickly explore a research domain, from data collection to analysis and visualization.

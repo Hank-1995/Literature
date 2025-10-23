@@ -1,0 +1,19 @@
+\section{Motivation and significance}
+
+Researchers often have to explore new scientific domains that are outside their field of expertise. Examples include experienced scholars who want to explore new research directions or early-career researchers (e.g., students) who want to understand the scientific domain of the topic that they will be working on.
+
+However, getting a good broad overview of an area of study is often difficult due to the large number of relevant publications that are available nowadays. For instance, on Elsevier's Scopus, the search query "deep learning" yields 166,583 results, "energy-efficient computer architectures" yields 17,085 results, and "parallel programming model" yields 6,306 results. Going through such a list of publications manually is a monumental effort. Literature reviews present a solution to this problem, but they might not always be available, may be too broad or too narrow in scope, and can be outdated quickly for fast-moving research areas.
+
+In this work, we present \textbf{litstudy}: a Python package that assists in exploring scientific literature. The package can be used from simple Python scripts or Jupyter notebooks, allowing researchers to quickly and interactively experiment with different ideas and methods. Our package is built upon and compatible with many popular tools from Python's data science ecosystem, such as Pandas and NumPy. The package is available for installation from the \textit{Python Package Index} (PyPi).
+
+Overall, \textbf{litstudy} offers five main features:
+
+\begin{itemize}
+\item Extract metadata of scientific documents from various sources. A unified interface allows data from different sources to be combined.
+\item Filter, select, deduplicate, and annotate collections of documents.
+\item Compute and plot general statistics on the metadata of the documents (e.g., statistics per year, per author, per journal, etc.).
+\item Generate, plot, and analyze various bibliographic networks that reveal relations between publications and their authors.
+\item Automatic topic discovery based on natural language processing (NLP).
+\end{itemize}
+
+In particular, \textbf{litstudy} is useful for performing \textit{bibliometric} analysis or for the early stages of a \textit{mapping review} (also referred to as a \textit{scoping review}), where the goal is to get a broad overview of a research field. Our package can also be of assistance during a \textit{systematic} literature review.

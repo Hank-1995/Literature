@@ -1,0 +1,137 @@
+\documentclass{beamer}
+
+
+\usetheme{Madrid}
+\usepackage{amsmath}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{graphicx}
+\usepackage{booktabs}
+\usepackage{hyperref}
+\usepackage{xcolor}
+
+\title{litstudy: A Python package for literature reviews}
+\author{Stijn Heldens, Alessio Sclocco, Henk Dreuning, Ben van Werkhoven, Pieter Hijma, Jason Maassen, Rob V. van Nieuwpoort}
+\date{\today}
+
+\setbeamerfont{caption}{size=\scriptsize}
+
+
+\setbeamerfont{caption}{size=\scriptsize}
+\begin{document}
+\begin{frame}
+\titlepage
+\end{frame}
+\begin{frame}
+\frametitle{Motivation and Significance}
+\begin{itemize}
+\item Researchers often need to explore new scientific domains outside their field of expertise.
+\item Getting a broad overview of an area of study is difficult due to the large number of relevant publications.
+\item Literature reviews present a solution, but they might not always be available, may be too broad or too narrow in scope, and can be outdated quickly.
+\end{itemize}
+\end{frame}
+\begin{frame}
+\frametitle{Related Work}
+\begin{itemize}
+\item Bibliometric analysis and literature review are essential tools for researchers.
+\item Current tools and methods have limitations, such as being too broad or too narrow in scope, or being outdated quickly.
+\end{itemize}
+\end{frame}
+\begin{frame}
+\frametitle{Method}
+\begin{itemize}
+\item litstudy: a Python package for literature reviews.
+\item Modular architecture, extensive functionality, and ease of use.
+\item Five main features:
+\begin{itemize}
+\item Extract metadata of scientific documents from various sources.
+\item Filter, select, deduplicate, and annotate collections of documents.
+\item Compute and plot general statistics on the metadata of the documents.
+\item Generate, plot, and analyze various bibliographic networks that reveal relations between publications and their authors.
+\item Automatic topic discovery based on natural language processing (NLP).
+\end{itemize}
+\end{itemize}
+\end{frame}
+\begin{frame}
+\frametitle{Method - Bibliographic Data Sources}
+\begin{itemize}
+\item Supports several methods to retrieve metadata of scientific publications.
+\item Unified interface allows data from different sources to be combined.
+\end{itemize}
+\end{frame}
+\begin{frame}
+\frametitle{Method - Filtering}
+\begin{itemize}
+\item Functionality to filter, select, deduplicate, and annotate collections of documents.
+\item Essential for managing large datasets and ensuring data quality.
+\end{itemize}
+\end{frame}
+\begin{frame}
+\frametitle{Method - Statistics}
+\begin{itemize}
+\item Computes and plots general statistics on the metadata of the documents.
+\item Includes statistics per year, per author, per journal, and other relevant metrics.
+\end{itemize}
+\end{frame}
+\begin{frame}
+\frametitle{Method - Bibliographic Networks}
+\begin{itemize}
+\item Generates, plots, and analyzes various bibliographic networks that reveal relations between publications and their authors.
+\item Helps identify influential papers, authors, and research clusters.
+\end{itemize}
+\end{frame}
+\begin{frame}
+\frametitle{Method - Natural Language Processing}
+\begin{itemize}
+\item Enables automatic topic discovery based on natural language processing techniques.
+\item Helps researchers identify key themes and trends in their research domain.
+\end{itemize}
+\end{frame}
+\begin{frame}
+\frametitle{Experimental Method}
+\begin{itemize}
+\item Comprehensive example demonstrating the capabilities of litstudy.
+\item Data collection from multiple sources, data cleaning and preprocessing, statistical analysis and visualization, network analysis, and topic modeling.
+\end{itemize}
+\end{frame}
+\begin{frame}
+\frametitle{Experimental Setting}
+\begin{itemize}
+\item Dataset: multiple sources of scientific publications.
+\item Parameters: various parameters for data cleaning, filtering, and analysis.
+\item Environment: Python, litstudy package, and Jupyter notebooks.
+\end{itemize}
+\end{frame}
+\begin{frame}
+\frametitle{Experimental Results}
+\begin{itemize}
+\item Successful demonstration of litstudy's capabilities.
+\item Results show the effectiveness of litstudy in exploring a research domain.
+\end{itemize}
+\end{frame}
+\begin{frame}
+\frametitle{Ablation Experiment}
+\begin{itemize}
+\item Validation of the role of key modules in litstudy.
+\item Results show the importance of each module in the overall functionality of litstudy.
+\end{itemize}
+\end{frame}
+\begin{frame}
+\frametitle{Deficiencies}
+\begin{itemize}
+\item Limitations of current methods and tools for literature review and bibliometric analysis.
+\item litstudy addresses some of these limitations, but there is still room for improvement.
+\end{itemize}
+\end{frame}
+\begin{frame}
+\frametitle{Future Research}
+\begin{itemize}
+\item Expanding the supported data sources.
+\item Improving the NLP capabilities.
+\item Enhancing the visualization features.
+\end{itemize}
+\end{frame}
+\begin{frame}
+\frametitle{Thank you}
+\end{frame}
+\end{document}

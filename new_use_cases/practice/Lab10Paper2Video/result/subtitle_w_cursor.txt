@@ -1,0 +1,96 @@
+### 
+
+title page information | pointing to title
+This is the title page of our talk, where we introduce our research paper on litstudy, a Python package for literature reviews.
+
+###
+
+Motivation is displayed on the top of the slide | pointing to "Motivation and Significance"
+Our research was motivated by the need for researchers to explore new scientific domains outside their field of expertise. 
+Getting a broad overview of an area of study is difficult due to the large number of relevant publications | moving cursor down item by item
+Literature reviews present a solution, but they might not always be available, may be too broad or too narrow in scope, and can be outdated quickly | moving cursor to the last item.
+
+###
+
+Bibliometric analysis and literature review are displayed as the first item | pointing to the first item
+Bibliometric analysis and literature review are essential tools for researchers. 
+Current tools and methods have limitations, such as being too broad or too narrow in scope, or being outdated quickly | moving cursor down.
+
+###
+
+the method title is displayed on top of the slide | pointing to "Method"
+We present litstudy, a Python package for literature reviews | pointing to the first item.
+Our tool has a modular architecture, extensive functionality, and ease of use | moving cursor down item by item.
+It consists of five main features, including data extraction, filtering, statistics computation, network analysis, and topic modeling | moving cursor to the second item of second itemize
+The features allow users to manage large datasets, compute and plot statistics, analyze bibliographic networks, and discover topics | scrolling down in itemize.
+
+###
+
+our tool supports multiple data sources | pointing to "Supports several methods to retrieve metadata of scientific publications"
+This slide explains that our tool supports multiple data sources to retrieve metadata of scientific publications, using a unified interface to combine them | moving cursor to the second item.
+
+###
+
+method title is displayed on top of the slide | pointing to "Method - Filtering"
+Our tool also includes functionality to filter, select, deduplicate, and annotate collections of documents | pointing to the first item.
+This functionality is essential for managing large datasets and ensuring data quality | moving cursor down.
+
+###
+
+Our tool allows users to compute and plot statistics, as displayed in the first item | pointing to the first item
+This feature includes statistics per year, per author, per journal, and other relevant metrics | moving cursor down.
+
+###
+
+ bibligraphic networks are the main topic of this slide | pointing to "Generates, plots, and analyzes various bibliographic networks that reveal relations between publications and their authors"
+Our tool helps researchers identify influential papers, authors, and research clusters by generating, plotting, and analyzing bibliographic networks | moving cursor to the second item.
+These networks help reveal the structure of the research domain | moving cursor down.
+
+###
+
+automatic topic discovery is the main feature of this slide | pointing to "Enables automatic topic discovery based on natural language processing techniques"
+Our tool enables automatic topic discovery using natural language processing techniques | moving cursor to the second item.
+It helps researchers identify key themes and trends in their research domain | no.
+
+###
+
+experimental method is displayed on the top of the slide | pointing to "Experimental Method"
+This comprehensive example demonstrates the capabilities of litstudy using real data from multiple sources | pointing to the first item.
+Data collection, data cleaning, statistical analysis, visualization, network analysis, and topic modeling are all covered in this example | no.
+
+###
+
+experimental setting has three main points | pointing to the first item
+The experimental dataset consists of multiple sources of scientific publications | moving cursor down item by item.
+Various parameters for data cleaning, filtering, and analysis were used | 
+Our experiments were performed using Python and the Jupyter Notebook environment | moving cursor to the last item.
+
+###
+
+ experimental results are summarized on the top of the slide | pointing to the first item
+Our experiments successfully demonstrate the capabilities of litstudy in exploring a research domain | moving cursor to the second item.
+The results show the effectiveness of litstudy in identifying key themes and trends in the research domain | no.
+
+###
+
+ validation is displayed as the first item on the slide | pointing to the first item
+This ablation experiment validates the role of key modules in litstudy | moving cursor down.
+The results show the importance of each module in the overall functionality of litstudy | no.
+
+###
+
+deficiencies are mentioned on the top of the slide | pointing to "Limitations of current methods and tools for literature review and bibliometric analysis"
+Our tool addresses some of the limitations of current methods and tools, such as being too broad or too narrow in scope, or being outdated quickly | moving cursor down.
+However, there is still room for improvement in our tool, and we plan to expand its capabilities in the future | no.
+
+###
+
+future research is displayed on the top of the slide | pointing to "Expanding the supported data sources"
+We plan to expand the data sources supported by litstudy in the future | moving cursor down item by item
+Improving the natural language processing capabilities of our tool is another important direction for future research | 
+Enhancing the visualization features will also improve the usability and effectiveness of litstudy | no.
+
+###
+
+Thank you note is displayed on the screen | no
+Thank you for your attention, and we welcome any questions or comments you may have | no.

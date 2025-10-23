@@ -1,0 +1,919 @@
+https://www.sciencedirect.com/search?qs=%22AI+literacy%22&show=100&lastSelectedFacet=articleTypes&subjectAreas=3300&articleTypes=REV
+
+Ido Alon, Hazar Haidar, Ali Haidar, José Guimón,
+The future of artificial intelligence: Insights from recent Delphi studies,
+Futures,
+Volume 165,
+2025,
+103514,
+ISSN 0016-3287,
+https://doi.org/10.1016/j.futures.2024.103514.
+(https://www.sciencedirect.com/science/article/pii/S0016328724001976)
+Abstract: We review thirteen Delphi studies on the future of Artificial Intelligence (AI), published between 2014 and 2024. Using the Delphi method, an iterative approach that refines expert insights through multiple rounds, these studies provide foresight into AI’s technological advancements, societal impacts, and policy implications across various sectors. For example, Delphi studies in healthcare foresee significant advancements in AI-driven diagnostics and personalized medicine, while in manufacturing, AI is anticipated to enhance human-robot collaboration and supply chain optimization. AI’s impact on journalism and photography shows promise in automating processes and enriching immersive storytelling, although issues like data privacy and algorithmic bias are raised. This review emphasizes a primary focus on technology trajectories, examining anticipated developments and timelines, while also considering broader strategic foresight aspects. General challenges identified include equitable access, the need for robust data governance, and workforce upskilling to integrate AI responsibly. By synthesizing insights across these studies, we provide a structured overview of both opportunities and limitations in AI development, offering guidance for stakeholders to navigate AI's complexities and capitalize on its potential responsibly. In addition, we propose methodological recommendations, such as standardizing expert selection and diversifying perspectives to improve the quality of future Delphi studies.
+Keywords: Artificial intelligence; Delphi method; Technological forecasting; Strategic foresight; AI policy and governance; Future studies
+
+Nikolaos Stylos, Fevzi Okumus, Irem Onder,
+Beauty or the Borg: Agentic artificial intelligence organizational socialization in synergistic Hybrid Transformative Dynamic Flows,
+Tourism Management,
+Volume 111,
+2025,
+105205,
+ISSN 0261-5177,
+https://doi.org/10.1016/j.tourman.2025.105205.
+(https://www.sciencedirect.com/science/article/pii/S0261517725000755)
+Abstract: This article introduces a framework for optimizing managerial decisions through a process/flow thinking approach, incorporating the impact of AI-human socialization in a tourism organizational context. It reflects the transformative nature of hybrid interactions shaped by human-AI socialization process. Despite AI's expansion across industries, research on its social integration in tourism remains limited. This study critically reviews sociotechnical systems theory and applies a continuous socio-technological transformation approach to tourism organizations. The proposed framework conceptualizes decision-making in a human-agentic AI hybrid system via implementation of Intelligent Choice Architectures, emphasizing teamwork, trust-building, and legitimacy. An example case on pricing optimization illustrates the framework's applicability, demonstrating how AI can enhance decision-making in tourism, while streamlining allocation of resources across the human-AI hybrid system.
+Keywords: Human-AI teaming; Decision-making; Sociotechnical systems theory; Organizational socialization; Hybrid transformation; Tourism
+
+Arne Bewersdorff, Xiaoming Zhai, Jessica Roberts, Claudia Nerdel,
+Myths, mis- and preconceptions of artificial intelligence: A review of the literature,
+Computers and Education: Artificial Intelligence,
+Volume 4,
+2023,
+100143,
+ISSN 2666-920X,
+https://doi.org/10.1016/j.caeai.2023.100143.
+(https://www.sciencedirect.com/science/article/pii/S2666920X2300022X)
+Abstract: Artificial Intelligence (AI) is prevalent in nearly every aspect of our lives. However, recent studies have found a significant amount of confusion and misunderstanding surrounding AI. To develop effective educational programs in the field of AI, it is vital to examine and understand learners' pre- and misconceptions as well as myths about AI. This study examined a corpus of 591 studies. 25 relevant studies were identified by applying the following eligibility criteria: English-written original empirical research on education and AI and reporting AI conceptions in a formal learning context. The review found studies from six continents, with the majority conducted in Europe and North America. The studies predominantly focus on the school and university levels. Findings reveal a range of preconceptions, misconceptions, and myths about AI, such as: Learners often have limited understanding of AI on a technical level. They tend to attribute human-like characteristics or attributes to AI systems and may have narrow views of AI's scope, capabilities, and limitations. The review also shows that learners often have binary and unspecific views about the threats, dangers, and benefits of AI. Effective educational programs are key to empower learners' understanding of AI, thus helping them make informed decisions about the integration of AI in our society, rather than being swayed by misinformation and unnecessary fear. This review may help inform the development of more effective teaching and outreach strategies in AI education.
+Keywords: Artificial intelligence; Misconceptions; Preconceptions; Review
+
+Caitlin C. Corrigan, Svetlana A. Ikonnikova,
+A review of the use of AI in the mining industry: Insights and ethical considerations for multi-objective optimization,
+The Extractive Industries and Society,
+Volume 17,
+2024,
+101440,
+ISSN 2214-790X,
+https://doi.org/10.1016/j.exis.2024.101440.
+(https://www.sciencedirect.com/science/article/pii/S2214790X24000388)
+Abstract: In the effort to rapidly transform the way we use energy, valuable minerals are coming increasingly into high demand. Various metals, such as copper and cobalt, are required to advance new technologies and accelerate the lowering of carbon emissions. However, their extraction often comes with high societal and environmental costs. Therefore, developing ways to extract valuable minerals in a way that benefits global as well as an individual country's sustainability goals and mitigates direct and indirect negative impacts of extraction, is a worthwhile endeavor. Artificial intelligence (AI) enabled applications provide one avenue by which to potentially speed up this process. The question remains, how do we ensure AI is used in an ethical way that benefits communities, societal development, and environmental sustainability in the mining industry? In this article we give an overview of current and potential uses of AI in the mining sector and present some ethical considerations for the use of AI in the industry. We then outline a way forward to a more ethical and sustainable approach to using AI in the mining sector through multi-objective optimization.
+Keywords: Artificial intelligence; Mining industry; Multi-objective optimization; AI Ethics; Sustainability; Global South
+
+Muhammad Zareef, Munazza Jabeen,
+A systematic review of digital curation services in academic libraries: navigating policies, skills and challenges,
+Digital Library Perspectives,
+Volume 41, Issue 3,
+2025,
+Pages 518-543,
+ISSN 2059-5816,
+https://doi.org/10.1108/DLP-10-2024-0158.
+(https://www.sciencedirect.com/science/article/pii/S2059581625000017)
+Abstract: Purpose
+Digital curation is a relatively new field that has acquired a lot of attention in recent years. This new area needs a wide range of resources to develop technological infrastructure, train librarians to overcome challenges and develop policies regarding digital curation services (DCS). The purpose of this review is to provide a more comprehensive and in-depth understanding of DCS in academic libraries in developing countries.
+Design/methodology/approach
+The study used the research approach of “Preferred Reporting Items for Systematic Reviews and Meta-Analyses.” An extensive search was used to utilize the world’s five leading e-databases and digital tools to find the most relevant primary studies, including Web of Science and Scopus. Finally, 25 peer-reviewed research papers were included to perform a systematic literature review.
+Findings
+The study revealed the lack of digital curation policies in the academic libraries of developing countries. Librarians need to enhance their occupational and personal skills to implement DCS. Librarians faced several challenges, such as the absence of policy, a lack of skilled staff, a shortage of financial resources and inadequate technological infrastructure to implement DCS in academic libraries.
+Originality/value
+The study provides theoretical implications by contributing significant literature to the current body of knowledge. It exerts a societal influence by providing suggestions and research gap for the effective implementation of DCS in academic libraries. The study is of paramount importance for librarians, university administration, decision-makers and other stakeholders to implement DCS in academic libraries for lifecycle preservation of digital content to enable library users to access and reuse digital information.
+Keywords: Data curation; Digital curation; Digital preservation; Systematic literature review; Academic libraries
+
+Joonhyeong Park,
+A systematic literature review of generative artificial intelligence (GenAI) literacy in schools,
+Computers and Education: Artificial Intelligence,
+Volume 9,
+2025,
+100487,
+ISSN 2666-920X,
+https://doi.org/10.1016/j.caeai.2025.100487.
+(https://www.sciencedirect.com/science/article/pii/S2666920X25001274)
+Abstract: Given the rapid integration of generative artificial intelligence (GenAI) technologies, such as large language models, into educational contexts, fostering students’ GenAI literacy has become essential. However, previous AI literacy frameworks may inadequately reflect specific competencies necessary for proficient GenAI use. To address this gap, this study aimed to conceptualise a GenAI specific literacy framework tailored explicitly for educational settings and systematically examine recent research trends concerning GenAI literacy. Employing a systematic literature review approach, 51 empirical studies published in 2023 and 2024 were selected and analysed based on five identified competencies of GenAI literacy: (1) know and understand GenAI, (2) use and apply GenAI, (3) evaluate and incorporate GenAI, (4) GenAI ethics, and (5) attitudes towards GenAI. The findings indicate that students demonstrated moderate understanding of GenAI concepts but frequently faced challenges in prompt engineering and critical evaluation of AI-generated outputs. Ethical considerations, particularly related to academic integrity, privacy, and data security, were highlighted as significant concerns. Furthermore, positive student attitudes towards GenAI, including curiosity and self-efficacy, emerged as vital components enhancing engagement with GenAI tools. A five-step interaction model was proposed to help in fostering students' GenAI literacy, emphasising iterative and dynamic engagement with GenAI tools. This study underscores the necessity of explicitly integrating GenAI-specific competencies into educational practices and recommends clear institutional policies, and further empirical research to support the responsible, effective, and reflective use of GenAI in school settings.
+Keywords: Generative artificial intelligence; Generative AI literacy; AI literacy; GenAI literacy; Systematic review
+
+Xiaofan Liu, Baichang Zhong,
+A systematic review on how educators teach AI in K-12 education,
+Educational Research Review,
+Volume 45,
+2024,
+100642,
+ISSN 1747-938X,
+https://doi.org/10.1016/j.edurev.2024.100642.
+(https://www.sciencedirect.com/science/article/pii/S1747938X24000514)
+Abstract: Developing Artificial Intelligence (AI) education in K-12 contexts, i.e., teaching students about AI, is critical to promote students' AI literacy. However, the state-of-the-art of AI education is not clear enough. To this end, this study reviewed 45 high-quality empirical studies on K-12 AI education over the past decade from both research and instruction perspectives. Regarding the research design, this study revealed the relationship between publication year, sample size, learning stage, educational setting, research method, research focus and duration. Regarding the instruction design, this study revealed the relationship between learning stage, pedagogical strategy, learning tool, learning activity, learning content, assessment method and learning effect. Besides, this study also derived recommendations for research (i.e., time allocation, samples selection, longitudinal design, rigorous methodology and technical democracy) and instruction (i.e., group learning, authentic context, teacher involvement, triangular evidence and learning scaffolding). Overall, the main findings indicate that K-12 AI education has the potential to develop students’ AI literacy, which contains AI knowledge, AI affectivity, and AI thinking. However, deficiencies in research and instructional design still remain, including short durations, small sample sizes, non-standardized research methods, lack of long-term and cross-age AI curriculum, etc. This study also discussed several critical topics for future research and instruction.
+Keywords: K-12 education; AI education; AI literacy; Research design; Teaching practice
+
+Belle Li, Yaling Lily Tan, Chaoran Wang, Victoria Lowell,
+Two years of innovation: A systematic review of empirical generative AI research in language learning and teaching,
+Computers and Education: Artificial Intelligence,
+Volume 9,
+2025,
+100445,
+ISSN 2666-920X,
+https://doi.org/10.1016/j.caeai.2025.100445.
+(https://www.sciencedirect.com/science/article/pii/S2666920X25000852)
+Abstract: This systematic review examines the evolution of empirical research on generative AI in language learning and teaching from 2023 to 2024. Following PRISMA guidelines, we analyzed 144 peer-reviewed articles from Web of Science, Scopus, and ERIC databases to explore the field's progression, including identifying new developments, shifts in research priorities, and emerging themes that have arisen compared to the first year. The findings reveal an exponential growth in publications, with a significant shift from primarily exploratory inquiries to more systematic and empirically driven investigations. The analysis identified six main research foci: Perceptions and attitudes, psychological and cognitive aspects, teaching and learning strategies, language skills development, writing and feedback, and implementation and integration. While higher education (86.7 %) and English as Foreign Language contexts (86.1 %) dominated the research landscape, there was notable geographical diversity, with strong representation from East Asia and emerging contributions from the Middle East. Mixed-methods approaches (38.9 %) were prevalent, with increasing incorporation of AI-generated content, multimedia recordings, and digital interaction data from 2023 to 2024. Writing emerged as the primary focus (42.4 %) while speaking, listening, and reading skills received comparatively less attention. This review highlights critical gaps, including limited research in K-12 settings, insufficient longitudinal studies, and the need for more diverse language representation beyond English. These findings suggest the field is maturing but requires broader investigation across educational levels, language domains, and geographical contexts to fully understand the impact of generative AI in language education.
+Keywords: Generative artificial intelligence; Language education; Systematic review; ChatGPT; Empirical research; Language learning and teaching
+
+Janne Fagerlund, Lauri Palsa, Pekka Mertala,
+Exploration of domains of educational purpose in K-12 data literacy education research,
+Educational Research Review,
+Volume 46,
+2025,
+100663,
+ISSN 1747-938X,
+https://doi.org/10.1016/j.edurev.2024.100663.
+(https://www.sciencedirect.com/science/article/pii/S1747938X24000721)
+Abstract: Digital data have an increasingly prominent role in various life sectors, ushering in an importance for data literacy education (DLE) in schools. To better understand the versatile educational purposes in this multifaceted topic for students' well-rounded development, this paper presents an in-depth scrutiny into “what DLE is for” in K-12 education. We utilized Gert Biesta's (2009) holistic account of “good education”, which brings together three interconnected domains—becoming equipped with skills (qualification), becoming a part of social orders (socialization), and becoming the subject of one's own life (subjectification)—to examine prior DLE research and explore how such domains of educational purpose have been portrayed in different ways. Our analysis shows that while there is some need for clarifying meanings of the expressed purposes of DLE, there are recognizable educational goals focused on cultivating data savvy students for present and future societal roles, most notably data-centric professions and coping in everyday data environments. Aims of gaining personal value from data and empowering students for critical engagement with data(fication) were also present to complement DLE in terms of its more subjectification-oriented viewpoints. Overall, intriguing meanings, synergies, and cross-pressures can be identified, calling for the recognition of the pluralistic approaches and cultivation of balance in them to holistically educate students to exist in and with the data-rich world. Further investigations and fundamental discussions about educational emphases in DLE research as well as informed engagement in them in local educational decision-making are encouraged.
+Keywords: Data literacy; Education; Qualification; Socialization; Subjectification
+
+Xiao Tan, Gary Cheng, Man Ho Ling,
+Artificial intelligence in teaching and teacher professional development: A systematic review,
+Computers and Education: Artificial Intelligence,
+Volume 8,
+2025,
+100355,
+ISSN 2666-920X,
+https://doi.org/10.1016/j.caeai.2024.100355.
+(https://www.sciencedirect.com/science/article/pii/S2666920X24001589)
+Abstract: The application of Artificial Intelligence (AI) technology in education is increasingly recognized as a key driver of educational innovation. While extensive literature exists on the integration of AI technologies in educational settings, less emphasis has been placed on the critical role of teachers and their professional development needs. This study systematically reviews research conducted between 2015 and 2024 on teachers' use of AI technology in their teaching and professional development, focusing on the relationship between the supply of professional development opportunities and the demand for AI integration among teachers. Using PRISMA principles and protocols, this review identified and synthesized 95 relevant research articles. The findings reveal a significant imbalance in research focus. Specifically, 65% of the studies examined the application of AI in teaching, including technologies such as conversational AI and related technologies, AI-driven learning and assessment systems, immersive technologies, visual and auditory computing, and teaching and learning analytics. In contrast, only 35% of the studies explored AI's role in enhancing teacher professional development. This review highlights a gap in research addressing the development needs of teachers as they integrate AI technologies into their teaching practices. It emphasizes the need for future research to focus more on the potential of AI in teacher professional development and to investigate how AI technologies can be applied in education from both the perspectives of student learning and teacher instruction. Furthermore, research on AI in professional development should prioritize addressing technological and ethical challenges to ensure the responsible and effective integration of AI in education.
+Keywords: Artificial intelligence (AI); AI in education; Systematic review; Teaching; Professional development
+
+Riordan Alfredo, Vanessa Echeverria, Yueqiao Jin, Lixiang Yan, Zachari Swiecki, Dragan Gašević, Roberto Martinez-Maldonado,
+Human-centred learning analytics and AI in education: A systematic literature review,
+Computers and Education: Artificial Intelligence,
+Volume 6,
+2024,
+100215,
+ISSN 2666-920X,
+https://doi.org/10.1016/j.caeai.2024.100215.
+(https://www.sciencedirect.com/science/article/pii/S2666920X2400016X)
+Abstract: The rapid expansion of Learning Analytics (LA) and Artificial Intelligence in Education (AIED) offers new scalable, data-intensive systems but raises concerns about data privacy and agency. Excluding stakeholders—like students and teachers—from the design process can potentially lead to mistrust and inadequately aligned tools. Despite a shift towards human-centred design in recent LA and AIED research, there remain gaps in our understanding of the importance of human control, safety, reliability, and trustworthiness in the design and implementation of these systems. We conducted a systematic literature review to explore these concerns and gaps. We analysed 108 papers to provide insights about i) the current state of human-centred LA/AIED research; ii) the extent to which educational stakeholders have contributed to the design process of human-centred LA/AIED systems; iii) the current balance between human control and computer automation of such systems; and iv) the extent to which safety, reliability and trustworthiness have been considered in the literature. Results indicate some consideration of human control in LA/AIED system design, but limited end-user involvement in actual design. Based on these findings, we recommend: 1) carefully balancing stakeholders' involvement in designing and deploying LA/AIED systems throughout all design phases 2) actively involving target end-users, especially students, to delineate the balance between human control and automation, and 3) exploring safety, reliability, and trustworthiness as principles in future human-centred LA/AIED systems.
+Keywords: Human-centered AI; Human-centered learning analytics; AI in education; Stakeholders involvement; Education technology; Ethical considerations
+
+Aaron A. Funa, Renz Alvin E. Gabay,
+Policy guidelines and recommendations on AI use in teaching and learning: A meta-synthesis study,
+Social Sciences & Humanities Open,
+Volume 11,
+2025,
+101221,
+ISSN 2590-2911,
+https://doi.org/10.1016/j.ssaho.2024.101221.
+(https://www.sciencedirect.com/science/article/pii/S2590291124004182)
+Abstract: As artificial intelligence becomes increasingly integral to educational systems, understanding policy guidelines and recommendations from various sources is crucial. This meta-synthesis examines AI policies and guidelines from peer-reviewed articles, reports, books, and websites from 2020 to 2024, with a focus on their implications for teaching and learning. Using a thematic analysis approach, the study categorizes findings into key themes and subthemes. Under the theme of policies and guidelines, notable subthemes include ethical AI use, AI literacy, and inclusivity and equity. In terms of implementation strategies, the synthesis identifies crucial areas such as student orientation and professional development, enhanced teaching tools and data-driven insights, improved student learning outcomes and engagement, and streamlined administrative processes. The study also determines practical constraints that challenge the successful integration of AI in education, including technical and integration challenges, training and support issues, ethical and fairness concerns, cost and accessibility, transparency and privacy issues, and misalignment with educational goals. Future research may explore the long-term impacts of AI integration policies and guidelines, refine practical implementation strategies, and foster collaboration among researchers, educators, and policymakers to tackle ongoing challenges and maximize AI's potential in education.
+Keywords: AI ethics; AI integration; AI in education; AI in teaching and learning; Artificial intelligence; ChatGPT
+
+Yukyeong Song, Lauren R. Weisberg, Shan Zhang, Xiaoyi Tian, Kristy Elizabeth Boyer, Maya Israel,
+A framework for inclusive AI learning design for diverse learners,
+Computers and Education: Artificial Intelligence,
+Volume 6,
+2024,
+100212,
+ISSN 2666-920X,
+https://doi.org/10.1016/j.caeai.2024.100212.
+(https://www.sciencedirect.com/science/article/pii/S2666920X24000134)
+Abstract: As artificial intelligence (AI) becomes more prominent in children's lives, an increasing number of researchers and practitioners have underscored the importance of integrating AI as learning content in K-12. Despite the recent efforts in developing AI curricula and guiding frameworks in AI education, the educational opportunities often do not provide equally engaging and inclusive learning experiences for all learners. To promote equality and equity in society and increase competitiveness in the AI workforce, it is essential to broaden participation in AI education. However, a framework that guides teachers and learning designers in designing inclusive learning opportunities tailored for AI education is lacking. Universal Design for Learning (UDL) provides guidelines for making learning more inclusive across disciplines. Based on the principles of UDL, this paper proposes a framework to guide the design of inclusive AI learning. We conducted a systematic literature review to identify AI learning design-related frameworks and synthesized them into our proposed framework, which includes the core component of AI learning content (i.e., five big ideas), anchored by the three UDL principles (the “why,” “what,” and “how” of learning), and six praxes with pedagogical examples of AI instruction. Alongside this, we present an illustrative example of the application of our proposed framework in the context of a middle school AI summer camp. We hope this paper will guide researchers and practitioners in designing more inclusive AI learning experiences.
+Keywords: K-12 AI education; AI learning design; Inclusive learning design; Universal Design for Learning (UDL)
+
+Elochukwu Ukwandu, Omobolanle Omisade, Karl Jones, Simon Thorne, Mike Castle,
+The future of teaching and learning in the context of emerging artificial intelligence technologies,
+Futures,
+Volume 171,
+2025,
+103616,
+ISSN 0016-3287,
+https://doi.org/10.1016/j.futures.2025.103616.
+(https://www.sciencedirect.com/science/article/pii/S0016328725000783)
+Abstract: In the context of emerging artificial intelligence technologies (AI) such as AI-Bots (ChatGPT) and AI-Agents, it is imperative that adequate adjustment be made, and also seen to be made. However, this has to be done from an informed positions. There is no doubt that these disruptive technologies are changing the way we live, conduct our day-to-day businesses, teach, learn and conduct research. There are also emerging concerns that these dynamics may result in a paradigm shift from student-teacher relationship to student-AI-Tutor-based relationship within the academic circle. Besides, there are foreseeable dangers of compromising academic integrity through high-technology plagiarism and the potentials of students avoiding learning through AI deployment and utilisation in their academic pursuits. But something worth considering is how applying these tools in education will potentially change the entire classroom experience of students, their knowledge and skills outcomes that are relevant in this AI era. This position paper is an effort to put into context what the authors of this paper forecast as the future of teaching and learning in the context of these inevitable disruptions to education activities and its subsectors as we currently know it. The authors found it necessary to take these positions to help bring to fore some practical use cases of AI in education; recent developments and theoretical frameworks in literature, technical reports, as well as experts opinions that can help assuage stakeholder’s concerns despite some obvious existing challenges. It is our view that this paper will be found useful by educators, stakeholders and administrators in the areas of curriculum design, classroom administration and entire academic planning and reviews.
+Keywords: Generative artificial intelligence; Prompt technologies; Artificial intelligence; ChatGPT; AI-Agents; Future of teaching and learning; Emerging AI disruptive technologies
+
+Erik Marx, Thiemo Leonhardt, Nadine Bergner,
+Secondary school students' mental models and attitudes regarding artificial intelligence - A scoping review,
+Computers and Education: Artificial Intelligence,
+Volume 5,
+2023,
+100169,
+ISSN 2666-920X,
+https://doi.org/10.1016/j.caeai.2023.100169.
+(https://www.sciencedirect.com/science/article/pii/S2666920X23000486)
+Abstract: With the increasing relevance of Artificial Intelligence (AI) in society, AI literacy is increasingly being integrated into K-12 education. However, students already form conceptions about modern technologies (especially AI) from their interaction with their everyday environment. In this paper, we conduct a systematic scoping review on the emerging research field of secondary school students' mental models and attitudes regarding AI. Our goal is to identify research approaches and uncover research gaps. To achieve this, we reviewed literature published within the timeframe of 2012–2022 found in the ACM, IEEE, ERIC, and Science Direct databases. In total, we identified 18 relevant papers, for which we collected and evaluated research objectives, approaches, results, and areas requiring further investigation. Our findings reveal that most of the literature examined focuses with students' attitudes toward AI and moderating variables. Additionally, there is preliminary research on the types of mental models students possess about AI. Notable research gaps include the absence of development of research instruments for surveying mental models and insufficient research into the impact of learning interventions on the construction of students' mental models.
+Keywords: Artificial intelligence; K-12 education; Mental models; Attitudes; Conceptions; Scoping review
+
+Sreevatsa Bellary, Sobhan Sarkar, Arindra Nath Mishra,
+Generative artificial intelligence for management education: applications, benefits, challenges and future research directions,
+International Journal of Educational Management,
+Volume 39, Issue 5,
+2025,
+Pages 1217-1239,
+ISSN 0951-354X,
+https://doi.org/10.1108/IJEM-10-2024-0653.
+(https://www.sciencedirect.com/science/article/pii/S0951354X25000390)
+Abstract: Purpose
+Generative artificial intelligence (GenAI) has received significant traction in recent years for its ability to generate content based on human inputs. The aim of this study is to examine the existing literature on GenAI in management education by conducting a combination of bibliometric analysis and systematic literature review and provide future research directions, which can help management educators to train management students who are potential future managers.
+Design/methodology/approach
+Utilizing a total of 141 articles obtained from multiple databases, this study conducts a systematic literature review and synthesizes the existing literature on GenAI across management functions and industries. Further, this study provides future research directions specific to each group that will help in the advancement of context-specific management education.
+Findings
+The study synthesized the applications, benefits, challenges and future research directions of GenAI across different management domains, including marketing, finance and accounting, operations and human resource management. Overall, the study found that GenAI can promote academic performance enhancement, personalized learning, programming skills development, improved student motivation and effective learning.
+Originality/value
+The study provides an avenue for management education teachers to train their students in multiple management domains to get a comprehensive idea about the current work on GenAI in that particular domain, using which they can proceed to work in the domain. For management students who are potential emerging managers, the results of the study provide a comprehensive overview of the applications of GenAI across various management verticals, which provides a basis for benchmarking against the applications of GenAI.
+Keywords: Generative artificial intelligence; Management education; Systematic literature review; Artificial intelligence
+
+Rana Taheri, Neda Nazemi, Sarah E. Pennington, Jason A. Clark, Faraz Dadgostari,
+Factors influencing educators' AI adoption: A grounded meta-analysis review,
+Computers and Education: Artificial Intelligence,
+Volume 9,
+2025,
+100464,
+ISSN 2666-920X,
+https://doi.org/10.1016/j.caeai.2025.100464.
+(https://www.sciencedirect.com/science/article/pii/S2666920X25001043)
+Abstract: Artificial Intelligence (AI) is rapidly reshaping educational practices, yet educators' adoption of AI varies. This paper utilized a grounded meta-analysis framework of 45 peer-reviewed articles published between 2020 and 2024, including qualitative, quantitative, mixed-method, and social media (X) studies, to examine factors influencing educators' AI adoption. Four primary categories emerged from coding the papers: Individual Factors (demographics, AI literacy, beliefs, and self-efficacy), Infrastructure (institutional support, resource availability, social influence, and media narratives), Tools (perceived usefulness, ease of use, compatibility, transparency, bias, and reliability), and Impacts (concerns about overdependence, job security, and potential misuse). X-data paper findings also indicated that educators generally view AI positively but express notable concerns regarding trust, transparency, and ethical implications, highlighting the necessity for improved AI literacy. This study moreover revealed that although common technology adoption frameworks (e.g., TAM, UTAUT) frequently informed the analyses, these models inadequately address the unique ethical, pedagogical, institutional, and technical complexities specific to AI. The findings offer valuable insights for educators, educational institutions, and AI developers by pinpointing these critical factors. Key recommendations include providing robust institutional support, establishing transparent AI usage policies, and offering targeted professional development opportunities. Implementing these strategies will enhance educators' confidence and ensure the responsible and ethical integration of AI into educational settings, ultimately maximizing AI's potential to positively transform education.
+Keywords: Artificial intelligence in education (AIEd); Educators' AI adoption; AI literacy; Grounded meta-analysis
+
+Hui Liu, Qingshan Zhou, Shuang Liang,
+Digital inclusion in public services for vulnerable groups: A systematic review for research themes and goal-action framework from the lens of public service ecosystem theory,
+Government Information Quarterly,
+Volume 42, Issue 2,
+2025,
+102019,
+ISSN 0740-624X,
+https://doi.org/10.1016/j.giq.2025.102019.
+(https://www.sciencedirect.com/science/article/pii/S0740624X25000139)
+Abstract: Ensuring access to digital public services for vulnerable groups is a critical issue in digital government and digital inclusion research. Mapping the research trajectory in this domain is essential for fostering a systematic understanding among scholars and policymakers. Guided by the updated 2020 PRISMA statement, this study conducts a systematic literature review following five steps: database identification, search strategy development, article selection, data extraction, and synthesis and analysis. Three databases including Web of Science, Scopus and DGRL are searched for peer-reviewed empirical studies published from 2014 or later. Using the Public Service Ecosystem theory as a theoretical lens, this study makes two key contributions: analyzing the distribution of research themes and developing a goal-action framework. This framework not only refines the concept of digital inclusion in public services but also serves as a practical guide for stakeholders.
+Keywords: Vulnerable groups; Digital public services; Digital inclusion; Goal-action framework; Public service ecosystem; Literature review
+
+Marina Belkina, Scott Daniel, Sasha Nikolic, Rezwanul Haque, Sarah Lyden, Peter Neal, Sarah Grundy, Ghulam M. Hassan,
+Implementing generative AI (GenAI) in higher education: A systematic review of case studies,
+Computers and Education: Artificial Intelligence,
+Volume 8,
+2025,
+100407,
+ISSN 2666-920X,
+https://doi.org/10.1016/j.caeai.2025.100407.
+(https://www.sciencedirect.com/science/article/pii/S2666920X25000475)
+Abstract: The introduction of Generative Artificial Intelligence (GenAI) tools, like ChatGPT, into higher education heralds a transformative era, reshaping instructional methods, enhancing student support systems, and redefining the educational landscape. Recent literature reviews on GenAI highlight a lack of focus on how these tools are being practically implemented in educational settings. Addressing this gap, the present study systematically examines empirical case studies that demonstrate the integration of GenAI into teaching and learning in higher education, offering actionable insights and guidance for academic practice. We conducted a search of relevant databases and identified 21 empirical studies that met our inclusion criteria. The selected studies cover a diverse range of disciplines, locations, types of participants (from first-year students to postgraduates and academics), and a variety of methodologies. We classified the selected publications based on the pedagogic theory of Laurillard's Conversational Framework (LCF) and the Substitution, Augmentation, Modification, and Redefinition (SAMR) framework. We also synthesized definitions from selected empirical studies and recent research exploring Technological Pedagogical Content Knowledge (TPACK) in the age of GenAI, providing a comprehensive understanding of GenAI-TPACK factors. Limitations and future research opportunities are also discussed. The paper concludes by providing a GenAI-TPACK diagram to guide educators in effectively incorporating GenAI tools into their teaching practices, ensuring responsible and impactful use in higher education.
+Keywords: Generative AI; Education; GenAI; Case study; University; Implementation
+
+Isaac Amankwaa, Emmanuel Ekpor, Daniel Cudjoe, Emmanuel Kobiah, Abdul-Karim Jebuni Fuseini, Maximous Diebieri, Sebastian Gyamfi, Sharon Brownie,
+Patterns, advances, and gaps in using ChatGPT and similar technologies in nursing education: A PAGER scoping review,
+Nurse Education Today,
+Volume 153,
+2025,
+106822,
+ISSN 0260-6917,
+https://doi.org/10.1016/j.nedt.2025.106822.
+(https://www.sciencedirect.com/science/article/pii/S0260691725002588)
+Abstract: Background and aim
+Generative AI (GenAI) can transform nursing education and modernise content delivery. However, the rapid integration of these tools has raised concerns about academic integrity and teaching quality. Previous reviews have either looked broadly at artificial intelligence or focused narrowly on single tools like ChatGPT. This scoping review uses a structured framework to identify patterns, advances, gaps, evidence, and recommendations for implementing GenAI in nursing education.
+Methods
+This scoping review followed the JBI methodology and PRISMA-ScR guidelines. We searched PubMed, CINAHL, SCOPUS, ERIC, and grey literature (October to November 2024). Data synthesis utilised the PAGER framework as a mapping tool to organise and describe patterns, advances, gaps, evidence for practice, and recommendations.
+Results
+Analysis of 107 studies revealed GenAI implementation across four key domains: assessment and evaluation, clinical simulation, educational content development, and faculty/student support. Three distinct implementation patterns emerged: restrictive, integrative, and hybrid approaches, with hybrid models demonstrating superior adoption outcomes. Technical advances showed significant improvement from GPT-3.5 (75.3 % accuracy) to GPT-4 (88.67 % accuracy) in NCLEX-style assessments, with enhanced capabilities in multilingual assessment, clinical scenario generation, and adaptive content creation. Major gaps included limited methodological rigour (29.0 % of empirical studies), inconsistent quality control, verification challenges, equity concerns, and inadequate faculty training. Geographic distribution showed North American (42.1 %) and Asian (29.9 %) dominance, with ChatGPT representing 83.2 % of tool implementations. Key recommendations include developing institutional policies, establishing quality verification protocols, enhancing faculty training programs, and addressing digital equity concerns to optimise GenAI integration in nursing education.
+Conclusions
+GenAI has transformative potential in nursing education. To realise its full potential and ensure responsible use, research should focus on developing standardised governance frameworks, empirically validating outcomes, developing faculty in AI literacy, and improving technical infrastructure for low-income contexts. Such efforts should involve international collaboration, highlighting the importance of the audience's role in the global healthcare community.
+Keywords: ChatGPT; Nursing education; Generative AI; Artificial Intelligence; PAGER framework; Scoping review; Educational technology
+
+Ming Ma, Davy Tsz Kit Ng, Zhichun Liu, Gary K.W. Wong,
+Fostering responsible AI literacy: A systematic review of K-12 AI ethics education,
+Computers and Education: Artificial Intelligence,
+Volume 8,
+2025,
+100422,
+ISSN 2666-920X,
+https://doi.org/10.1016/j.caeai.2025.100422.
+(https://www.sciencedirect.com/science/article/pii/S2666920X25000621)
+Abstract: AI ethics education remains significantly underprioritized in classroom practice, despite the global push for AI literacy in K-12 curricula. This systematic review analyzes 68 peer-reviewed publications (from January 2014 to March 2025) to map the research landscape of K-12 AI ethics education. The results reveal global trends in the current research landscape, pedagogical designs addressing major responsible AI (RAI) principles, and various learning assessment methods, and students’ ethical learning outcomes manifested across cognitive, affective, and behavioral domains. By further synthesizing findings, we identify disparities of eastern and western contexts, gaps in addressing RAI principles and emerging ethical issues, limitations of methodological methods, and issues in assessing ethical learning outcomes. Building on this synthesis, we propose a competency-based responsible AI literacy framework that reconceptualizes AI ethics as a transformative learning dimension that progressively permeates all the learning dimensions of AI literacy development. The framework also provides actionable insights to empower K-12 educators and policymakers in fostering students' responsible AI literacy. The review concludes with three future research directions to advance this critical field.
+Keywords: AI ethics education; K-12 literacy; Responsible AI; Systematic review
+
+Tim Fütterer, Patricia Goldberg, Babette Bühler, Vlasta Sikimić, Ulrich Trautwein, Peter Gerjets, Kathleen Stürmer, Enkelejda Kasneci,
+Artificial intelligence in classroom management: A systematic review on educational purposes, technical implementations, and ethical considerations,
+Computers and Education: Artificial Intelligence,
+Volume 9,
+2025,
+100483,
+ISSN 2666-920X,
+https://doi.org/10.1016/j.caeai.2025.100483.
+(https://www.sciencedirect.com/science/article/pii/S2666920X25001237)
+Abstract: Artificial intelligence (AI) is increasingly shaping education, including classroom management. This systematic review analyzes 104 studies (2000–2022) on the use of AI in classroom management, focusing on educational purposes, technical implementations, and ethical considerations. Our findings show a growing use of AI technologies—particularly machine learning and deep learning—for tasks such as attendance tracking, behavior monitoring, and engagement assessment. These tools can streamline classroom management and offer detailed insights into student behavior. However, only a minority of studies leveraged AI's full potential, such as real-time feedback or multimodal data. Ethical issues, particularly privacy, data security, and algorithmic bias, were often underreported: only 22 % of studies addressed ethical concerns, and just 13 % implemented privacy-preserving measures. Our review underscores the importance of balancing technological innovation with ethical responsibility. It offers a comprehensive overview of AI's current applications and highlights future challenges and directions for responsible AI use in classrooms.
+Keywords: Artificial intelligence; Classroom management; Attention; Ethics; Multimodal data
+
+Zhu Yuxuan, Wan Mohd Hirwani Wan Hussain,
+Artificial intelligence (AI) awareness (2019–2025): A systematic literature review using the SPAR-4-SLR protocol,
+Social Sciences & Humanities Open,
+Volume 12,
+2025,
+101870,
+ISSN 2590-2911,
+https://doi.org/10.1016/j.ssaho.2025.101870.
+(https://www.sciencedirect.com/science/article/pii/S2590291125005984)
+Abstract: Artificial intelligence is rapidly transforming society, necessitating comprehensive understanding of stakeholder awareness across cognitive, behavioral, and ethical dimensions. This systematic review examines the evolution of AI awareness research and identifies critical knowledge gaps for future investigation. Using the SPAR-4-SLR protocol augmented by the Seven Research Gaps framework, we analyzed 71 peer-reviewed papers from 2019 to 2025 through integrated theoretical lenses. Results reveal overwhelming emphasis on workforce dynamics in developed regions, with 61 % of studies concentrated in China and the United States, while consumers, investors, and emerging economies remain neglected. We establish AI awareness as a dynamic consciousness process preceding technology adoption behavioral decisions and identify "job insecurity" as a dominant theme, alongside systematic ethical deficits in 83 % of studies. Geographic bias toward technologically advanced countries and disciplinary fragmentation limit research generalizability. The findings necessitate international AI governance frameworks, mandatory literacy programs, and standardized assessment tools to ensure equitable global AI adoption and bridge existing technological divides.
+Keywords: AI awareness; Human-AI collaboration; Behavioral theory; Cross-cultural AI; SPAR-4-SLR
+
+Yang Yan, Bosede Iyiade Edwards, Mageswaran Sanmugam,
+Scientometric analysis of emerging trends and research landscape of ERNIE Bot's potentials as an educational tool: A mixed method study of a large language model,
+Social Sciences & Humanities Open,
+Volume 12,
+2025,
+101729,
+ISSN 2590-2911,
+https://doi.org/10.1016/j.ssaho.2025.101729.
+(https://www.sciencedirect.com/science/article/pii/S2590291125004577)
+Abstract: This paper presents findings from a mixed-method analysis of a generative AI tool, ERNIE Bot's research status and role in education based on research from 2019–May 2025. Leveraging scientometric analysis, the study explored a combination of bibliometric and discourse analyses to uncover trends and language use. Using the PRISMA model, 147 publications from Scopus database were analyzed and insights from CiteSpace and VOSviewer were combined with thematic analysis. Findings indicate that Chinese researchers, and China-based funding bodies are the most prominent in ERNIE-bot-related research with all the top 5 countries concentrated in the global north. Top themes include ‘Natural Language Model’, ‘Semantics’, and ‘Human’. Topmost publishers were Applied Sciences (Switzerland), IEEE Access and PLOS ONE with top average citations by Sensors (12.67 citations/publication). The study confirms Bradford and Price laws. ERNIE Bot's application in education has attracted notable attention, with 22.4 % of the analyzed studies focusing on this area, highlighting its strong potential in personalized learning and human-computer interaction. Findings from discourse analysis shows that it’s Chinese origin is often framed as a symbol of contextual leadership and basis for positioning ERNIE Bot as a key player in China's technological competition with global models like ChatGPT. ERNIE Bot's strengths in Chinese language processing and innovations are also highlighted regarding power relations and knowledge hierarchies. However, ERNIE Bot lags global counterparts in overall competitiveness; limitations in data diversity, political censorship, and accessibility further restricts its global applicability. Future research should explore ERNIE Bot's knowledge base, its educational potentials, especially in adaptive learning systems and the significance of contextual leadership as an educational technology.
+Keywords: Generative AI; AI in education; Scientometric analysis; Bibliometric analysis; ERNIE Bot; PRISMA model
+
+Taoufik Boulhrir, Mahmoud Hamash,
+Unpacking artificial intelligence in elementary education: A comprehensive thematic analysis systematic review,
+Computers and Education: Artificial Intelligence,
+Volume 9,
+2025,
+100442,
+ISSN 2666-920X,
+https://doi.org/10.1016/j.caeai.2025.100442.
+(https://www.sciencedirect.com/science/article/pii/S2666920X25000827)
+Abstract: Artificial Intelligence (AI) has gained much research interest recently and is rapidly transforming education around the world. However, there is still limited research with regards to its applications and effects on learning, in comparison to the available studies conducted at higher levels of education. This paper presents a systematic literature review conducted following the Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) guidelines. It explores the geographical distribution and frequency of research on AI in elementary education between 2013 and 2023. It provides an analysis of the various educational areas in which AI has been applied, and it synthesizes reported benefits and challenges, culminating in recommendations for future research. This analysis shows a growing interest in exploring perspectives around using AI in teaching and learning, spotlighting, in the meantime, significant research gaps, including the long-term effects on child development, privacy issues, and role of the teacher in the classroom. Hence, AI's potential to enhance educational experiences is evident, though more research is needed to address ethical concerns and ensure responsible implementation. Recommendations include further investigation into AI's impact on student learning outcomes and teacher roles and the development of comprehensive ethical frameworks for AI use in schools.
+Keywords: Artificial intelligence; Elementary education; Ed-Tech; Educational AI; AI ethics; Future of education
+
+Priyadarshini R. Pennathur, Valerie Boksa, Arunkumar Pennathur, Andrew Kusiak, Beth A. Livingston,
+The future of office and administrative support occupations in the era of artificial intelligence: A state of the art review and future research directions,
+International Journal of Industrial Ergonomics,
+Volume 104,
+2024,
+103665,
+ISSN 0169-8141,
+https://doi.org/10.1016/j.ergon.2024.103665.
+(https://www.sciencedirect.com/science/article/pii/S0169814124001215)
+Abstract: The U.S. Bureau of Labor Statistics projects that by the year 2029, the United States will lose a million jobs in the office and administrative support occupations because technology, automation, and artificial intelligence (AI) have the potential to substitute or replace the office and administrative functions performed by office workers. Despite the potential impact AI will have on office work and the important role office workers play in the American economy, we have limited knowledge of the state of the art research in office work at the intersection of emerging artificial intelligence technologies. In this study, we conducted a bibliometric analysis of the scholarly literature at the intersection of office work, office automation and artificial intelligence. We extracted literature sources from Compendex and Scopus databases and used VOSviewer for visualizing and quantifying our bibliometric analyses. Our findings from keywords analysis indicate that office automation, humans, human-computer interaction, and artificial intelligence occurred more frequently in the scholarly literature and had high link strengths. Keyword clusters from co-occurrence analysis indicate that intelligent buildings, robotics, and the internet of things are emerging topics in the office work domain. The two clusters related to ergonomics, worker characteristics, human performance, and safety indicate the types of human factors concerns that are more widely studied in office work settings. In summary, our findings on the state-of-the-art research in office work indicate that more studies have been conducted on smart buildings, robotics, and technology development for office work, compared to studies on office workers and their professional development.
+Relevance to industry
+This review on the state-of-the-art in research on office work is relevant in every industry that has the potential to undergo significant changes due to AI in the future.
+Keywords: Office work; Artificial intelligence; Bibliometrics; Digital transformation; Future work
+
+Naya Abdallah, Rateb Katmah, Kinda Khalaf, Herbert F. Jelinek,
+Systematic review of ChatGPT in higher education: Navigating impact on learning, wellbeing, and collaboration,
+Social Sciences & Humanities Open,
+Volume 12,
+2025,
+101866,
+ISSN 2590-2911,
+https://doi.org/10.1016/j.ssaho.2025.101866.
+(https://www.sciencedirect.com/science/article/pii/S2590291125005947)
+Abstract: The rapid evolution of artificial intelligence (AI)-based chatbots has significantly influenced higher education in the last couple of years, with large language models (LLMs), such as OpenAI's ChatGPT, emerging as transformative tools. ChatGPT is actively and widely adopted for academic applications, including tutoring, essay drafting, content clarification, and feedback generation. While its integration into educational settings offers numerous advantages, from enhancing learning outcomes and reducing test anxiety to fostering engagement and collaboration, it raises concerns regarding academic integrity, critical thinking, and over-reliance on AI-generated content. This paper presents a systematic review of existing literature on using ChatGPT in higher education, following a PRISMA-based methodology to analyze 39 studies published between 2023 and 2024. The review synthesizes findings across five key dimensions: academic performance, mental health, second-language learners, social influence, and inspiration. The results indicate that while ChatGPT improves accessibility to knowledge and provides cognitive and emotional support, its misuse may hinder independent learning and increase technostress. Furthermore, this review explores ethical and policy considerations surrounding ChatGPT's adoption, emphasizing the need for balanced integration strategies. Key recommendations include institutional guidelines, AI literacy initiatives, and frameworks for ethical integration. This review offers critical insights for educators, policymakers, and researchers seeking to navigate the evolving academic landscape shaped by AI.
+Keywords: ChatGPT; Higher education; Academic performance; Mental health; Student engagement
+
+Jiahong Su, Yuchun Zhong, Davy Tsz Kit Ng,
+A meta-review of literature on educational approaches for teaching AI at the K-12 levels in the Asia-Pacific region,
+Computers and Education: Artificial Intelligence,
+Volume 3,
+2022,
+100065,
+ISSN 2666-920X,
+https://doi.org/10.1016/j.caeai.2022.100065.
+(https://www.sciencedirect.com/science/article/pii/S2666920X22000200)
+Abstract: Artificial intelligence (AI) teaching is becoming an increasingly popular topic among educators and researchers, but the research on AI curriculum for K-12 classrooms was under-explored. Currently, most studies examine the curriculum content of the United States and the European countries. However, there has been limited research on AI learning design and activities in the Asia-Pacific region. This meta-review examined 14 research papers on AI curriculum for K-12 classrooms that were taken in the Asia-Pacific region from 2018 to 2021 by identifying the content knowledge, tools, platforms, activities, theories and models, assessment methods, and learning outcomes of the selected studies. The results indicated that AI curricula can develop students' AI knowledge and skills, learning attitudes, and interests. Furthermore, the research on AI education was conducted using both qualitative and quantitative methods which are useful for future educators and researchers to understand how they assess students’ AI learning performance. We also derive a set of implications for innovative pedagogical designs in terms of educational standards, curriculum designs, formal/informal education, student learning outcomes, teacher professional development and learning progressions to recommend how governments, researchers and educators could build a widely-accepted and age-appropriate AI curriculum for all K-12 learners.
+Keywords: AI teaching; AI literacy; K-12 education; Curriculum; Asia
+
+Julien Prégent, Van-Han-Alex Chung, Inès El Adib, Marie Désilets, Alexandre Hudon,
+Applications of Artificial Intelligence in Psychiatry and Psychology Education: Scoping Review,
+JMIR Medical Education,
+Volume 11,
+2025,
+,
+ISSN 2369-3762,
+https://doi.org/10.2196/75238.
+(https://www.sciencedirect.com/science/article/pii/S2369376225000911)
+Abstract: Background
+Artificial intelligence (AI) is increasingly integrated into health care, including psychiatry and psychology. In educational contexts, AI offers new possibilities for enhancing clinical reasoning, personalizing content delivery, and supporting professional development. Despite this emerging interest, a comprehensive understanding of how AI is currently used in mental health education, and the challenges associated with its adoption, remains limited.
+Objective
+This scoping review aimed to identify and characterize current applications of AI in the teaching and learning of psychiatry and psychology. It also sought to document reported facilitators of and barriers to the integration of AI within educational contexts.
+Methods
+A systematic search was conducted across 6 electronic databases (MEDLINE, PubMed, Embase, PsycINFO, EBM Reviews, and Google Scholar) from inception to October 2024. The review followed Preferred Reporting Items for Systematic Reviews and Meta-Analyses Extension for Scoping Reviews (PRISMA-ScR) guidelines. Studies were included if they focused on psychiatry or psychology, described the use of an AI tool, and discussed at least 1 facilitator of or barrier to its use in education. Data were extracted on study characteristics, population, AI application, educational outcomes, facilitators, and barriers. Study quality was appraised using several design-appropriate tools.
+Results
+From 6219 records, 10 (0.2%) studies met the inclusion criteria. Eight categories of AI applications were identified: clinical decision support, educational content creation, therapeutic tools and mental health monitoring, administrative and research assistance, natural language processing (NLP), program/policy development, students’ study aid, and professional development. Key facilitators included the availability of AI tools, positive learner attitudes, digital infrastructure, and time-saving features. Barriers included limited AI training, ethical concerns, lack of digital literacy, algorithmic opacity, and insufficient curricular integration. The overall methodological quality of included studies was moderate to high.
+Conclusions
+AI is being used across a range of educational functions in psychiatry and psychology, from clinical training to assessment and administrative support. Although the potential for enhancing learning outcomes is clear, its successful integration requires addressing ethical, technical, and pedagogical barriers. Future efforts should focus on AI literacy, faculty development, and institutional policies to guide responsible and effective use. This review underscores the importance of interdisciplinary collaboration to ensure the safe, equitable, and meaningful adoption of AI in mental health education.
+Keywords: artificial intelligence; medical education; psychiatry education; psychology education; machine learning; digital health; chatbot; clinical decision support; e-learning; mental health training
+
+Carl Preiksaitis, Christian Rose,
+Opportunities, Challenges, and Future Directions of Generative Artificial Intelligence in Medical Education: Scoping Review,
+JMIR Medical Education,
+Volume 9,
+2023,
+,
+ISSN 2369-3762,
+https://doi.org/10.2196/48785.
+(https://www.sciencedirect.com/science/article/pii/S2369376223000697)
+Abstract: Background
+Generative artificial intelligence (AI) technologies are increasingly being utilized across various fields, with considerable interest and concern regarding their potential application in medical education. These technologies, such as Chat GPT and Bard, can generate new content and have a wide range of possible applications.
+Objective
+This study aimed to synthesize the potential opportunities and limitations of generative AI in medical education. It sought to identify prevalent themes within recent literature regarding potential applications and challenges of generative AI in medical education and use these to guide future areas for exploration.
+Methods
+We conducted a scoping review, following the framework by Arksey and O'Malley, of English language articles published from 2022 onward that discussed generative AI in the context of medical education. A literature search was performed using PubMed, Web of Science, and Google Scholar databases. We screened articles for inclusion, extracted data from relevant studies, and completed a quantitative and qualitative synthesis of the data.
+Results
+Thematic analysis revealed diverse potential applications for generative AI in medical education, including self-directed learning, simulation scenarios, and writing assistance. However, the literature also highlighted significant challenges, such as issues with academic integrity, data accuracy, and potential detriments to learning. Based on these themes and the current state of the literature, we propose the following 3 key areas for investigation: developing learners’ skills to evaluate AI critically, rethinking assessment methodology, and studying human-AI interactions.
+Conclusions
+The integration of generative AI in medical education presents exciting opportunities, alongside considerable challenges. There is a need to develop new skills and competencies related to AI as well as thoughtful, nuanced approaches to examine the growing use of generative AI in medical education.
+Keywords: medical education; artificial intelligence; ChatGPT; Bard; AI; educator; scoping; review; learner; generative
+
+Walaa Badawy, Mostafa Shaban, Haithm Zinhom,
+Artificial intelligence in nursing practice and education: A 10-year bibliometric analysis of trends, gaps and emerging frontiers,
+Nurse Education in Practice,
+Volume 88,
+2025,
+104554,
+ISSN 1471-5953,
+https://doi.org/10.1016/j.nepr.2025.104554.
+(https://www.sciencedirect.com/science/article/pii/S1471595325003117)
+Abstract: Aim
+To conduct a bibliometric analysis of global research on Artificial Intelligence (AI) in nursing (2014–2024), identifying publication trends, influential contributors and emerging themes.
+Background
+Although AI adoption in medicine is widely studied, its integration into nursing practice, education and professional identity remains limited. Bibliometric mapping helps clarify research trajectories and priorities.
+Design
+A descriptive bibliometric study.
+Methods
+Publications were retrieved from Web of Science, Scopus and PubMed/MEDLINE (2014–2024). After deduplication, 2225 records were analyzed. Descriptive statistics were performed in Excel and VOSviewer (v.1.6.20) was used for co-authorship, co-citation and keyword co-occurrence analyses. Synonyms were harmonized and author keywords prioritized.
+Results
+Annual publications grew from 38 in 2014–563 in 2024. The most active journals were CIN: Computers, Informatics, Nursing and Nurse Education in Practice. Leading contributors included Topaz, Lopez and Bowles, with the United States, China and Canada producing most publications. Co-citation analysis underscored foundations in nursing informatics, while recent work emphasized AI literacy, ethics and education. Keyword clustering revealed five domains: predictive analytics, decision support, nursing education, advanced techniques and ethics/equity.
+Conclusions
+AI in nursing has expanded from informatics toward practice, education and governance. Future research should prioritize outcome-based evaluations, curricular integration and ethical frameworks to align AI with nursing’s relational values
+Keywords: Artificial intelligence; Nursing; Bibliometric analysis; Nursing education; Clinical decision support; Ethics
+
+Jiahong Su, Weipeng Yang,
+Artificial intelligence in early childhood education: A scoping review,
+Computers and Education: Artificial Intelligence,
+Volume 3,
+2022,
+100049,
+ISSN 2666-920X,
+https://doi.org/10.1016/j.caeai.2022.100049.
+(https://www.sciencedirect.com/science/article/pii/S2666920X22000042)
+Abstract: Artificial intelligence (AI) tools are increasingly being used in the field of early childhood education (ECE) to enhance learning and development among young children. Previous proof-of-concept studies have demonstrated that AI can effectively improve teaching and learning in ECE; however, there is a scarcity of knowledge about how these studies are conducted and how AI is used across these studies. We conducted this scoping review to evaluate, synthesize and display the latest literature on AI in ECE. This review analyzed 17 eligible studies conducted in different countries from 1995 to 2021. Although few studies on this critical issue have been found, the existing references provide up-to-date insights into different aspects (knowledge, tools, activities, and impacts) of AI for children. Most studies have shown that AI has significantly improved children's concepts regarding AI, machine learning, computer science, and robotics and other skills such as creativity, emotion control, collaborative inquiry, literacy skills, and computational thinking. Future directions are also discussed for researching AI in ECE.
+Keywords: Artificial intelligence; Early childhood education; Teaching and learning; Machine learning; Computer science
+
+Yu Cui, Yaru Meng, Lingjie Tang,
+Reconsidering teacher assessment literacy in GenAI-enhanced environments: A scoping review,
+Teaching and Teacher Education,
+Volume 165,
+2025,
+105163,
+ISSN 0742-051X,
+https://doi.org/10.1016/j.tate.2025.105163.
+(https://www.sciencedirect.com/science/article/pii/S0742051X25002409)
+Abstract: Generative AI (GenAI) in educational assessment is an emerging field where the necessary competencies teachers need yet to be fully defined. This scoping review analyzes 70 papers to explore themes related to teacher assessment literacy (AL) in GenAI-enhanced environments (TALiGAI). The study identifies key competencies, including knowledge, cognition, emotion, and contextual factors, which are essential for integrating GenAI into assessment practices. It highlights the challenges and opportunities associated with GenAI, emphasizing the need for targeted professional development for teachers. The findings also provide insights into the necessary competencies and inform policy-making to support the effective use of GenAI in educational assessments.
+Keywords: Teacher assessment literacy; Generative AI; Scoping review; Digital assessment; AI in education; Assessment in education
+
+Francesco Borgesano, Annarita De Maio, Pasquale Laghi, Roberto Musmanno,
+Artificial intelligence and justice: a systematic literature review and future research perspectives on Justice 5.0,
+European Journal of Innovation Management,
+Volume 28, Issue 11,
+2025,
+Pages 349-385,
+ISSN 1460-1060,
+https://doi.org/10.1108/EJIM-01-2025-0117.
+(https://www.sciencedirect.com/science/article/pii/S1460106025000057)
+Abstract: Purpose
+This study aims to provide a systematic literature review on the intersection of artificial intelligence (AI) and justice, analysing the evolution of AI driven innovation in the legal sector within the Justice 5.0 paradigm. The research classifies existing literature into three main discussion topics – predictive justice, human–machine combination and robot judges – through a multidisciplinary approach that includes technological, ethical and legal perspectives. By exploring AI’s transformative role, this study highlights the innovative integration of technology in legal decision-making and policy development.
+Design/methodology/approach
+The research follows the PRISMA methodology to systematically review 140 relevant papers from the Scopus database. It combines qualitative and quantitative analyses, including bibliometric mapping, visualization techniques and bibliographic coupling. A theory-building approach is adopted to identify key trends, challenges and opportunities in AI-driven innovation, emphasizing its impact on modern judicial systems.
+Findings
+The review highlights the increasing innovation in legal processes through AI applications, offering enhanced efficiency and predictive capabilities while raising ethical concerns regarding bias, transparency and human oversight. The findings categorize AI-based innovations in justice into three key areas: (1) predictive justice, where AI tools analyse jurisprudential data to support legal decision-making; (2) human–machine collaboration, where AI enhances legal professionals’ efficiency in case management and legal research and (3) the concept of robot judges, which explores the potential and limitations of fully automated legal decisions. The study also emphasizes the transition from Justice 4.0 to Justice 5.0, promoting human-centred AI innovation in judicial systems.
+Research limitations/implications
+While this study comprehensively maps AI-driven innovations in justice, the rapid evolution of AI technologies may introduce new developments beyond the scope of this review. Future research should focus on empirical studies to assess the real-world effectiveness and fairness of AI-driven legal innovation.
+Practical implications
+The findings offer valuable insights for policymakers, legal practitioners and AI developers, guiding the responsible implementation of AI innovations in justice systems. Understanding the interplay between technological innovation and law is crucial for ensuring transparent and equitable legal decision-making.
+Social implications
+The integration of AI-based innovations in justice potentially improves legal accessibility and efficiency while also posing risks related to algorithmic bias and the erosion of human judicial discretion. Addressing these concerns is vital for fostering trust in AI-assisted legal frameworks.
+Originality/value
+This work contributes to the literature by offering a systematic classification of AI-based innovations in justice, providing a structured overview of technological advancements and ethical concerns. It establishes a foundational reference for future research and policymaking, highlighting critical challenges and opportunities in AI-enhanced legal innovation.
+Keywords: Artificial intelligence; Innovation processes; E-Justice; Robot judge; Due process; Machine learning; Justice 4.0; Justice 5.0; Society 5.0
+
+Iris Heung Yue Yim,
+A critical review of teaching and learning artificial intelligence (AI) literacy: Developing an intelligence-based AI literacy framework for primary school education,
+Computers and Education: Artificial Intelligence,
+Volume 7,
+2024,
+100319,
+ISSN 2666-920X,
+https://doi.org/10.1016/j.caeai.2024.100319.
+(https://www.sciencedirect.com/science/article/pii/S2666920X2400122X)
+Abstract: Artificial intelligence (AI) literacy education mainly targets secondary and university students, often overlooking the unique needs of younger students. This gap in AI literacy primary school education presents theoretical and pedagogical challenges. Despite the pervasive influence of AI, which can exacerbate inequalities and raise ethical challenges, primary students often lack an understanding of AI principles and mechanisms. Recent developments in age-appropriate AI learning tools have extended AI literacy to primary schools, but AI literacy frameworks for this age group remain underdeveloped. This study aims to conceptualize AI literacy by analyzing existing theoretical frameworks and proposing a new inclusive AI literacy framework for young students. A scoping review is employed using four credible index databases, and 19 articles are selected, with 17 AI literacy frameworks identified across all educational levels, from early childhood to university. This study reveals that the predominant methodologies for developing AI literacy frameworks involve empirical research studies and literature reviews, adhering to national government or institutional standards. These frameworks commonly incorporate 1) Bloom's taxonomy or a similar progression framework, such as Use-Create-Modify, 2) constructionism, and 3) computer science perspectives such as theories of computation. The findings reveal that AI literacy is situated at the intersection of digital literacy, data literacy, computational thinking, and AI ethics, emphasizing the need for a transdisciplinary and interdisciplinary approach that encompasses both technological and societal impacts. However, the study argues that the current paradigms of AI literacy frameworks for young students often emphasize constructionist perspectives without fully considering the interactions between human and technological agents. This gap highlights the necessity for a new conceptual framework that acknowledges both human and non-human agents in AI literacy education for young students. The research contributes by conceptualizing AI literacy and guiding policymakers and curriculum designers to implement holistic AI literacy education for young students.
+Keywords: Artificial intelligence; AI literacy; Intelligence-based AI literacy framework; AI thinking; Primary school students; Systematic review; AI learning and teaching
+
+Bu Zhong, Yunya Song, Guangchao Charles Feng, Jingyuan Shi, Yuner Zhu, Lola Xie, Wanhui April Zhou, Sinan Yu, Yajing Lu, Ying Qin, Zuquan Xiong,
+AI imaginaries shape technological identity and digital futures,
+Computers in Human Behavior,
+Volume 169,
+2025,
+108682,
+ISSN 0747-5632,
+https://doi.org/10.1016/j.chb.2025.108682.
+(https://www.sciencedirect.com/science/article/pii/S0747563225001293)
+Abstract: Artificial intelligence (AI) has evolved to become a transformative driver across various societal sectors, influencing our perception of shared digital futures. Central to this transformation are AI imaginaries – collective visions, beliefs, symbols, and expectations that individuals and communities hold about AI and its potential outcomes. AI imaginaries not only reflect societal hopes and concerns, but also actively shape the trajectory of AI development, integration, and governance. Drawing insights from theories of social identity, identity infusion and sociotechnical imaginaries, we propose the AI Imaginary Model as a conceptual framework examining their influence on user technological identity and shared digital futures. By exploring the interplay between AI imaginaries and sociotechnical systems, we highlight the role of these imaginaries in molding public attitudes, driving policy decisions, and fostering innovation. Recognizing the spectrum of AI imaginaries, from utopian to dystopian, we emphasize the need for a critical and balanced discourse to navigate the complex landscape of AI imaginaries. Our analysis should contribute to a deeper understanding of how AI imaginaries may empower or hinder users, shaping their technological identities and broader visions of digital futures. Finally, we call for increased scholarly focus on AI imaginaries to guide responsible technology stewardship and ensure that AI's development aligns with our shared values and collective well-being.
+Keywords: Artificial intelligence; AI imaginary; AI imaginary model; Digital future; Technological identity
+
+Kexin Li, Pengjin Wang, Gaowei Chen,
+How can AI be integrated into teacher professional development programs? A systematic review based on an adapted technology-based learning model,
+Teaching and Teacher Education,
+Volume 168,
+2025,
+105219,
+ISSN 0742-051X,
+https://doi.org/10.1016/j.tate.2025.105219.
+(https://www.sciencedirect.com/science/article/pii/S0742051X25002963)
+Abstract: Guided by an analytical framework adapted from the technology-based learning model, this study systematically reviews 16 studies on AI-integrated teacher professional development published through 2024. Findings mapped the landscape of teacher participants, AI technologies, and TPD environments. The analysis revealed common practices in program design: (1) teacher-AI engagement often took an AI-empowered, teacher-as-leader mode that prioritizes teacher agency; (2) strategies typically integrated AI tools to deliver data-driven and personalized support; and (3) evaluation practices more often targeted individual outcomes than organizational change. This review offers actionable recommendations for practitioners and suggests directions for advancing future research.
+Keywords: Artificial intelligence; In-service teacher; Teacher professional development; Technology-based learning model
+
+Kristina Shiroma, Jacqueline Miller,
+Representation of Rural Older Adults in AI for Health Research: Systematic Literature Review,
+JMIR Human Factors,
+Volume 12,
+2025,
+,
+ISSN 2292-9495,
+https://doi.org/10.2196/70057.
+(https://www.sciencedirect.com/science/article/pii/S2292949525002044)
+Abstract: Background
+Older adults in rural communities face unique challenges, including geographic isolation, a shortage of health care providers, and limited access to specialized services. Artificial intelligence (AI) has emerged as a promising solution for improving health care access and delivery. However, concerns persist about equitable access and representation in these innovations, especially for marginalized populations where technological literacy and infrastructure may present additional barriers to effective use.
+Objective
+This systematic literature review aims to: (1) identify existing literature on AI for health research focused on rural older adults, and (2) critically evaluate the identified literature to highlight gaps and inform the development of inclusive AI for health research and design practices.
+Methods
+Between January 2024 and March 2025, we followed the PRISMA (Preferred Reporting Items for Systematic Reviews and Meta-Analyses) 2020 Protocol to conduct a systematic search of health and computer science literature. We searched 7 databases (PubMed, CINAHL Plus with Full Text, PsycINFO, Web of Science, IEEE Explore, ACM Digital Library, and Scopus) to identify relevant research papers published between January 2013 and December 2023. We used predetermined search terms and built-in result limiters, including English language, human subjects, full text, and aged 65+. Publications were excluded if they were not empirical or did not include a focus on older adults, rural populations, or AI. The resulting data were reviewed, coded, and analyzed using thematic analysis.
+Results
+A total of 23 papers comprised the final sample. The results showed that the representation of rural older adults in AI for health literature is limited. We identified three salient themes: (1) Numbers over Narratives: The Quantitative Focus in AI for Health Research on Older Adults, (2) Efficacy over Impact: Prevalence Clinical Outcomes in AI for Health Research, and (3) Deepening Disparities: Representation of Rurality Missing in AI for Health Research. These themes underscore the need for a more nuanced understanding of how AI for health research can be tailored to the specific needs of rural older populations.
+Conclusions
+Our systematic analysis identified a robust body of research on AI for older adults. However, a critical gap emerged with a dearth of studies explicitly focusing on older adults in rural communities. This lack of representation raises concerns about the generalizability of findings and the potential for exacerbating existing health care disparities in rural areas. Future research should: (1) prioritize targeted recruitment strategies for rural older adult participants to ensure better representation in AI for health research; (2) develop community-based AI policies, practices, and products that reflect the specific needs and contexts of rural populations; and (3) explore solutions that address the limited representation of rural communities, ensuring that AI interventions are equitable, accessible, and beneficial for all.
+Keywords: artificial intelligence; aging; older adult; rural; health care research; Preferred Reporting Items for Systematic Reviews and Meta-Analyses; PRISMA; systematic literature review
+
+Mohd Rushidi Mohd Amin, Ammar Asbi, Vinesh Maran Sivakumaran, Junyong Kim, Eka Septiarini,
+Artificial Intelligence (AI) adoption in marketing strategies: Navigating the present and shaping the future business landscape,
+Social Sciences & Humanities Open,
+Volume 12,
+2025,
+102048,
+ISSN 2590-2911,
+https://doi.org/10.1016/j.ssaho.2025.102048.
+(https://www.sciencedirect.com/science/article/pii/S2590291125007776)
+Abstract: This paper examines the transformative impact of Artificial Intelligence (AI) on marketing, focusing on its role in enhancing customer engagement, decision-making, and operational efficiency. It explores how businesses can leverage AI to deliver personalized experiences, predict market trends, and optimize strategies while addressing challenges such as ethical concerns, data privacy, and technological readiness. This study provides insights to help organizations align AI adoption with strategic goals in an increasingly digital economy. Using a narrative review methodology approach, this paper synthesizes insights from academic research, industry reports, and case studies to identify key trends, challenges, and opportunities in AI-driven marketing. Findings are structured around crucial themes such as technological infrastructure, ethics, and organizational readiness, offering a comprehensive framework for AI implementation. This review reveals that AI enhances marketing through personalization, predictive analytics, and efficiency improvements. However, challenges such as data privacy concerns, ethical dilemmas, and infrastructure readiness remain significant. The study highlights the need for businesses to cultivate an AI-ready culture, upskill employees, and establish ethical guidelines to mitigate risks. By addressing these barriers, organizations can leverage AI to anticipate customer needs, streamline operations, and enhance decision-making, ultimately securing a competitive advantage. This paper contributes to the literature by bridging theoretical and practical perspectives on AI in marketing. It synthesizes diverse sources to offer actionable recommendations, addressing both ethical and organizational considerations. By exploring AI's role in driving innovation and improving customer experiences, this study provides valuable insights into how businesses can harness AI for long-term competitive success.
+Keywords: Artificial intelligence (AI); Marketing strategies; Predictive analytics; Organization efficiency; Process innovation; Customer experience
+
+Amlan Haque,
+Responsible artificial intelligence (AI) in healthcare: a paradigm shift in leadership and strategic management,
+Leadership in Health Services,
+Volume 38, Issue 4,
+2025,
+Pages 644-656,
+ISSN 1751-1879,
+https://doi.org/10.1108/LHS-01-2025-0018.
+(https://www.sciencedirect.com/science/article/pii/S175118792500017X)
+Abstract: Purpose
+This paper aims to explore the paradigm shift in leadership and strategic management driven by the integration of responsible artificial intelligence (AI) in healthcare. It explores the evolving role of leadership in adapting to AI technologies while ensuring ethical governance, transparency and accountability in healthcare decision-making.
+Design/methodology/approach
+This study conducts a comprehensive review of current literature, case studies and industry reports to evaluate the implications of responsible AI adoption in healthcare leadership. It focuses on key areas such as AI-driven decision-making, resource optimisation, crisis management and patient care, while also addressing challenges in integrating AI technologies effectively.
+Findings
+The integration of AI in healthcare is transforming leadership from traditional, experience-based decision-making to data-driven, AI-enhanced strategies. Responsible leadership emphasises addressing ethical concerns such as bias, transparency and accountability. AI technologies improve resource allocation, crisis management and patient care, but challenges such as workforce resistance and the need for upskilling healthcare professionals remain.
+Practical implications
+Healthcare leaders must adopt a responsible leadership framework that balances AI’s potential with ethical and human-centred care principles. Recommendations include developing AI literacy programmes for healthcare professionals, ensuring inclusivity in AI algorithms and establishing governance policies that promote transparency and accountability in AI applications.
+Originality/value
+This paper provides a critical, forward-looking perspective on how responsible AI can drive a paradigm shift in healthcare leadership. It offers novel insights into the integration of AI within healthcare organisations, emphasising the need for leadership that prioritises ethical AI usage and promotes patient well-being in a rapidly evolving digital landscape.
+Keywords: Responsible AI; Healthcare leadership; Strategic management; AI integration; Healthcare management
+
+Hind Albasry, Estela Carmona-Cejudo, Abdul Rauf, Dadi Chen,
+A systematically derived AI-based framework for student-centered learning in higher education,
+Social Sciences & Humanities Open,
+Volume 12,
+2025,
+102085,
+ISSN 2590-2911,
+https://doi.org/10.1016/j.ssaho.2025.102085.
+(https://www.sciencedirect.com/science/article/pii/S2590291125008149)
+Abstract: Artificial intelligence (AI) is rapidly advancing, enhancing performance and productivity across various sectors, including higher education (HE), where it presents new opportunities to support student-centered learning. This study proposes a holistic AI-based framework to facilitate student-centered learning, developed through a qualitative and inductive methodology involving a systematic review of current literature. A large language model (LLM), Consensus. app, was employed as an academic search engine to identify the most relevant studies. Six search prompts, aligned with student-centered educational tasks identified through an inductive literature review, were developed and applied using established inclusion and exclusion criteria. Only studies published 2020–2025 were considered. The retrieved studies were analyzed to identify key themes and derive AI-based components relevant to student-centered learning. These components were synthesized into a comprehensive framework consisting of six core elements. The significance of each component was evaluated through a qualitative comparison with traditional student-centered learning models, underscoring the potential impact and benefits of integrating the proposed AI-based framework in HE. The findings offer practical guidance for HE stakeholders seeking to implement AI-driven strategies to enhance student-centered learning.
+Keywords: Artificial Intelligence (AI); Higher education (HE); Large Language Model (LLM); Student-centered learning; Educational tasks
+
+Qi Tan,
+Reimagining teacher development in the era of generative AI: A scoping review,
+Teaching and Teacher Education,
+Volume 168,
+2025,
+105236,
+ISSN 0742-051X,
+https://doi.org/10.1016/j.tate.2025.105236.
+(https://www.sciencedirect.com/science/article/pii/S0742051X25003130)
+Abstract: Generative AI has great potential to revolutionize teacher development, yet reviews of its integration in this field remain limited. This scoping review analyzes 22 empirical studies, highlighting the underrepresentation of in-service teachers and small sample sizes, which raises concerns about bias. Key applications include resource development, personalized support, and creating learning environments, with intervention durations of 4–16 weeks. Seven outcomes were identified: improved learning, teacher knowledge, higher-order thinking, lesson design and implementation, self-worth and self-confidence, positive attitudes and usage intentions, and AI literacy. These insights can help design training programs to prepare teachers for effectively integrating generative AI.
+Keywords: Generative AI; Teacher development; AI literacy; AI integration in education; Scoping review
+
+Javier Gazquez-Garcia, Carlos Luis Sánchez-Bocanegra, Jose Luis Sevillano,
+AI in the Health Sector: Systematic Review of Key Skills for Future Health Professionals,
+JMIR Medical Education,
+Volume 11,
+2025,
+,
+ISSN 2369-3762,
+https://doi.org/10.2196/58161.
+(https://www.sciencedirect.com/science/article/pii/S2369376225000200)
+Abstract: Background
+Technological advancements have significantly reshaped health care, introducing digital solutions that enhance diagnostics and patient care. Artificial intelligence (AI) stands out, offering unprecedented capabilities in data analysis, diagnostic support, and personalized medicine. However, effectively integrating AI into health care necessitates specialized competencies among professionals, an area still in its infancy in terms of comprehensive literature and formalized training programs.
+Objective
+This systematic review aims to consolidate the essential skills and knowledge health care professionals need to integrate AI into their clinical practice effectively, according to the published literature.
+Methods
+We conducted a systematic review, across databases PubMed, Scopus, and Web of Science, of peer-reviewed literature that directly explored the required skills for health care professionals to integrate AI into their practice, published in English or Spanish from 2018 onward. Studies that did not refer to specific skills or training in digital health were not included, discarding those that did not directly contribute to understanding the competencies necessary to integrate AI into health care practice. Bias in the examined works was evaluated following Cochrane’s domain-based recommendations.
+Results
+The initial database search yielded a total of 2457 articles. After deleting duplicates and screening titles and abstracts, 37 articles were selected for full-text review. Out of these, only 7 met all the inclusion criteria for this systematic review. The review identified a diverse range of skills and competencies, that we categorized into 14 key areas classified based on their frequency of appearance in the selected studies, including AI fundamentals, data analytics and management, and ethical considerations.
+Conclusions
+Despite the broadening of search criteria to capture the evolving nature of AI in health care, the review underscores a significant gap in focused studies on the required competencies. Moreover, the review highlights the critical role of regulatory bodies such as the US Food and Drug Administration in facilitating the adoption of AI technologies by establishing trust and standardizing algorithms. Key areas were identified for developing competencies among health care professionals for the implementation of AI, including: AI fundamentals knowledge (more focused on assessing the accuracy, reliability, and validity of AI algorithms than on more technical abilities such as programming or mathematics), data analysis skills (including data acquisition, cleaning, visualization, management, and governance), and ethical and legal considerations. In an AI-enhanced health care landscape, the ability to humanize patient care through effective communication is paramount. This balance ensures that while AI streamlines tasks and potentially increases patient interaction time, health care professionals maintain a focus on compassionate care, thereby leveraging AI to enhance, rather than detract from, the patient experience. 
+Keywords: artificial intelligence; healthcare competencies; systematic review; healthcare education; AI regulation
+
+Achmad Salido, Irman Syarif, Melyani Sari Sitepu,  Suparjan, Prima Rias Wana, Ryan Taufika, Rahyuni Melisa,
+Integrating critical thinking and artificial intelligence in higher education: A bibliometric and systematic review of skills and strategies,
+Social Sciences & Humanities Open,
+Volume 12,
+2025,
+101924,
+ISSN 2590-2911,
+https://doi.org/10.1016/j.ssaho.2025.101924.
+(https://www.sciencedirect.com/science/article/pii/S2590291125006527)
+Abstract: This study examines the academic landscape on integrating artificial intelligence and critical thinking in higher education, revealing conceptualizations, competencies required by students, challenges and recommended learning strategies. The study employs a bibliometric analysis approach combined with a systematic literature review as a qualitative approach. A total of 640 documents were retrieved from the Scopus database using the query: (“critical thinking” AND (“artificial intelligence” OR AI) AND (“higher education” OR university OR college)), accessed on July 10, 2025. The dataset was limited to 2023–2025, reflecting the period following the widespread adoption of ChatGPT and similar generative AI tools in academic contexts. From this, 290 documents were selected for bibliometric analysis, and 23 were in-depth synthesized based on established inclusion criteria. The findings reveal a growing consolidation of research on AI and critical thinking, driven by a small group of highly influential authors and concentrated in prominent interdisciplinary journals. Five thematic clusters were identified: pedagogical innovation, psychological dimensions, academic ethics, systemic integration, and AI-related literacies. Emerging research directions include personalized learning, digital literacy, engineering education, and ethical AI applications. Critical thinking is conceptualized as a purposeful, evaluative, and self-regulated process that must be preserved despite increasing reliance on AI tools. Key challenges include uncritical dependence on AI, digital literacy disparities, lack of system transparency, and institutional limitations. The study highlights the need for inclusive and adaptive instructional frameworks that integrate AI in ways that support critical thinking in diverse higher education settings.
+Keywords: Artificial intelligence; Higher education; Critical thinking; Personalized learning; AI literacy
+
+Matthias Carl Laupichler, Alexandra Aster, Jana Schirch, Tobias Raupach,
+Artificial intelligence literacy in higher and adult education: A scoping literature review,
+Computers and Education: Artificial Intelligence,
+Volume 3,
+2022,
+100101,
+ISSN 2666-920X,
+https://doi.org/10.1016/j.caeai.2022.100101.
+(https://www.sciencedirect.com/science/article/pii/S2666920X2200056X)
+Abstract: Since artificial intelligence (AI) is finding its way into more and more areas of everyday life, improving the AI skills of non-experts is important and will become even more relevant in the future. While it is necessary that children learn about the possibilities of AI at an early age, adults in higher education and beyond should also have at least a basic understanding of AI (i.e., AI literacy) to be able to interact effectively with the technology. To evaluate the current state of the literature on AI literacy in higher and adult education, a scoping literature review was conducted with the objective of identifying thematic foci and recent research trends. Ten research databases were searched and out of 902 initial records, 30 studies were identified using predefined eligibility criteria, whereof the content was evaluated in the review. The results indicated that research in this area is still in its infancy and needs refinement in terms of how to define AI literacy in adult education as well as what content should be taught to non-experts. Lastly, several recommendations for research and practice are derived from the results.
+Keywords: AI literacy; Higher education; Literature review; AI education; Teaching AI
+
+Mohd Rushidi Mohd Amin, Ismaanzira Ismail, Vinesh Maran Sivakumaran,
+Revolutionizing Education with Artificial Intelligence (AI)? Challenges, and Implications for Open and Distance Learning (ODL),
+Social Sciences & Humanities Open,
+Volume 11,
+2025,
+101308,
+ISSN 2590-2911,
+https://doi.org/10.1016/j.ssaho.2025.101308.
+(https://www.sciencedirect.com/science/article/pii/S259029112500035X)
+Abstract: Artificial Intelligence (AI) has rapidly progressed in recent years, profoundly impacting various industries. One sector significantly influenced by AI is education, notably Open and Distance Learning (ODL). This transformative technology holds the potential to revolutionize education delivery through personalized learning algorithms, adaptive learning, and intelligent tutoring systems, tailoring educational experiences to individual students. Real-time feedback and customized learning pathways, adapting to students' abilities and preferences, are among the capabilities AI brings to the educational landscape. However, as AI integration in ODL becomes more pervasive, it raises critical privacy concerns such as data collection and storage, user consent and control, data security and confidentiality, ethical standpoint and consideration, third-party services and integrations, and compliance with regulations. While recognizing the potential benefits of AI in education, it is essential to acknowledge and address the challenges associated with these privacy concerns. By exploring these facets, educators, policymakers, and researchers gain valuable insights into mitigating risks and ensuring responsible AI deployment in ODL. This paper highlights the importance of keeping current with the latest AI advancements in quality education. It provides a comprehensive view of AI's benefits, challenges, and potential in ODL. Lastly, this paper advocates for a balanced approach that harnesses the transformative potential of AI while safeguarding the privacy and ethical considerations vital for maintaining the integrity of education systems.
+Keywords: Artificial intelligence (AI); Artificial intelligence in education (AIED); Personalized learning; Adaptive learning; Data security and confidentiality; Open and distance learning (ODL)
+
+Muhyeeddin Alqaraleh, Wesam Taher Almagharbeh, Muhammad Waleed Ahmad,
+Exploring the impact of artificial intelligence integration on medication error reduction: A nursing perspective,
+Nurse Education in Practice,
+Volume 86,
+2025,
+104438,
+ISSN 1471-5953,
+https://doi.org/10.1016/j.nepr.2025.104438.
+(https://www.sciencedirect.com/science/article/pii/S1471595325001945)
+Abstract: Aim
+To systematically evaluate the impact of artificial intelligence (AI) technologies on reducing medication errors in nursing practice, focusing on tools such as clinical decision support systems (CDSS), smart infusion pumps, barcode scanning and automated prescription validation.
+Background
+Medication errors are a persistent threat to patient safety and a major burden on healthcare systems. Nurses, who are central to the medication administration process, remain vulnerable to human error. AI offers new opportunities to enhance safety through real-time decision support and predictive analytics.
+Design
+A systematic review following PRISMA 2020 guidelines and using a mixed-methods approach to integrate quantitative outcomes with qualitative insights from nursing practice.
+Methods
+Studies published in English between January 2013 and March 2024 were retrieved from PubMed, ScienceDirect and CINAHL. Eligibility was guided by the PICO framework. Quality appraisal tools appropriate to study designs were applied.
+Results
+Twelve studies were included. CDSS reduced operating room errors by up to 95 %, while smart infusion pumps reduced IV medication errors by approximately 80 %. Prescription validation tools led to a 55 % reduction in prescribing errors. AI-driven alert filtering decreased non-actionable alerts by 45 %. Qualitative data revealed both appreciation of AI’s utility and concerns about algorithmic bias, system usability and trust.
+Conclusions
+AI technologies significantly improve medication safety in nursing. However, successful implementation depends on nurse training, system integration, ethical safeguards and workflow alignment. Further experimental studies are needed to validate efficacy and address barriers such as alert fatigue, algorithm transparency and adoption resistance.
+Keywords: Artificial Intelligence; Medication Errors; Clinical Decision Support Systems; Nursing; Patient Safety; Infusion Pumps; Drug Administration
+
+Rukiye Burucu, Hilal Türkben Polat,
+Nursing students' readiness and anxiety regarding medical artificial intelligence: A mixed-methods study,
+Nurse Education in Practice,
+Volume 88,
+2025,
+104538,
+ISSN 1471-5953,
+https://doi.org/10.1016/j.nepr.2025.104538.
+(https://www.sciencedirect.com/science/article/pii/S1471595325002951)
+Abstract: Aim
+The aim of this study is to examine the preparedness levels of nursing students for Medical Artificial Intelligence and Artificial Intelligence Anxiety.
+Design
+This is a descriptive mixed-method study.
+Methods
+The medical artificial intelligence readiness scale, artificial intelligence anxiety scale and semi-structured interview form were applied to the nursing department students of two separate faculties (n:358). The focus group interview was conducted with 19 participants. Quantitative and qualitative data were analyzed separately and combined.
+Results
+The average artificial intelligence awareness score of all the participants participating in the study was 75.05 ± 11,805, and the average artificial intelligence anxiety score was 49.59 ± 11,263. The average artificial intelligence awareness score of the participants in the qualitative part of the study was 72.89 ± 10.519 and the average artificial intelligence anxiety score was 70.68 ± 5.165. 145 opinions were identified regarding the concerns of individuals with artificial intelligence anxiety. These opinions are grouped under four sub-themes; Two sub-themes were evaluated as "complementary" and the other two as "convergent" with quantitative data. Sequential explanatory design was used in the study. After the quantitative data were evaluated, qualitative data were collected, evaluated and the results were integrated.
+Conclusion
+It was determined that the students were ready for artificial intelligence; they believed that artificial intelligence increases productivity and acts as a facilitator; but they also had various concerns about artificial intelligence. Qualitative and quantitative data supported each other.
+Patient or public contribution
+Increasing the awareness of nursing students and nurses on artificial intelligence can contribute to public health.
+Clinical trial registration
+NCT06623448.
+Keywords: Artificial intelligence; Nursing students; Anxiety
+
+Hyejeong Lee, Hyojung Kim, Wei Yan,
+Promoting inclusive AI and technology in K-12 education: A review of context, instructional strategies, and learning outcomes,
+Computers and Education: Artificial Intelligence,
+Volume 9,
+2025,
+100478,
+ISSN 2666-920X,
+https://doi.org/10.1016/j.caeai.2025.100478.
+(https://www.sciencedirect.com/science/article/pii/S2666920X25001183)
+Abstract: As artificial intelligence (AI) becomes increasingly integrated into K–12 education, concerns about equity and access have grown. This scoping review explores how inclusive AI curricula are designed, implemented, and evaluated in educational settings. Guided by three research questions, we analyzed 17 empirical studies published between 2013 and 2024, focusing on (1) the contexts and characteristics of inclusive AI curricula, (2) instructional strategies that promote broader participation, and (3) learning outcomes associated with these approaches. The findings reveal five key instructional principles (identity, technology, design, content development, and sense of belonging) alongside cognitive and affective learning outcomes such as improved content knowledge, confidence, and collaboration skills. However, the review also identified gaps in access, alignment with standards, and the consistent reporting of learning outcomes. This study offers a synthesized framework to guide educators and researchers in designing inclusive, equitable, and pedagogically sound AI-integrated learning experiences for diverse student populations.
+Keywords: Artificial intelligence; Inclusive curriculum; Culturally relevant pedagogy; Instructional strategies; Educational equity
+
+Lucas J. Wiese, Indira Patil, Daniel S. Schiff, Alejandra J. Magana,
+AI ethics education: A systematic literature review,
+Computers and Education: Artificial Intelligence,
+Volume 8,
+2025,
+100405,
+ISSN 2666-920X,
+https://doi.org/10.1016/j.caeai.2025.100405.
+(https://www.sciencedirect.com/science/article/pii/S2666920X25000451)
+Abstract: The potential of AI technology to transform human life, well-being, and daily work is faced with numerous risks and challenges yet to be fully accounted for. However, the complexity of AI ethics makes it hard to pin down what to teach, how to teach it, and how to assess its effectiveness. Drawing on an educational perspective, this paper presents a systematic literature review and qualitative analysis of the early years of AI ethics education as a formalized field to analyze whether its future trajectory is aligned with educational best practices. Our review highlights core challenges in AI ethics education and the content, assessment, and pedagogy used in real interventions over recent years. We find that efforts to teach AI ethics do helpfully draw on a holistic view (as opposed to a narrow view), and utilize progressive pedagogies like case studies and group projects that aim to meaningfully challenge students’ ethical reasoning skills in applied practices. However, many real- world AI ethics teaching interventions do not leverage well-supported assessment techniques known to support student learning; rather, assessment is conducted primarily for research evaluative purposes. This gap in rigorous assessment raises implications for researchers and practitioners, as responsible development and use of AI will be stymied if educators cannot successfully determine whether students have truly learned relevant AI ethics content or skills.
+Keywords: AI ethics; Systematic literature review; AI education; Ethics education; Assessment; Measurement
+
+Rebecca Charow, Tharshini Jeyakumar, Sarah Younus, Elham Dolatabadi, Mohammad Salhia, Dalia Al-Mouaswas, Melanie Anderson, Sarmini Balakumar, Megan Clare, Azra Dhalla, Caitlin Gillan, Shabnam Haghzare, Ethan Jackson, Nadim Lalani, Jane Mattson, Wanda Peteanu, Tim Tripp, Jacqueline Waldorf, Spencer Williams, Walter Tavares, David Wiljer,
+Artificial Intelligence Education Programs for Health Care Professionals: Scoping Review,
+JMIR Medical Education,
+Volume 7, Issue 4,
+2021,
+,
+ISSN 2369-3762,
+https://doi.org/10.2196/31043.
+(https://www.sciencedirect.com/science/article/pii/S236937622100074X)
+Abstract: Background
+As the adoption of artificial intelligence (AI) in health care increases, it will become increasingly crucial to involve health care professionals (HCPs) in developing, validating, and implementing AI-enabled technologies. However, because of a lack of AI literacy, most HCPs are not adequately prepared for this revolution. This is a significant barrier to adopting and implementing AI that will affect patients. In addition, the limited existing AI education programs face barriers to development and implementation at various levels of medical education.
+Objective
+With a view to informing future AI education programs for HCPs, this scoping review aims to provide an overview of the types of current or past AI education programs that pertains to the programs’ curricular content, modes of delivery, critical implementation factors for education delivery, and outcomes used to assess the programs’ effectiveness.
+Methods
+After the creation of a search strategy and keyword searches, a 2-stage screening process was conducted by 2 independent reviewers to determine study eligibility. When consensus was not reached, the conflict was resolved by consulting a third reviewer. This process consisted of a title and abstract scan and a full-text review. The articles were included if they discussed an actual training program or educational intervention, or a potential training program or educational intervention and the desired content to be covered, focused on AI, and were designed or intended for HCPs (at any stage of their career).
+Results
+Of the 10,094 unique citations scanned, 41 (0.41%) studies relevant to our eligibility criteria were identified. Among the 41 included studies, 10 (24%) described 13 unique programs and 31 (76%) discussed recommended curricular content. The curricular content of the unique programs ranged from AI use, AI interpretation, and cultivating skills to explain results derived from AI algorithms. The curricular topics were categorized into three main domains: cognitive, psychomotor, and affective.
+Conclusions
+This review provides an overview of the current landscape of AI in medical education and highlights the skills and competencies required by HCPs to effectively use AI in enhancing the quality of care and optimizing patient outcomes. Future education efforts should focus on the development of regulatory strategies, a multidisciplinary approach to curriculum redesign, a competency-based curriculum, and patient-clinician interaction.
+Keywords: machine learning; deep learning; health care providers; education; learning; patient care
+
+Sayed Ibrahim Ali, Mostafa Shaban,
+The AI-personality nexus: How nursing students' traits shape use, learning and adaptation in artificial intelligence-driven education in Saudi Arabia,
+Nurse Education in Practice,
+Volume 87,
+2025,
+104498,
+ISSN 1471-5953,
+https://doi.org/10.1016/j.nepr.2025.104498.
+(https://www.sciencedirect.com/science/article/pii/S1471595325002550)
+Abstract: Aim
+This study explored how personality traits influence undergraduate nursing students’ use, attitudes and satisfaction with artificial intelligence (AI)-based educational tools in Saudi Arabia. It also examined the mediating role of AI use frequency in the relationship between personality and satisfaction.
+Background
+With AI increasingly integrated into nursing education, understanding how individual learner traits shape engagement with these tools is essential for optimizing learning experiences.
+Design
+A cross-sectional, correlational design was used.
+Methods
+A total of 159 undergraduate nursing students from King Faisal University completed an online survey, including the NEO Five-Factor Inventory and the AI in Nursing Education Questionnaire (AINEQ). Descriptive statistics, logistic regression and path analysis were performed to assess associations and mediation.
+Results
+Openness and Conscientiousness significantly predicted frequent AI use (p < 0.01), while Neuroticism negatively predicted satisfaction (p = 0.03). AI use frequency significantly mediated the relationship between personality traits (Openness, Conscientiousness) and satisfaction (indirect βs = 0.13 and 0.11, p < 0.01). Extraversion and Agreeableness were not significantly related to AI use. Female students and those in advanced academic levels reported greater AI engagement.
+Conclusion
+Personality traits influence AI adoption and satisfaction among nursing students. Personalizing AI-based learning strategies to account for personality differences may enhance student engagement and educational outcomes.
+Keywords: Artificial Intelligence; Personality Traits; Nursing Education; Technology Adoption; AI Use; Student Satisfaction; Digital Learning
+
+Chloe S. Gordon, Kelly Ferber, Tanya Notley, Rachel F. Rodgers, Emma Bradshaw, Geetanjali Basarkod, Joel Anderson, Siân A. McLean, Simone Mizzi, Hannah K. Jarman, Jessica Dickson, Taren Sanders, Amy Slater, Erin Pearson, Theresa Dicke,
+The relationship between media literacy and well-being: A systematic review and meta-analysis,
+Educational Research Review,
+Volume 49,
+2025,
+100731,
+ISSN 1747-938X,
+https://doi.org/10.1016/j.edurev.2025.100731.
+(https://www.sciencedirect.com/science/article/pii/S1747938X25000685)
+Abstract: Media literacy and well-being are interconnected topics that have garnered increasing attention in recent years due to the proliferation of media platforms and the influence they can exert on individuals' mental health and overall well-being. Media literacy is a lifelong educational process, defined as the ability to critically access, analyse, evaluate, create, and contribute to media. It is especially important for children and adolescents who are more susceptible to negative media influences. Well-being encompasses both feeling good and functioning effectively, and is associated with numerous benefits including increased productivity and creativity, and better relationships, health and life expectancy. Guided by the 2020 Preferred Reporting Items for Systematic Review and Meta-Analysis (PRISMA) statement, this systematic review and meta-analysis examined the associations between media literacy and well-being. The search identified 15 studies involving 47 effect sizes across a variety of dimensions of media literacy. Together, the studies had 16,632 participants and 51.8 % comprised school-aged populations. The analysis initially revealed a statistically significant, small to medium, positive association between media literacy and well-being (r = .19, 95 % CI [.01, .35]); however, this association was no longer significant following sensitivity analyses. The ‘Media Literacy Dimension’ significantly moderated the pooled effect. A medium-sized positive association between media literacy and well-being was observed when the media literacy measure was solely focussed on analysing/evaluating the media (r = .24, 95 % CI [.05, .41]). No other significant moderating factors were found. However, due to limitations such as small sample size and significant heterogeneity among the studies, these findings should be interpreted with caution, especially when considering implications for educational policy or curriculum integration. Further research, especially using longitudinal and experimental designs, is needed to better understand the nature and direction of this relationship and to inform practical applications.
+Keywords: Digital literacy; Media; Self-esteem; Psychological well-being; Education
+
+Michelle Ronksley-Pavia, Lan Nguyen, Elizabeth Wheeley, Judy Rose, Michelle M. Neumann, Chris Bigum, David L. Neumann,
+A scoping literature review of generative artificial intelligence for supporting neurodivergent school students,
+Computers and Education: Artificial Intelligence,
+Volume 9,
+2025,
+100437,
+ISSN 2666-920X,
+https://doi.org/10.1016/j.caeai.2025.100437.
+(https://www.sciencedirect.com/science/article/pii/S2666920X25000773)
+Abstract: While Generative Artificial Intelligence (GenAI) platforms like ChatGPT have gained significant traction in education, their specific applications for neurodivergent learners remain largely unmapped. Through systematic searching of academic databases and grey literature between 2020 and 2024, this scoping literature review examined the emerging landscape of GenAI applications in supporting neurodivergent students (e.g., those with ADHD, autism, dyslexia, gifted, twice-exceptional) within K-12 educational contexts. Twenty-one relevant sources were identified, discussing GenAI usage with neurodivergent students, the analysis revealed discussion of several predominant applications, including personalized learning, administrative assistance for educators, and development of individualized education plans. The review identified both promising approaches and significant concerns. Benefits included GenAI's potential to provide real-time, personalized support for students as well as reducing administrative burdens for educators. However, notable concerns emerged regarding information accuracy, over-reliance on AI, privacy considerations, and the need for human oversight. The limited empirical evidence base was particularly striking, with only nine studies providing original research data. The review identified critical gaps in current understanding, particularly regarding GenAI's effectiveness across different neurodivergent conditions and curriculum areas, and little evidence of approaches detailed in ways that educators could use. This scoping review demonstrates the need for robust empirical research examining GenAI usage in learning for neurodivergent students. These insights are timely and crucial for educators, researchers, and policymakers working to harness GenAI's potential in supporting neurodivergent learners within inclusive educational environments.
+Keywords: Artificial intelligence; Generative AI; GenAI; Neurodiversity; School; Personalized learning; Teachers
+
+Ting Ma,
+Systematically visualizing ChatGPT used in higher education: Publication trend, disciplinary domains, research themes, adoption and acceptance,
+Computers and Education: Artificial Intelligence,
+Volume 8,
+2025,
+100336,
+ISSN 2666-920X,
+https://doi.org/10.1016/j.caeai.2024.100336.
+(https://www.sciencedirect.com/science/article/pii/S2666920X24001395)
+Abstract: Since it was released in November 2022, ChatGPT has been exerting revolutionary influence on the realm of higher education. In order to obtain a comprehensive understanding of the research landscape, we conduct a systematic literature review on the studies of ChatGPT used in higher education. Both quantitative and qualitative methods were adopted to bibliometrically examine the included literature selected from Web of Science and Scopus through the PRISMA protocol. Tools of VOSviewer and CitNetExplorer were employed to visualize the citation information. Our findings showed that the recent two years witnessed an ever-growing popularity of this research theme. Citation information analysis reveals the most influential authors, countries, sources, organizations and four focused topics. The disciplinary distribution of related research indicates a wide range of categories. More importantly, ChatGPT was found to be versatile in assisting teachers, students and researchers with a variety of tasks, and the factors influencing the acceptance of this technology among college students could be investigated through models like TAM, UTAUT and their extensions. We suggest future studies to focus on the ways to address the limitations and ethical issues of ChatGPT through AI literacy cultivation and joint efforts of all stakeholders.
+Keywords: Systematic review; Bibliometric analysis; ChatGPT; Generative artificial intelligence; Higher education
+
+Hanadi Aldreabi, Mohammad Alhur, Manaf Al-Okaily, Dhia Qasim, Nisreen K. Dahdoul, Fadi S. Shiyyab,
+Unveiling the dynamics of generative AI adoption: A business intelligence analysis through topic modeling-based bibliometric study,
+Computers and Education: Artificial Intelligence,
+Volume 9,
+2025,
+100456,
+ISSN 2666-920X,
+https://doi.org/10.1016/j.caeai.2025.100456.
+(https://www.sciencedirect.com/science/article/pii/S2666920X25000967)
+Abstract: Generative Artificial Intelligence (GenAI) has gained notable attention in educational literature, with supporters and critics expressing varying opinions. Despite its popularity, only a few reviews are available on the subject, with limitations such as small sample sizes and limited scope. This study aims to clarify the major themes influencing the discussion on GenAI in educational contexts. It employs a strong Business Intelligence paradigm and uses bibliometric analysis and topic modeling focusing on the R program's structural topic model (STM) Package, VOSviewer, and bibliometric software. The results highlight the esteem of GenAI in education and evidence of international collaboration in the research process dedicated to enhancing the rapidly evolving field of GenAI. The scientometric indexes indicate that the diversity of journals has the significant impact on GenAI in education. While Lotka's Law suggests that the field is still in its early stages, the collaborative network demonstrates strong connections among researchers, a positive indicator of future progress. Moreover, the STM method has identified nine pivotal topics grouped into three categories relating to GenAI in education. By shedding light on these emerging themes, this study provides educators and researchers with valuable insights into the future of GenAI in education.
+Keywords: AI tools; ChatGPT; Generative AI; Educational technology; Business intelligence; Bibliometric study
+
+Jiahong Su, Davy Tsz Kit Ng, Samuel Kai Wah Chu,
+Artificial Intelligence (AI) Literacy in Early Childhood Education: The Challenges and Opportunities,
+Computers and Education: Artificial Intelligence,
+Volume 4,
+2023,
+100124,
+ISSN 2666-920X,
+https://doi.org/10.1016/j.caeai.2023.100124.
+(https://www.sciencedirect.com/science/article/pii/S2666920X23000036)
+Abstract: Nowadays, Artificial Intelligence (AI) literacy has become an emerging topic in digital literacy education research. However, it is still under-explored in early childhood education (ECE) since the AI curriculum for young children has just been designed in recent years. A scoping review was conducted to examine the thematic and content analysis of 16 empirical papers from 2016 to 2022. This scoping reviews evaluate, synthesize, and display 16 studies on AI literacy in early childhood education, including curriculum design, AI tools, pedagogical approaches, research designs, assessment methods, and findings. The discussion of the AI literacy implementation in ECE contributes to providing references for educators and researchers to design interventions to engage young children in AI learning. Further, we identified a set of challenges and opportunities of AI literacy. Several challenges included (1) lack of teachers' AI knowledge, skills, and confidence; (2) lack of curriculum design; and (3) lack of teaching guidelines. Although educators meet challenges at the beginning stage of developing AI instructional design for young children, AI learning could bring learning opportunities and foster young children's AI literacy in terms of AI concepts, practices and perspectives. We foresee that there will be a growing number of age-appropriate curriculum and tools for the ECE level. At the end, we also make some recommendations for future researchers and educators to improve AI literacy research and learning design in early childhood education.
+Keywords: AI; AI literacy; AI education; Learning and teaching AI; Early childhood education; Challenges and opportunities
+
+Lee McCallum,
+New takes on developing intercultural communicative competence: using AI tools in telecollaboration task design and task completion,
+Journal for Multicultural Education,
+Volume 18, Issue 12,
+2024,
+Pages 153-172,
+ISSN 2053-535X,
+https://doi.org/10.1108/JME-06-2023-0043.
+(https://www.sciencedirect.com/science/article/pii/S2053535X24000168)
+Abstract: Purpose
+This paper aims to present a lesson that showcases how artificial intelligence (AI) tools may be chiefly used in L2 language classrooms to design culture-focussed telecollaboration tasks and aid their completion by students.
+Design/methodology/approach
+The paper begins by reviewing traditional approaches and guidance for developing telecollaboration tasks. It then models how tasks can be designed using the popular AI tool “Chat Generative Pre-training Transformer (ChatGPT)” and then simulates how tasks may be completed by learners using ChatGPT-generated information as a springboard for their own culturally appropriate outputs.
+Findings
+The simulated lesson illuminates the potential value of AI tools for teachers and students. However, it also highlights particular aspects of AI literacy that teachers and learners need to be aware of.
+Practical implications
+This paper has clear practical implications for teacher development by raising awareness of the importance of teachers upskilling in telecollaboration task design and in their understanding of how AI tools can collaborate with them in language classrooms.
+Originality/value
+The paper adds to the current body of literature on telecollaboration and more specifically adds weight to current discussions taking place around AI tools in language education. By the end of reading the paper, teachers will have a comprehensive grounding in how to use ChatGPT in their classrooms. In doing so, the author demystifies how teachers and students may start exploring these tools in ways that target developing intercultural communicative competence.
+Keywords: AI tools; ChatGPT; Intercultural communication competence; Telecollaboration
+
+Sofie Vranken, Jaroslava Kaňková, Jörg Matthes,
+Artificial influencers, artificial designs? A systematic review of experimental research on virtual influencers,
+Telematics and Informatics,
+Volume 102,
+2025,
+102327,
+ISSN 0736-5853,
+https://doi.org/10.1016/j.tele.2025.102327.
+(https://www.sciencedirect.com/science/article/pii/S0736585325000899)
+Abstract: With the rapid evolutions in AI technology, a new type of influencer has emerged in the social media landscape – virtual influencers (VIs). These digitally created individuals have proven highly effective in promoting products, brands, opinions, and behaviors. So far, research has already shed light on the unique characteristics and effects of VIs. However, we lack a systematic discussion about experimental designs, which is a key design to understand the effectiveness of VIs. In a preregistered systematic review of N = 157 experiments, we examine how such studies are designed, the effects they measure, and the main moderating and mediating variables involved. Most studies test disclosure effects rather than the core persuasive features of virtual influencers, raising concerns about ecological validity. We discuss methodological implications and suggest directions for more ecologically valid experimental designs.
+Keywords: Virtual influencers; Experimental design; Ecological validity; Persuasion
+
+Raymond Tolentino, Ashkan Baradaran, Genevieve Gore, Pierre Pluye, Samira Abbasgholizadeh-Rahimi,
+Curriculum Frameworks and Educational Programs in AI for Medical Students, Residents, and Practicing Physicians: Scoping Review,
+JMIR Medical Education,
+Volume 10,
+2024,
+,
+ISSN 2369-3762,
+https://doi.org/10.2196/54793.
+(https://www.sciencedirect.com/science/article/pii/S2369376224000801)
+Abstract: Background
+The successful integration of artificial intelligence (AI) into clinical practice is contingent upon physicians’ comprehension of AI principles and its applications. Therefore, it is essential for medical education curricula to incorporate AI topics and concepts, providing future physicians with the foundational knowledge and skills needed. However, there is a knowledge gap in the current understanding and availability of structured AI curriculum frameworks tailored for medical education, which serve as vital guides for instructing and facilitating the learning process.
+Objective
+The overall aim of this study is to synthesize knowledge from the literature on curriculum frameworks and current educational programs that focus on the teaching and learning of AI for medical students, residents, and practicing physicians.
+Methods
+We followed a validated framework and the Joanna Briggs Institute methodological guidance for scoping reviews. An information specialist performed a comprehensive search from 2000 to May 2023 in the following bibliographic databases: MEDLINE (Ovid), Embase (Ovid), CENTRAL (Cochrane Library), CINAHL (EBSCOhost), and Scopus as well as the gray literature. Papers were limited to English and French languages. This review included papers that describe curriculum frameworks for teaching and learning AI in medicine, irrespective of country. All types of papers and study designs were included, except conference abstracts and protocols. Two reviewers independently screened the titles and abstracts, read the full texts, and extracted data using a validated data extraction form. Disagreements were resolved by consensus, and if this was not possible, the opinion of a third reviewer was sought. We adhered to the PRISMA-ScR (Preferred Reporting Items for Systematic Reviews and Meta-Analyses extension for Scoping Reviews) checklist for reporting the results.
+Results
+Of the 5104 papers screened, 21 papers relevant to our eligibility criteria were identified. In total, 90% (19/21) of the papers altogether described 30 current or previously offered educational programs, and 10% (2/21) of the papers described elements of a curriculum framework. One framework describes a general approach to integrating AI curricula throughout the medical learning continuum and another describes a core curriculum for AI in ophthalmology. No papers described a theory, pedagogy, or framework that guided the educational programs.
+Conclusions
+This review synthesizes recent advancements in AI curriculum frameworks and educational programs within the domain of medical education. To build on this foundation, future researchers are encouraged to engage in a multidisciplinary approach to curriculum redesign. In addition, it is encouraged to initiate dialogues on the integration of AI into medical curriculum planning and to investigate the development, deployment, and appraisal of these innovative educational programs.
+International Registered Report Identifier (IRRID)
+RR2-10.11124/JBIES-22-00374
+Keywords: artificial intelligence; machine learning; curriculum; framework; medical education; review
+
+Rúben Encarnação, José Alves, Ana Marques, João Neves-Amado, Paulo Alves,
+Artificial intelligence in wound care education: Scoping review,
+Nurse Education Today,
+Volume 155,
+2025,
+106872,
+ISSN 0260-6917,
+https://doi.org/10.1016/j.nedt.2025.106872.
+(https://www.sciencedirect.com/science/article/pii/S0260691725003090)
+Abstract: Background
+Artificial intelligence is transforming healthcare education, offering innovative teaching and skill development approaches. However, its implementation and effectiveness in wound care education remain unclear.
+Objective
+To map and analyze the available evidence on the potential impact of artificial intelligence in wound care education, identify knowledge gaps, and provide recommendations for future research.
+Design/methods
+This scoping review followed the Joanna Briggs Institute guidelines for scoping reviews and the PRISMA-ScR guidelines. The search was first conducted in December 2023 and updated on 30 November 2024 across the following databases: CINAHL Ultimate, MEDLINE, Cochrane Library, Academic Search Complete, Scientific Electronic Library Online (Scielo), Scopus, and Web of Science. Grey literature was accessed through Scientific Open Access Scientific Repositories of Portugal (RCAAP), ProQuest Dissertations and Theses, OpenAIRE, and Open Dissertations. Additional searches were performed in Google Scholar and specific journals, including the International Wound Journal, Skin Research and Technology, Journal of Wound Care, and Wound Repair and Regeneration. Eligibility criteria encompassed any study design exploring the use of artificial intelligence in wound care education, published in English, Portuguese, or Spanish, with no restrictions on publication date.
+Results
+This review revealed diverse artificial intelligence applications in wound care education, including adaptive e-learning platforms, virtual and augmented reality simulations, generative artificial intelligence for educational content, and diagnostic and treatment tools. These technologies offer personalized learning experiences, real-time feedback, and interactive engagement to enhance clinical skills. Despite their promise, most studies lacked empirical validation, highlighting significant gaps in integrating artificial intelligence into wound care education.
+Conclusions
+This review highlights artificial intelligence's transformative potential to revolutionize wound care education by fostering interactive and evidence-based learning environments. This work highlights the need for collaboration among educators, policymakers, and researchers. Future research is needed to ensure effective, ethical, and equitable integration of artificial intelligence in wound care education.
+Keywords: Artificial intelligence; Education; Health Education; Nursing Education Research; Review; Wounds; Injuries
+
+Bahar Memarian, Tenzin Doleck,
+Fairness, Accountability, Transparency, and Ethics (FATE) in Artificial Intelligence (AI) and higher education: A systematic review,
+Computers and Education: Artificial Intelligence,
+Volume 5,
+2023,
+100152,
+ISSN 2666-920X,
+https://doi.org/10.1016/j.caeai.2023.100152.
+(https://www.sciencedirect.com/science/article/pii/S2666920X23000310)
+Abstract: Background
+The use of Artificial Intelligence or AI is rising in higher education. With this rise, the morality of AI programs is being questioned. There is, as such, a need to understand how notions of Fairness, Accountability, Transparency, and Ethics or FATE are identified in the AI and higher education studies to date.
+Purpose
+This systematic review paper aims to understand definitions and studies on FATE and AI in the higher education literature. The contribution of this work is to provide a summary of FATE development and the synthesis of the challenges and potentials of each of the reviewed studies.
+Method
+A total of 33 publications from SCOPUS and Web of Science (WoS) were included in this systematic literature review. We examined definitions of FATE noted in the reviewed articles (may have been multiple in each study) and grouped them into descriptive (understandable by laypeople) and technical (containing jargon) definitions. We also examined the main FATE term studied in detail in each reviewed article and grouped them into qualitative and quantitative studies.
+Results
+Findings show more descriptive definitions exist (especially for fairness) and similarly quantitative definitions mostly emerge for Fairness. Findings also show more quantitative studies exist (especially for fairness) and qualitative definitions mostly emerge for ethics. Generally, though, there are more definitions than relevant studies conducted in the literature.
+Conclusion
+This systematic literature review offers a summary of definitions and studies conducted for FATE terms and AI in the higher education literature. Future work may benefit from bridging the gap between laypeople and experts by linking descriptive definitions with technical ones as well as qualitative studies with quantitative ones. Moreover, future work can study accountability and transparency further and make the study of FATE terms more longitudinal, open-access, and reproducible.
+Keywords: Artificial intelligence; Higher education; Fairness; Accountability; Transparency; Ethics

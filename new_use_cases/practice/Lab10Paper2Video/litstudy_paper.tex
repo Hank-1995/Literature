@@ -1,0 +1,122 @@
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+\usepackage{amsmath}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{graphicx}
+\usepackage{booktabs}
+\usepackage{hyperref}
+\usepackage{url}
+\usepackage{xcolor}
+\usepackage{geometry}
+\geometry{a4paper, margin=1in}
+
+\title{litstudy: A Python package for literature reviews}
+\author{Stijn Heldens$^{a,b}$, Alessio Sclocco$^{a}$, Henk Dreuning$^{b}$, Ben van Werkhoven$^{a}$, Pieter Hijma$^{c}$, Jason Maassen$^{a}$, Rob V. van Nieuwpoort$^{a,b}$}
+\date{}
+
+\begin{document}
+
+\maketitle
+
+\begin{abstract}
+Researchers are often faced with exploring new research domains. Broad questions about the research domain, such as who are the influential authors or what are important topics, are difficult to answer due to the overwhelming number of relevant publications. Therefore, we present \textbf{litstudy}: a Python package that enables answering such questions using simple scripts or Jupyter notebooks. The package enables selecting scientific publications and studying their metadata using visualizations, bibliographic network analysis, and natural language processing. The software was previously used in a publication on the landscape of Exascale computing, and we envision great potential for reuse.
+\end{abstract}
+
+\section{Keywords}
+Literature review, Python, Jupyter, Bibliometrics, Code metadata
+
+\section{Motivation and significance}
+
+Researchers often have to explore new scientific domains that are outside their field of expertise. Examples include experienced scholars who want to explore new research directions or early-career researchers (e.g., students) who want to understand the scientific domain of the topic that they will be working on.
+
+However, getting a good broad overview of an area of study is often difficult due to the large number of relevant publications that are available nowadays. For instance, on Elsevier's Scopus, the search query "deep learning" yields 166,583 results, "energy-efficient computer architectures" yields 17,085 results, and "parallel programming model" yields 6,306 results. Going through such a list of publications manually is a monumental effort. Literature reviews present a solution to this problem, but they might not always be available, may be too broad or too narrow in scope, and can be outdated quickly for fast-moving research areas.
+
+In this work, we present \textbf{litstudy}: a Python package that assists in exploring scientific literature. The package can be used from simple Python scripts or Jupyter notebooks, allowing researchers to quickly and interactively experiment with different ideas and methods. Our package is built upon and compatible with many popular tools from Python's data science ecosystem, such as Pandas and NumPy. The package is available for installation from the \textit{Python Package Index} (PyPi).
+
+Overall, \textbf{litstudy} offers five main features:
+
+\begin{itemize}
+\item Extract metadata of scientific documents from various sources. A unified interface allows data from different sources to be combined.
+\item Filter, select, deduplicate, and annotate collections of documents.
+\item Compute and plot general statistics on the metadata of the documents (e.g., statistics per year, per author, per journal, etc.).
+\item Generate, plot, and analyze various bibliographic networks that reveal relations between publications and their authors.
+\item Automatic topic discovery based on natural language processing (NLP).
+\end{itemize}
+
+In particular, \textbf{litstudy} is useful for performing \textit{bibliometric} analysis or for the early stages of a \textit{mapping review} (also referred to as a \textit{scoping review}), where the goal is to get a broad overview of a research field. Our package can also be of assistance during a \textit{systematic} literature review.
+
+\section{Software description}
+
+In this section, we discuss the functionality of \textbf{litstudy}. The package is implemented in Python. The software architecture consists of six modules that are discussed in the following sections: \textit{Bibliographic Data Sources}, \textit{Filtering}, \textit{Statistics}, \textit{Bibliographic Networks}, \textit{Plotting}, and \textit{Natural Language Processing (NLP)}.
+
+\subsection{Bibliographic data sources}
+
+\textbf{litstudy} supports several methods to retrieve metadata of scientific publications. Note that \textbf{litstudy} only works on metadata, it does not fetch or have access to the content of documents.
+
+Table \ref{tab:sources} lists the supported sources and their properties. All sources provide basic metadata such as the title, authors, publication date, and DOI (\textit{Digital Object Identifier}). Some also provide the abstract, which is required when using automatic topic discovery. Several sources provide data on references/citations, required for constructing bibliographic networks.
+
+\begin{table}[h]
+\centering
+\caption{Bibliographic data sources supported by \textbf{litstudy}.}
+\label{tab:sources}
+\begin{tabular}{@{}lcccccc@{}}
+\toprule
+Name & Search by Query & Search by DOI & Basics & Abstract & Refs. & Cited by \\
+\midrule
+Scopus & Yes & Yes & Yes & Yes & Yes & Yes \\
+Semantic Scholar & Yes & Yes & Yes & Yes & Yes & Yes* \\
+CrossRef & -- & Yes & Yes & Yes & Yes & Yes* \\
+dblp & Yes & -- & Yes & -- & -- & -- \\
+Publisher's Search Engine & Yes & -- & Yes & Yes & -- & Yes \\
+BibTeX & -- & -- & Yes & -- & -- & -- \\
+RIS & -- & -- & Yes & -- & -- & -- \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+\subsection{Filtering}
+
+The filtering module provides functionality to filter, select, deduplicate, and annotate collections of documents. This is essential for managing large datasets and ensuring data quality.
+
+\subsection{Statistics}
+
+The statistics module computes and plots general statistics on the metadata of the documents. This includes statistics per year, per author, per journal, and other relevant metrics that help researchers understand the landscape of their research domain.
+
+\subsection{Bibliographic Networks}
+
+The bibliographic networks module generates, plots, and analyzes various bibliographic networks that reveal relations between publications and their authors. This helps identify influential papers, authors, and research clusters.
+
+\subsection{Plotting}
+
+The plotting module provides comprehensive visualization capabilities for all the analysis results, making it easy to create publication-quality figures for research presentations and papers.
+
+\subsection{Natural Language Processing}
+
+The NLP module enables automatic topic discovery based on natural language processing techniques. This helps researchers identify key themes and trends in their research domain without manual analysis.
+
+\section{Illustrative example}
+
+To demonstrate the capabilities of \textbf{litstudy}, we provide a comprehensive example that shows how to use the package for exploring a research domain. The example covers:
+
+\begin{itemize}
+\item Data collection from multiple sources
+\item Data cleaning and preprocessing
+\item Statistical analysis and visualization
+\item Network analysis
+\item Topic modeling
+\end{itemize}
+
+\section{Impact}
+
+\textbf{litstudy} has been successfully used in various research projects, including a publication on the landscape of Exascale computing. The package has received positive feedback from the research community and continues to be actively maintained and developed.
+
+The software is available under the Apache License 2.0 and can be installed from PyPI. Comprehensive documentation is available online, and the development team actively responds to issues and feature requests through GitHub.
+
+\section{Conclusions}
+
+\textbf{litstudy} provides a comprehensive solution for researchers who need to explore and understand scientific literature in their domain. The package's modular architecture, extensive functionality, and ease of use make it an invaluable tool for literature review and bibliometric analysis.
+
+The package's success in real-world applications demonstrates its practical value and potential for widespread adoption in the research community. Future development will focus on expanding the supported data sources, improving the NLP capabilities, and enhancing the visualization features.
+
+\end{document}

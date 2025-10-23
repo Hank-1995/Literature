@@ -1,0 +1,39 @@
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+\usepackage{amsmath}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{graphicx}
+\usepackage{booktabs}
+\usepackage{hyperref}
+\usepackage{url}
+\usepackage{xcolor}
+\usepackage{geometry}
+\usepackage{natbib}
+\geometry{a4paper, margin=1in}
+
+\title{litstudy: A Python package for literature reviews}
+\author{Stijn Heldens$^{a,b}$, Alessio Sclocco$^{a}$, Henk Dreuning$^{b}$, Ben van Werkhoven$^{a}$, Pieter Hijma$^{c}$, Jason Maassen$^{a}$, Rob V. van Nieuwpoort$^{a,b}$}
+\date{}
+
+\begin{document}
+
+\maketitle
+
+\begin{abstract}
+Researchers are often faced with exploring new research domains. Broad questions about the research domain, such as who are the influential authors or what are important topics, are difficult to answer due to the overwhelming number of relevant publications. Therefore, we present \textbf{litstudy}: a Python package that enables answering such questions using simple scripts or Jupyter notebooks. The package enables selecting scientific publications and studying their metadata using visualizations, bibliographic network analysis, and natural language processing. The software was previously used in a publication on the landscape of Exascale computing, and we envision great potential for reuse.
+\end{abstract}
+
+\section{Keywords}
+Literature review, Python, Jupyter, Bibliometrics, Code metadata
+
+\input{section/introduction}
+\input{section/software_description}
+\input{section/illustrative_example}
+\input{section/impact}
+\input{section/conclusion}
+
+\bibliographystyle{plain}
+\bibliography{references}
+
+\end{document}

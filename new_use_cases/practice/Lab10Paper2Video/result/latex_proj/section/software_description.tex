@@ -1,0 +1,48 @@
+\section{Software description}
+
+In this section, we discuss the functionality of \textbf{litstudy}. The package is implemented in Python. The software architecture consists of six modules that are discussed in the following sections: \textit{Bibliographic Data Sources}, \textit{Filtering}, \textit{Statistics}, \textit{Bibliographic Networks}, \textit{Plotting}, and \textit{Natural Language Processing (NLP)}.
+
+\subsection{Bibliographic data sources}
+
+\textbf{litstudy} supports several methods to retrieve metadata of scientific publications. Note that \textbf{litstudy} only works on metadata, it does not fetch or have access to the content of documents.
+
+Table \ref{tab:sources} lists the supported sources and their properties. All sources provide basic metadata such as the title, authors, publication date, and DOI (\textit{Digital Object Identifier}). Some also provide the abstract, which is required when using automatic topic discovery. Several sources provide data on references/citations, required for constructing bibliographic networks.
+
+\begin{table}[h]
+\centering
+\caption{Bibliographic data sources supported by \textbf{litstudy}.}
+\label{tab:sources}
+\begin{tabular}{@{}lcccccc@{}}
+\toprule
+Name & Search by Query & Search by DOI & Basics & Abstract & Refs. & Cited by \\
+\midrule
+Scopus & Yes & Yes & Yes & Yes & Yes & Yes \\
+Semantic Scholar & Yes & Yes & Yes & Yes & Yes & Yes* \\
+CrossRef & -- & Yes & Yes & Yes & Yes & Yes* \\
+dblp & Yes & -- & Yes & -- & -- & -- \\
+Publisher's Search Engine & Yes & -- & Yes & Yes & -- & Yes \\
+BibTeX & -- & -- & Yes & -- & -- & -- \\
+RIS & -- & -- & Yes & -- & -- & -- \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+\subsection{Filtering}
+
+The filtering module provides functionality to filter, select, deduplicate, and annotate collections of documents. This is essential for managing large datasets and ensuring data quality.
+
+\subsection{Statistics}
+
+The statistics module computes and plots general statistics on the metadata of the documents. This includes statistics per year, per author, per journal, and other relevant metrics that help researchers understand the landscape of their research domain.
+
+\subsection{Bibliographic Networks}
+
+The bibliographic networks module generates, plots, and analyzes various bibliographic networks that reveal relations between publications and their authors. This helps identify influential papers, authors, and research clusters.
+
+\subsection{Plotting}
+
+The plotting module provides comprehensive visualization capabilities for all the analysis results, making it easy to create publication-quality figures for research presentations and papers.
+
+\subsection{Natural Language Processing}
+
+The NLP module enables automatic topic discovery based on natural language processing techniques. This helps researchers identify key themes and trends in their research domain without manual analysis.
