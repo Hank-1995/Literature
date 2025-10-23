@@ -1,0 +1,51 @@
+Title Slide
+Title of our paper: "litstudy: A Python package for literature reviews" 
+Authors of the paper, including myself, Stijn Heldens, Alessio Sclocco, Henk Dreuning, Ben van Werkhoven, Pieter Hijma, Jason Maassen, and Rob V. van Nieuwpoort 
+Today's date 
+Motivation
+Often, researchers need to explore new scientific domains outside their field of expertise 
+Getting a broad overview of an area of study is difficult due to the large number of relevant publications 
+Literature reviews present a solution, but they might not always be available, may be too broad or too narrow in scope, and can be outdated quickly 
+Related Work
+Bibliometric analysis and literature review are essential tools for researchers 
+Current tools and methods have limitations, such as being too broad or too narrow in scope, or being outdated quickly 
+Method
+We introduce litstudy, a Python package for literature reviews 
+litstudy has a modular architecture, extensive functionality, and ease of use 
+Five main features of litstudy: extracting metadata, filtering and selecting documents, computing statistics, generating bibliographic networks, and automatic topic discovery 
+Method Details - Bibliographic Data Sources
+litstudy supports several methods to retrieve metadata of scientific publications 
+Unified interface allows data from different sources to be combined 
+Method Details - Filtering
+litstudy has functionality to filter, select, deduplicate, and annotate collections of documents 
+This is essential for managing large datasets and ensuring data quality 
+Method Details - Statistics
+litstudy computes and plots general statistics on the metadata of the documents 
+This includes statistics per year, per author, per journal, and other relevant metrics 
+Method Details - Bibliographic Networks
+litstudy generates, plots, and analyzes various bibliographic networks that reveal relations between publications and their authors 
+This helps identify influential papers, authors, and research clusters 
+Method Details - Natural Language Processing
+litstudy enables automatic topic discovery based on natural language processing techniques 
+This helps researchers identify key themes and trends in their research domain 
+Experimental Method
+We demonstrate the capabilities of litstudy through a comprehensive example 
+This includes data collection, data cleaning and preprocessing, statistical analysis and visualization, network analysis, and topic modeling 
+Experimental Setting
+We used a dataset from multiple sources of scientific publications 
+We varied various parameters for data cleaning, filtering, and analysis 
+We used Python, the litstudy package, and Jupyter notebooks for the experiment 
+Experimental Results
+Our results show the effectiveness of litstudy in exploring a research domain 
+litstudy successfully demonstrated its capabilities 
+Ablation Experiment
+We validated the role of key modules in litstudy through an ablation experiment 
+Results show the importance of each module in the overall functionality of litstudy 
+Deficiencies
+Current methods and tools for literature review and bibliometric analysis have limitations 
+litstudy addresses some of these limitations, but there is still room for improvement 
+Future Research
+Future work includes expanding the supported data sources 
+Improving the NLP capabilities and enhancing the visualization features are also planned 
+End Slide
+Thank you for your attention
