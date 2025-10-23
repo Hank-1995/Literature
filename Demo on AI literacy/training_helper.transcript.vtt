@@ -1,0 +1,2878 @@
+WEBVTT
+
+1
+00:00:02.350 --> 00:00:04.380
+Simon Wang: Recording this, alright, so…
+
+2
+00:00:05.160 --> 00:00:15.919
+Simon Wang: Yeah, thank you for your interest, thank you for taking the time to join the briefing session today, and also to serve as a student helper.
+
+3
+00:00:18.070 --> 00:00:26.819
+Simon Wang: for the workshop. And, of course, you know, this video will be made available for other students who might be interested in, this as well.
+
+4
+00:00:27.110 --> 00:00:29.209
+Simon Wang: And
+
+5
+00:00:29.440 --> 00:00:41.169
+Simon Wang: in addition to the upcoming workshop that we're going to run at Hong Kong Yu, there will be another Friday workshop.
+
+6
+00:00:41.610 --> 00:00:44.740
+Simon Wang: in the first Friday of November.
+
+7
+00:00:45.020 --> 00:00:57.610
+Simon Wang: Actually, on that day, in the morning, 1.30 to 2.30, I will be running a workshop just one hour for a group of research students from biology department.
+
+8
+00:00:57.850 --> 00:00:59.040
+Simon Wang: And then…
+
+9
+00:00:59.350 --> 00:01:09.349
+Simon Wang: Around 4.30pm, I will go to communication school. There's another small group of PhD students. I'll be running workshop over there.
+
+10
+00:01:09.740 --> 00:01:14.900
+Simon Wang: So I expect there will be kind of a workshop series
+
+11
+00:01:15.070 --> 00:01:22.910
+Simon Wang: in the coming weeks, and also next semester, that I will be introducing, AI Agent.
+
+12
+00:01:24.050 --> 00:01:30.980
+Simon Wang: So… I mean, today's briefing is…
+
+13
+00:01:31.370 --> 00:01:35.019
+Simon Wang: a couple of reasons, a couple of objectives. One is to, kind of.
+
+14
+00:01:35.700 --> 00:01:44.229
+Simon Wang: Give everybody here another round of, so-called training, so you know What you need to do.
+
+15
+00:01:44.880 --> 00:01:54.740
+Simon Wang: And most importantly, when you become a student assistant in a workshop environment, You need to work with
+
+16
+00:01:55.420 --> 00:02:12.909
+Simon Wang: participants who have, you know, near-zero, experience of, programming, near-zero experience of, AI agent, or IDE, integrated,
+
+17
+00:02:12.960 --> 00:02:20.469
+Simon Wang: development environments, and I assume that most of you have got some experience. So…
+
+18
+00:02:21.040 --> 00:02:31.879
+Simon Wang: you need to be able to basically troubleshoot, right? So when… when a participant run into difficulties or obstacles, you need to help.
+
+19
+00:02:32.610 --> 00:02:37.570
+Simon Wang: Help them to overcome And,
+
+20
+00:02:39.760 --> 00:02:43.990
+Simon Wang: So that's, that's kind of a more technical side, so… so when, when you,
+
+21
+00:02:44.070 --> 00:03:01.979
+Simon Wang: later on, I'm going to invite you to go through a couple steps. You need to, of course, you have to go through the steps, but then more importantly, you need to consider and kind of imagine what kind of problems or difficulties that the participants may run into, you know, during the workshop.
+
+22
+00:03:02.850 --> 00:03:08.540
+Simon Wang: I'm not quite sure about the… the setting on Friday evening.
+
+23
+00:03:08.830 --> 00:03:15.770
+Simon Wang: Hopefully there will be enough space for you to walk around and help, students.
+
+24
+00:03:16.230 --> 00:03:20.280
+Simon Wang: But before we get into the more hands-on part, I just want to…
+
+25
+00:03:20.440 --> 00:03:27.010
+Simon Wang: Kind of, talk a little bit about… The basics, alright?
+
+26
+00:03:27.320 --> 00:03:28.490
+Simon Wang: So…
+
+27
+00:03:29.200 --> 00:03:38.459
+Simon Wang: There are two ways to communicate with AI, so this would be sort of, kind of a more conceptual level of discussion here.
+
+28
+00:03:39.190 --> 00:03:47.059
+Simon Wang: One way is to talk to your AI through browser, right? If you go to… PoE, for example.
+
+29
+00:03:47.680 --> 00:04:01.230
+Simon Wang: and there's a browser here, and you talk to different models. You type some prompts, and the chatbot will respond, so you have a natural language conversation.
+
+30
+00:04:01.660 --> 00:04:06.219
+Simon Wang: And obviously, this is a pretty intuitive and also very…
+
+31
+00:04:06.400 --> 00:04:17.330
+Simon Wang: convenient way of talking to AI. But, it's also very time-consuming in the sense that if you have to, like, write in an essay or doing something else.
+
+32
+00:04:17.730 --> 00:04:22.160
+Simon Wang: There will be constant context switching, right? So you have to go back and forth.
+
+33
+00:04:22.400 --> 00:04:28.180
+Simon Wang: And that's actually… I think that's a major limitation, because…
+
+34
+00:04:28.560 --> 00:04:33.900
+Simon Wang: On the one hand, you need to give the AI all the contextual information about what you're doing.
+
+35
+00:04:34.190 --> 00:04:41.410
+Simon Wang: by copy and pasting, but then, even through extensive copy-pasting, AI won't be able to
+
+36
+00:04:41.520 --> 00:04:45.759
+Simon Wang: Access all the context or contextual information about your project.
+
+37
+00:04:46.740 --> 00:04:52.369
+Simon Wang: But, now, what we are going to do is to basically
+
+38
+00:04:52.700 --> 00:04:59.869
+Simon Wang: introduces IDE, Integrated Development Environment, and this term could be very…
+
+39
+00:05:00.070 --> 00:05:04.380
+Simon Wang: Unfamiliar to a lot of participants with little programming.
+
+40
+00:05:04.490 --> 00:05:10.830
+Simon Wang: background, because essentially IDE is a tool for development.
+
+41
+00:05:11.910 --> 00:05:22.259
+Simon Wang: And I consider this as… as my innovation. I don't know how much, credit I can claim, because I'm pretty sure that other people
+
+42
+00:05:22.520 --> 00:05:25.279
+Simon Wang: Have probably thought of something similar.
+
+43
+00:05:25.810 --> 00:05:33.160
+Simon Wang: But, I think this is a little bit unusual, that we are borrowing this idea and tools from
+
+44
+00:05:33.470 --> 00:05:37.640
+Simon Wang: programming community from people who do programming primarily.
+
+45
+00:05:37.990 --> 00:05:43.559
+Simon Wang: But then we're gonna take this tool, but then we're going to introduce it to non-programmers.
+
+46
+00:05:44.390 --> 00:05:49.929
+Simon Wang: So, one thing I have to clarify is that the workshop on Friday and also
+
+47
+00:05:50.610 --> 00:05:58.309
+Simon Wang: the upcoming workshops are not really vibe coding, okay? It is not vibe coding, because
+
+48
+00:05:58.510 --> 00:06:02.509
+Simon Wang: Well, at least VIP coding is not the primary focus.
+
+49
+00:06:02.790 --> 00:06:08.439
+Simon Wang: Because even though IDE or AI Agent is very good at supporting VIP coding.
+
+50
+00:06:08.620 --> 00:06:11.610
+Simon Wang: I'm actually trying to teach…
+
+51
+00:06:11.760 --> 00:06:18.500
+Simon Wang: the participants to benefit from the IDE, but then to perform all non-programming tasks.
+
+52
+00:06:19.690 --> 00:06:27.860
+Simon Wang: But of course, while we're doing non-programming tasks, from time to time, we might benefit from some tools.
+
+53
+00:06:28.340 --> 00:06:31.969
+Simon Wang: That involves whole programming. For example.
+
+54
+00:06:32.450 --> 00:06:49.259
+Simon Wang: AI agent cannot really read PDF, right? If you send a file pass of a PDF file to the AI agent, the AI agent will say, sorry, I cannot really read PDF, but then what do you do?
+
+55
+00:06:49.380 --> 00:06:55.260
+Simon Wang: Well, you can just write a Python program to convert the PDF into Markdown.
+
+56
+00:06:55.520 --> 00:07:01.709
+Simon Wang: Right? And that can be done, ad hoc, so it's an ad hoc programming task.
+
+57
+00:07:01.890 --> 00:07:03.340
+Simon Wang: So,
+
+58
+00:07:03.630 --> 00:07:21.280
+Simon Wang: it's like, okay, so there's, like, a couple of PDFs in the folder, and you tell the agent, say, oh, we've got a couple of PDFs in this folder, can you write a, Python program to convert the PDF into Markdown? And then the AI agent will do it right away.
+
+59
+00:07:21.330 --> 00:07:40.929
+Simon Wang: and then there will be a script, a Python program, and the AI agent will not just write the Python program, it will install all the requirements, all the dependencies, and then run the program, and there will be a couple of markdown files in the same folder as the PDFs.
+
+60
+00:07:41.070 --> 00:07:43.780
+Simon Wang: So all this can be done,
+
+61
+00:07:43.930 --> 00:07:49.760
+Simon Wang: by just one or two lines of instructions sent to AI agent.
+
+62
+00:07:50.540 --> 00:07:58.260
+Simon Wang: But, I'm not trying to teach this, like, vibe coding, Because…
+
+63
+00:07:58.520 --> 00:08:05.740
+Simon Wang: it's kind of peripheral, right? It's not our main concern, right? So what is our main concern?
+
+64
+00:08:06.550 --> 00:08:13.059
+Simon Wang: Our main concern is actually Trying to showcase the potential and the…
+
+65
+00:08:13.370 --> 00:08:18.720
+Simon Wang: power of AI Agent for academic rating.
+
+66
+00:08:18.850 --> 00:08:20.550
+Simon Wang: and academic research.
+
+67
+00:08:20.920 --> 00:08:32.590
+Simon Wang: Okay? That's why on Friday, and also, you know, later on, my primary… Audience would be research students.
+
+68
+00:08:32.820 --> 00:08:38.989
+Simon Wang: Okay. Now… For you guys, who are undergraduates, you are mostly,
+
+69
+00:08:39.640 --> 00:08:48.470
+Simon Wang: first year, second year, or maybe third year undergraduates. I think most of the students here are actually first or second year students.
+
+70
+00:08:48.690 --> 00:08:54.040
+Simon Wang: I would consider this an opportunity for you to connect with the research community.
+
+71
+00:08:54.760 --> 00:09:02.880
+Simon Wang: And of course, not everybody will eventually join the research community, you know, you may not pursue an advanced degree or PhD or whatever.
+
+72
+00:09:03.040 --> 00:09:21.010
+Simon Wang: But, still, you know, it would be a good opportunity to, to kind of learn… learn more about how people do research, right? Because later on, you will have to write your FYP, right? A final year project, that's also a piece of research work you need to do.
+
+73
+00:09:21.820 --> 00:09:27.049
+Simon Wang: So… In a way, what…
+
+74
+00:09:27.600 --> 00:09:33.790
+Simon Wang: What we are trying to do here is to figure out How we can,
+
+75
+00:09:34.460 --> 00:09:40.529
+Simon Wang: Leverage this tool to support, research and support writing.
+
+76
+00:09:41.280 --> 00:09:50.780
+Simon Wang: Now, I'm not… trying to claim, and actually, I do not have a complete solution.
+
+77
+00:09:51.340 --> 00:09:55.829
+Simon Wang: Regarding how to use AI agent to support research and writing.
+
+78
+00:09:56.400 --> 00:10:03.830
+Simon Wang: Some of the ideas are actually half-baked. It's not a mature solution.
+
+79
+00:10:04.520 --> 00:10:15.829
+Simon Wang: But, I decided to run some workshop anyway, is because, number one, I feel that, this is such an exciting and powerful tool that,
+
+80
+00:10:16.120 --> 00:10:17.560
+Simon Wang: the earlier.
+
+81
+00:10:18.520 --> 00:10:34.439
+Simon Wang: to introduce it to more people, the better, right? But then, more importantly, I think this is a learning process for everybody, okay? Not just for the participants of the workshop, but for myself as well. Because through interacting with the
+
+82
+00:10:34.690 --> 00:10:42.170
+Simon Wang: the research students And learn about their needs, and, explore how these tools can help them.
+
+83
+00:10:42.380 --> 00:10:45.120
+Simon Wang: This will be a very useful
+
+84
+00:10:45.230 --> 00:10:50.050
+Simon Wang: experience for me as well, because I have…
+
+85
+00:10:50.550 --> 00:11:04.630
+Simon Wang: this job, which is to help research students to develop their AI skills, and, to use AI to empower, research and writing, okay? So, so that's, that's,
+
+86
+00:11:05.030 --> 00:11:12.190
+Simon Wang: That's kind of the background here. Now, there's another article I want to quickly show you guys.
+
+87
+00:11:12.920 --> 00:11:16.880
+Simon Wang: Which is…
+
+88
+00:11:18.680 --> 00:11:26.849
+Simon Wang: Right here. So, I probably, if somebody can help me, you know, we can put a link here.
+
+89
+00:11:27.900 --> 00:11:31.170
+Simon Wang: And maybe a couple of bullet points.
+
+90
+00:11:31.330 --> 00:11:34.699
+Simon Wang: And this is… this is a very recent paper.
+
+91
+00:11:37.440 --> 00:11:40.309
+Simon Wang: Not really a paper, but more like an article.
+
+92
+00:11:41.720 --> 00:11:48.830
+Simon Wang: But it provides a good, kind of, introduction?
+
+93
+00:11:49.120 --> 00:11:50.880
+Simon Wang: to the AI agent?
+
+94
+00:11:51.030 --> 00:11:55.970
+Simon Wang: in the context of, supporting research, so I think…
+
+95
+00:11:56.090 --> 00:12:01.550
+Simon Wang: you know, during the workshop at the beginning, I'll probably just, introduced this…
+
+96
+00:12:02.030 --> 00:12:04.270
+Simon Wang: This, article a little bit.
+
+97
+00:12:04.520 --> 00:12:11.720
+Simon Wang: Because what we are doing… Is, quite similar, right?
+
+98
+00:12:12.390 --> 00:12:14.240
+Simon Wang: So what is an AI agent?
+
+99
+00:12:16.410 --> 00:12:21.449
+Simon Wang: It is not doTERRO, right? doTERRO, like, citation managers, everybody use that.
+
+100
+00:12:21.870 --> 00:12:24.570
+Simon Wang: But,
+
+101
+00:12:24.800 --> 00:12:44.569
+Simon Wang: Agents use large language models to make and refine plans on the fly for a variety of multi-step goals. Unlike long LLMs, they also harness tools to take action in the real world, for instance, to write and run codes or navigate databases.
+
+102
+00:12:45.380 --> 00:12:48.029
+Simon Wang: With some interacting with each other.
+
+103
+00:12:48.620 --> 00:12:54.229
+Simon Wang: And using working memory to remember user preferences and previous actions.
+
+104
+00:12:54.490 --> 00:13:01.850
+Simon Wang: So, through these statements, we kind of get a glimpse of the state-of-the-art technologies.
+
+105
+00:13:02.210 --> 00:13:08.569
+Simon Wang: So, what we are going to demonstrate Are not as…
+
+106
+00:13:08.870 --> 00:13:17.599
+Simon Wang: fancy or as, as, advanced, or sophisticated as… What the paragraph… describes here.
+
+107
+00:13:17.760 --> 00:13:22.780
+Simon Wang: But, we are pretty close, okay? I think…
+
+108
+00:13:22.970 --> 00:13:27.290
+Simon Wang: some of the basic operations and techniques that I'm going to demonstrate.
+
+109
+00:13:27.860 --> 00:13:31.380
+Simon Wang: would… Would be pretty close to this.
+
+110
+00:13:31.570 --> 00:13:32.510
+Simon Wang: Okay.
+
+111
+00:13:33.410 --> 00:13:37.030
+Simon Wang: Yeah, so… so…
+
+112
+00:13:38.060 --> 00:13:47.620
+Simon Wang: And we can read a bit more. Here it says, streamlining everyday research tasks is one goal, and according to this particular
+
+113
+00:13:48.000 --> 00:13:59.899
+Simon Wang: The researcher… Hold on one second, I think it seems like this researcher is coming to… be you.
+
+114
+00:14:01.690 --> 00:14:03.499
+Simon Wang: Or it could be a different one.
+
+115
+00:14:08.650 --> 00:14:14.019
+Simon Wang: Yeah, it's a different one. Okay, anyway, so here, he says,
+
+116
+00:14:15.240 --> 00:14:23.580
+Simon Wang: Every PhD student now has their own AI agent that effectively serves as a research assistant
+
+117
+00:14:25.610 --> 00:14:31.049
+Simon Wang: Okay, these homemade agents, You see, homemade agents.
+
+118
+00:14:31.220 --> 00:14:41.320
+Simon Wang: Help the team to perform low-stakes tasks, such as curating datasets, turning text into tables, and writing certain pieces of text.
+
+119
+00:14:41.950 --> 00:14:49.070
+Simon Wang: Now, unfortunately, because it's a homemade agent, we have no idea how exactly that would work.
+
+120
+00:14:49.200 --> 00:14:53.570
+Simon Wang: But just based on this description, it sounds pretty exciting.
+
+121
+00:14:53.710 --> 00:14:58.099
+Simon Wang: And, what I'm going to demonstrate on Friday, and also tonight.
+
+122
+00:14:58.220 --> 00:15:00.779
+Simon Wang: I hope, it can…
+
+123
+00:15:01.400 --> 00:15:09.200
+Simon Wang: it can be comparable to what is being described here. And notice that, this piece…
+
+124
+00:15:09.350 --> 00:15:14.610
+Simon Wang: Was published early this month, so this is pretty… You know, recent.
+
+125
+00:15:15.040 --> 00:15:31.299
+Simon Wang: probably the latest development of the technology. So, in a sense, I think we are at the frontier of this application of AI agent, okay? So, I hope all of you could
+
+126
+00:15:31.390 --> 00:15:40.599
+Simon Wang: recognize the potential of this tool. And, not just, when you join the workshop and help
+
+127
+00:15:40.740 --> 00:15:42.300
+Simon Wang: the research students
+
+128
+00:15:42.700 --> 00:15:48.649
+Simon Wang: But, you want to think about how this tool can also change the way you learn, right?
+
+129
+00:15:49.050 --> 00:15:55.509
+Simon Wang: Yeah, so, so, sounds, sounds, hopefully it sounds pretty exciting.
+
+130
+00:15:55.920 --> 00:15:56.910
+Simon Wang: Nope.
+
+131
+00:16:00.570 --> 00:16:13.230
+Simon Wang: This is the… repository, GitHub repository, and I assume all of you have got The,
+
+132
+00:16:13.630 --> 00:16:19.230
+Simon Wang: Because right now, there's only two forked. That means most of you have not yet forked.
+
+133
+00:16:19.500 --> 00:16:22.229
+Simon Wang: So maybe you guys can go ahead and forkt?
+
+134
+00:16:22.470 --> 00:16:24.859
+Simon Wang: This, repository?
+
+135
+00:16:25.060 --> 00:16:32.210
+Simon Wang: If you haven't done it, and once you've forked.
+
+136
+00:16:37.060 --> 00:16:39.150
+Simon Wang: So, you can actually…
+
+137
+00:16:39.680 --> 00:16:47.540
+Simon Wang: Because I cannot fork again, because there's already… it's my repository, but I can go to another…
+
+138
+00:16:47.650 --> 00:17:00.110
+Simon Wang: my other account, or team, and then I can fork it. So I create a fork, so everybody please do that. And more importantly, we want to consider
+
+139
+00:17:00.410 --> 00:17:05.460
+Simon Wang: like, how… You know, on Friday.
+
+140
+00:17:06.150 --> 00:17:13.319
+Simon Wang: you know, hopefully everybody will be able to do it fairly, in a fairly straightforward way, okay?
+
+141
+00:17:15.329 --> 00:17:17.270
+Simon Wang: So please go ahead and do that.
+
+142
+00:17:17.560 --> 00:17:26.990
+Simon Wang: Oh, by the way, maybe you should also star it. You know, because in a GitHub world, star is a,
+
+143
+00:17:27.319 --> 00:17:38.109
+Simon Wang: just, like, like, right? How many stars you're gonna get would be a good sign of, how good this repository is. So, everybody, please star.
+
+144
+00:17:38.220 --> 00:17:40.410
+Simon Wang: The repository.
+
+145
+00:17:41.220 --> 00:17:46.130
+Simon Wang: Oh, actually, it's not this one, but the previous one, but this one.
+
+146
+00:17:46.930 --> 00:17:47.840
+Simon Wang: Okay.
+
+147
+00:17:50.050 --> 00:18:01.350
+Simon Wang: Great, so it looks like everybody has just forked, which is great. Now, once you forked, you essentially gather your own copy of this repository.
+
+148
+00:18:01.550 --> 00:18:10.599
+Simon Wang: But, later on, you will have the opportunity to synchronize, and also to contribute, okay? And, and that's something…
+
+149
+00:18:10.770 --> 00:18:13.259
+Simon Wang: We can discuss a little bit later.
+
+150
+00:18:13.480 --> 00:18:14.980
+Simon Wang: In fact.
+
+151
+00:18:15.100 --> 00:18:30.630
+Simon Wang: all of you could potentially contribute to this, repository, right? Especially if you are more advanced in programming, or if you have some good ideas in terms of use case, I'd be happy to, you know.
+
+152
+00:18:31.200 --> 00:18:34.430
+Simon Wang: You know, get more help and input from you.
+
+153
+00:18:36.060 --> 00:18:43.740
+Simon Wang: Now, once everybody is forked, everybody got their own version or copy of the repository under their own account.
+
+154
+00:18:43.930 --> 00:18:47.370
+Simon Wang: The next step is to open the code space.
+
+155
+00:18:47.530 --> 00:18:53.649
+Simon Wang: On the virtual GitHub environment.
+
+156
+00:18:54.190 --> 00:19:01.859
+Simon Wang: Because now, we need to use AI Agent to kind of run these codes.
+
+157
+00:19:02.010 --> 00:19:05.349
+Simon Wang: And, to write files and everything.
+
+158
+00:19:08.640 --> 00:19:17.340
+Simon Wang: But, one way, of course, is you can open up a VS Code, and you can set up a folder, and then you can clone this.
+
+159
+00:19:17.690 --> 00:19:26.649
+Simon Wang: Whole repository to the local folder, and then you can work on the local folder, and then later on, you can push the local, modified version back.
+
+160
+00:19:26.790 --> 00:19:32.249
+Simon Wang: to the… Github reporter. But now.
+
+161
+00:19:32.520 --> 00:19:35.549
+Simon Wang: I want to take a more, kind of.
+
+162
+00:19:35.800 --> 00:19:45.989
+Simon Wang: I wouldn't call it a shortcut, but it's kind of a more convenient option, which is instead of installing VS Code on your local computer, because that can take
+
+163
+00:19:46.110 --> 00:19:49.590
+Simon Wang: some time, we're gonna just create a code space.
+
+164
+00:19:49.810 --> 00:19:56.319
+Simon Wang: on the… Kind of a virtual environment.
+
+165
+00:19:56.860 --> 00:20:03.330
+Simon Wang: And it got its, it's got its, advantage, right, because you don't have to worry about…
+
+166
+00:20:04.320 --> 00:20:09.290
+Simon Wang: the… Installing anything.
+
+167
+00:20:10.120 --> 00:20:23.430
+Simon Wang: But, of course, it also has its disadvantage. One thing is, if you leave it inactive for a while, it may be… become inactive, it will be automatically closed.
+
+168
+00:20:25.700 --> 00:20:26.760
+Simon Wang: Okay?
+
+169
+00:20:27.520 --> 00:20:33.870
+Simon Wang: So, now, we are in this environment, and I would assume everybody can, you know.
+
+170
+00:20:34.560 --> 00:20:50.099
+Simon Wang: get to here, no problem. But, if we're running a workshop for non-computer science majors, or for students with limited experience, then even this step, we have to ensure everybody's on the same page.
+
+171
+00:20:51.200 --> 00:20:55.280
+Simon Wang: Now, once we enter here, we can…
+
+172
+00:20:55.950 --> 00:21:00.460
+Simon Wang: Basically, very quickly explain to, to the…
+
+173
+00:21:00.590 --> 00:21:07.189
+Simon Wang: Participants that, on the left-hand side, we got some folders and subfolders, right?
+
+174
+00:21:07.730 --> 00:21:08.690
+Simon Wang: Okay.
+
+175
+00:21:09.330 --> 00:21:11.530
+Simon Wang: So this would be…
+
+176
+00:21:11.990 --> 00:21:18.609
+Simon Wang: like, our project folder. You consider this as a project folder. There are different files, subfolders, and everything.
+
+177
+00:21:21.250 --> 00:21:28.200
+Simon Wang: And then, here is, area where we edit a specific file, okay?
+
+178
+00:21:28.880 --> 00:21:40.569
+Simon Wang: And then this is the terminal area, which is where we can write some command lines. Or sometimes the AI agent will write a command line, run command lines for us.
+
+179
+00:21:41.070 --> 00:21:53.150
+Simon Wang: And on the right-hand side, this is the most exciting part, because this is where we're going to talk to AI, and it's not a chatbot, but it is actually an agent.
+
+180
+00:21:54.230 --> 00:22:02.910
+Simon Wang: So you can say hi… Now, if the students is the first time to say hi to,
+
+181
+00:22:03.610 --> 00:22:04.840
+Simon Wang: the agent…
+
+182
+00:22:05.400 --> 00:22:15.520
+Simon Wang: then they will be asked to sign in again, which is confusing, because, you know, we already signed in, that's how we get here, but then we need to sign in again.
+
+183
+00:22:17.320 --> 00:22:32.670
+Simon Wang: I mean, in my case, because I signed in before, I got this step skipped, but for the participants of the workshop, they may have to sign in again, so we have to explain to them, okay, sorry about the actual trouble, but whatever, you have to just sign in.
+
+184
+00:22:33.460 --> 00:22:35.430
+Simon Wang: And also.
+
+185
+00:22:35.990 --> 00:22:43.889
+Simon Wang: Because they are under free account, and probably you are also under free account, the kind of…
+
+186
+00:22:45.730 --> 00:22:50.430
+Simon Wang: The kind of agent that you can access would be limited.
+
+187
+00:22:50.580 --> 00:22:57.100
+Simon Wang: It would be very different from what I've got, because I got a education benefit.
+
+188
+00:22:57.640 --> 00:23:05.660
+Simon Wang: Okay. Actually, I'm not paying… for the keyhub agent, instead, I apply for education benefit.
+
+189
+00:23:06.920 --> 00:23:17.250
+Simon Wang: So this is why I actually would encourage everybody to apply for education benefit, and I will, encourage all the workshop participants to do so as well.
+
+190
+00:23:17.680 --> 00:23:21.170
+Simon Wang: And that process is not necessarily smooth.
+
+191
+00:23:21.320 --> 00:23:25.700
+Simon Wang: You, you could get rejected for, for different reasons.
+
+192
+00:23:25.900 --> 00:23:29.119
+Simon Wang: And that's something separately we can talk about.
+
+193
+00:23:29.450 --> 00:23:37.869
+Simon Wang: But one thing we do want to remind students before they go ahead and talk to the AI is to ensure that they actually select the agent.
+
+194
+00:23:38.200 --> 00:23:40.450
+Simon Wang: Not ask, not edit.
+
+195
+00:23:40.680 --> 00:23:44.109
+Simon Wang: Because if they are… they select ask or edit.
+
+196
+00:23:44.220 --> 00:23:59.049
+Simon Wang: the behavior will be very, very different, okay? Only when agent is selected and there's a check next to it, we will be able to enjoy the full benefits of an agent, which is autonomously performing certain tasks.
+
+197
+00:24:00.990 --> 00:24:01.980
+Simon Wang: Okay?
+
+198
+00:24:06.150 --> 00:24:10.090
+Simon Wang: So now we are in business. We can start talking to AI.
+
+199
+00:24:11.100 --> 00:24:18.799
+Simon Wang: The basic operation would be something that we can demonstrate at the very beginning.
+
+200
+00:24:19.100 --> 00:24:24.709
+Simon Wang: Which is to intra- which is the first folder here, Introduction to Agent.
+
+201
+00:24:24.950 --> 00:24:25.960
+Simon Wang: Okay?
+
+202
+00:24:26.160 --> 00:24:33.370
+Simon Wang: And we need to… Present some…
+
+203
+00:24:34.440 --> 00:24:37.940
+Simon Wang: Operations and steps, and we need to give
+
+204
+00:24:38.430 --> 00:24:45.389
+Simon Wang: The participants some, opportunities to… Practice.
+
+205
+00:24:45.700 --> 00:24:49.319
+Simon Wang: So that's why I prepared a Jupyter notebook.
+
+206
+00:24:49.630 --> 00:24:56.519
+Simon Wang: Okay? So this is the file, under folder practice, under Introduction to Agent.
+
+207
+00:24:56.960 --> 00:24:59.030
+Simon Wang: We have a Jupyter notebook.
+
+208
+00:24:59.580 --> 00:25:03.560
+Simon Wang: But this Jupyter Notebook is actually,
+
+209
+00:25:04.820 --> 00:25:20.969
+Simon Wang: very basic, okay? So, we could change this… change this a little bit. And, I mean, I'm not even sure we should use Jupyter Notebook, but we can decide, you know, we can decide tonight, we can fix the codes a little bit tomorrow.
+
+210
+00:25:21.110 --> 00:25:25.549
+Simon Wang: So, and then on Friday, we will present this.
+
+211
+00:25:27.470 --> 00:25:28.370
+Simon Wang: Now.
+
+212
+00:25:30.510 --> 00:25:39.949
+Simon Wang: This exercise says, create a research project structure. Ask your AI agents to create a folder structure for your research project.
+
+213
+00:25:40.610 --> 00:25:54.150
+Simon Wang: Okay? And use AI agent to generate codes for creating research folder structure. Now, actually, I'm not necessarily would ask the AI agent to.
+
+214
+00:25:55.830 --> 00:26:06.040
+Simon Wang: write any codes, because I think AI kind of misunderstood me. I'm not asking to generate codes. I'm asking AI agent to create folders
+
+215
+00:26:06.690 --> 00:26:09.759
+Simon Wang: Directly. Okay, so what do we do?
+
+216
+00:26:10.230 --> 00:26:16.609
+Simon Wang: Actually, we can… write… A simple instruction file.
+
+217
+00:26:17.960 --> 00:26:20.279
+Simon Wang: Let's call it instruction.md.
+
+218
+00:26:21.990 --> 00:26:30.150
+Simon Wang: And, we're gonna say, well… We're gonna say, generate…
+
+219
+00:26:31.140 --> 00:26:36.530
+Simon Wang: So, well, usually, usually we say input, process, output, right?
+
+220
+00:26:36.740 --> 00:26:42.910
+Simon Wang: So, let's say input… process… Output.
+
+221
+00:26:43.130 --> 00:26:43.860
+Simon Wang: Right.
+
+222
+00:26:44.560 --> 00:26:46.429
+Simon Wang: So, what is input?
+
+223
+00:26:47.870 --> 00:26:53.170
+Simon Wang: The input could be a… Expected structure, right?
+
+224
+00:26:53.410 --> 00:26:56.409
+Simon Wang: we call it… Expert is structural.
+
+225
+00:26:58.000 --> 00:26:58.760
+Simon Wang: Alright.
+
+226
+00:26:59.140 --> 00:27:11.920
+Simon Wang: So what is… What is the, the, the, the process? The process is to take this… structure above.
+
+227
+00:27:13.100 --> 00:27:25.500
+Simon Wang: And, generate a set of… Generate a folder, And some subfolders.
+
+228
+00:27:31.700 --> 00:27:33.920
+Simon Wang: Based on this structure.
+
+229
+00:27:35.920 --> 00:27:40.310
+Simon Wang: Okay? And what is output? Well, output would be…
+
+230
+00:27:40.610 --> 00:27:45.620
+Simon Wang: We create a folder here, and we call it… Research.
+
+231
+00:27:46.690 --> 00:27:53.460
+Simon Wang: Okay? And then… we… Copy pass. Now, this is a very important step.
+
+232
+00:27:53.730 --> 00:27:56.629
+Simon Wang: Because you need to tell the AI agent
+
+233
+00:27:57.400 --> 00:28:03.390
+Simon Wang: where to look for folder or anything. So, when you right-click.
+
+234
+00:28:04.850 --> 00:28:10.200
+Simon Wang: and you select this folder called Research, and you copy-pass.
+
+235
+00:28:12.550 --> 00:28:19.389
+Simon Wang: So, you, you copy and past here, and you say, put… the subfolders.
+
+236
+00:28:20.260 --> 00:28:21.200
+Simon Wang: Here.
+
+237
+00:28:23.820 --> 00:28:35.010
+Simon Wang: Now… We have a instruction file here, And we copy this… File pass again.
+
+238
+00:28:41.890 --> 00:28:46.139
+Simon Wang: And we can say, execute… the instructions.
+
+239
+00:28:48.100 --> 00:28:49.120
+Simon Wang: Okay.
+
+240
+00:28:49.270 --> 00:28:53.110
+Simon Wang: in the file. And… and this is actually optional.
+
+241
+00:28:53.290 --> 00:28:54.660
+Simon Wang: You see what I mean? If
+
+242
+00:28:55.000 --> 00:28:57.259
+Simon Wang: If the agent is smart enough.
+
+243
+00:28:57.790 --> 00:29:02.530
+Simon Wang: You don't even have to say that. You simply provide a file pass.
+
+244
+00:29:05.170 --> 00:29:15.289
+Simon Wang: And, when you provide a file pass, The agent will read the instruction files.
+
+245
+00:29:18.370 --> 00:29:23.049
+Simon Wang: And then it will create the subfolders for us.
+
+246
+00:29:23.340 --> 00:29:25.560
+Simon Wang: and put it… Here.
+
+247
+00:29:25.830 --> 00:29:26.760
+Simon Wang: Okay?
+
+248
+00:29:27.530 --> 00:29:31.410
+Simon Wang: Now, this is just a very quick demo.
+
+249
+00:29:32.100 --> 00:29:44.770
+Simon Wang: to… illustrate The power of… AI agent, Because now… What do we get from…
+
+250
+00:29:44.880 --> 00:29:47.339
+Simon Wang: The AI is not just text…
+
+251
+00:29:47.820 --> 00:29:50.900
+Simon Wang: responses, right? It's not like talking to a chatbot.
+
+252
+00:29:51.670 --> 00:29:55.070
+Simon Wang: We provide some instruction, including file paths.
+
+253
+00:29:55.290 --> 00:30:05.150
+Simon Wang: And the AI agent would be able to read the file… Through the file path, And, understand…
+
+254
+00:30:05.270 --> 00:30:11.090
+Simon Wang: The instruction there, understand the input, process, and output, And then the output…
+
+255
+00:30:11.640 --> 00:30:15.230
+Simon Wang: of the AI agent is not text, but action.
+
+256
+00:30:16.570 --> 00:30:19.279
+Simon Wang: Even though the action seems to be pretty…
+
+257
+00:30:19.670 --> 00:30:24.499
+Simon Wang: rudimentary, right? Because you can also do it through GUI.
+
+258
+00:30:25.460 --> 00:30:30.879
+Simon Wang: You can create… you can create a new folder here by yourself, and you can name it
+
+259
+00:30:31.280 --> 00:30:32.370
+Simon Wang: You see what I mean?
+
+260
+00:30:33.710 --> 00:30:39.950
+Simon Wang: But… I think this is very significant, it's a game changer.
+
+261
+00:30:40.210 --> 00:30:47.150
+Simon Wang: Because now, The AI chatbot is no longer a chatbot. It's no longer just produced text.
+
+262
+00:30:47.950 --> 00:30:52.360
+Simon Wang: But, because of there's some underlying technology behind this.
+
+263
+00:30:53.960 --> 00:31:03.189
+Simon Wang: It's still a large language model, but large language model demonstrating human-like intelligence will be able to call certain tools
+
+264
+00:31:03.620 --> 00:31:06.520
+Simon Wang: And to perform certain actions for us.
+
+265
+00:31:08.550 --> 00:31:09.390
+Simon Wang: Alright?
+
+266
+00:31:10.680 --> 00:31:24.110
+Simon Wang: I cannot… under… I should say, I cannot overstate The importance and the potential Of this technology.
+
+267
+00:31:25.130 --> 00:31:27.440
+Simon Wang: And for the workshop participants.
+
+268
+00:31:28.390 --> 00:31:41.220
+Simon Wang: They probably need a little bit of time to process this information and to appreciate the importance and the significance and the implication of this technology.
+
+269
+00:31:48.570 --> 00:31:49.730
+Simon Wang: Because…
+
+270
+00:31:53.280 --> 00:31:58.670
+Simon Wang: Now… AI is not just a… Talking, buddy.
+
+271
+00:31:59.610 --> 00:32:01.679
+Simon Wang: It's not just to chat.
+
+272
+00:32:02.000 --> 00:32:04.059
+Simon Wang: Or serving as a sounding board.
+
+273
+00:32:04.750 --> 00:32:07.689
+Simon Wang: But it can perform actions.
+
+274
+00:32:08.300 --> 00:32:16.080
+Simon Wang: I mean, creating a folder is just one of the actions. There's… of course, here it's not just creating a folder, it's understand your instruction.
+
+275
+00:32:16.310 --> 00:32:17.670
+Simon Wang: and execute.
+
+276
+00:32:18.560 --> 00:32:20.929
+Simon Wang: And you can also create files.
+
+277
+00:32:22.640 --> 00:32:23.480
+Simon Wang: Alright.
+
+278
+00:32:25.440 --> 00:32:33.969
+Simon Wang: But now, of course, I'm still thinking how we should, go about this. I mean… for the…
+
+279
+00:32:35.060 --> 00:32:41.150
+Simon Wang: For this part, introduction to agent, in addition to creating… a…
+
+280
+00:32:42.690 --> 00:32:47.359
+Simon Wang: In addition to creating a folder, maybe we should also demonstrate something else,
+
+281
+00:32:47.530 --> 00:32:53.059
+Simon Wang: But, that's something else we… we can… we can decide. In fact, I've got…
+
+282
+00:32:55.540 --> 00:33:06.880
+Simon Wang: I've got different, I've got different, options and files and everything. So, let me,
+
+283
+00:33:10.340 --> 00:33:18.380
+Simon Wang: Let me show you guys… a quick example, I probably used that example
+
+284
+00:33:22.690 --> 00:33:23.980
+Simon Wang: on Friday.
+
+285
+00:33:25.500 --> 00:33:31.600
+Simon Wang: But while I'm, I'm, preparing that, that files, maybe you guys can…
+
+286
+00:33:34.180 --> 00:33:37.149
+Simon Wang: Tell me a little bit about what you think.
+
+287
+00:33:38.640 --> 00:33:43.190
+Simon Wang: Because, as I said earlier,
+
+288
+00:33:45.250 --> 00:33:49.829
+Simon Wang: I hope you guys can also think about how this tool can change the way you learn.
+
+289
+00:33:50.570 --> 00:33:55.510
+Simon Wang: I mean, I'm actually open to… Different opinions.
+
+290
+00:33:56.840 --> 00:34:07.160
+Simon Wang: I won't mind at all if you disagree. If you say, hey, I don't think this is a very promising tool, this is too much trouble.
+
+291
+00:34:07.440 --> 00:34:09.449
+Simon Wang: I don't think people would pick it up.
+
+292
+00:34:10.540 --> 00:34:14.769
+Simon Wang: I mean, fine. Just tell me, what do you think?
+
+293
+00:34:16.090 --> 00:34:23.219
+Simon Wang: But, yeah. So, I'm gonna pause here, because I would like each of you to…
+
+294
+00:34:23.560 --> 00:34:27.560
+Simon Wang: To think about it a little bit, Okay.
+
+295
+00:34:37.870 --> 00:34:38.820
+Simon Wang: Nina!
+
+296
+00:34:39.310 --> 00:34:40.969
+Simon Wang: Maybe you should talk first.
+
+297
+00:34:41.690 --> 00:34:42.370
+Naina Manoj RAMCHANDANI: Yeah.
+
+298
+00:34:42.800 --> 00:34:52.679
+Naina Manoj RAMCHANDANI: So I think that this is a good tool, and it can be properly used by many students. I think it's pretty easy to pick up, because…
+
+299
+00:34:52.830 --> 00:35:07.740
+Naina Manoj RAMCHANDANI: it's just, like, text to action, and, I think the main thing would be that this is mainly still going to be used for coding rather than non-coding purposes, but that's probably my only concern on this.
+
+300
+00:35:08.620 --> 00:35:12.400
+Simon Wang: Well, if you think it's only for coding, then,
+
+301
+00:35:12.570 --> 00:35:19.390
+Simon Wang: Maybe you can revisit this idea after we complete The entire demo tonight.
+
+302
+00:35:19.590 --> 00:35:27.150
+Simon Wang: Because I think I mentioned this very earlier, which is… You're right.
+
+303
+00:35:27.490 --> 00:35:34.230
+Simon Wang: the whole IDE thing, the whole edge, agent thing, most people use it for software development, for writing code.
+
+304
+00:35:35.610 --> 00:35:39.759
+Simon Wang: what I'm trying to demonstrate on Friday and in the coming weeks
+
+305
+00:35:40.120 --> 00:35:42.569
+Simon Wang: My focus is not vibe coding.
+
+306
+00:35:42.830 --> 00:35:53.579
+Simon Wang: I mean, I have got some experience, very good experience of vibe coding. I think it's worth introducing, maybe on a separate occasion, but…
+
+307
+00:35:53.710 --> 00:36:00.720
+Simon Wang: I'm actually trying to demonstrate how this kind of… the whole platform, the whole thing can be used for non…
+
+308
+00:36:01.810 --> 00:36:03.609
+Simon Wang: non, non-textual.
+
+309
+00:36:03.610 --> 00:36:04.690
+Naina Manoj RAMCHANDANI: non-provo.
+
+310
+00:36:04.690 --> 00:36:06.600
+Simon Wang: Yeah, non-programming task.
+
+311
+00:36:06.800 --> 00:36:22.239
+Naina Manoj RAMCHANDANI: I completely understand, but I think that for now, in general, like, before your talk, most students still would still use this for coding. I think after your talk, they might actually realize that you can't use it for non-coding purposes, so the talk is probably going to be important.
+
+312
+00:36:22.420 --> 00:36:23.510
+Simon Wang: Yep. Yep.
+
+313
+00:36:23.980 --> 00:36:29.140
+Simon Wang: But let me, let me show you… let me show you this,
+
+314
+00:36:30.730 --> 00:36:35.210
+Simon Wang: link. But, other students, please… Also, share.
+
+315
+00:36:39.780 --> 00:36:41.170
+24201413 HADI Muhammad: So…
+
+316
+00:36:41.550 --> 00:36:52.630
+24201413 HADI Muhammad: Since you want to demonstrate examples of how this agent-tech AI could be used in non-programming fields.
+
+317
+00:36:52.640 --> 00:36:54.759
+Simon Wang: So maybe we could.
+
+318
+00:36:55.050 --> 00:36:58.720
+24201413 HADI Muhammad: Do a demonstration of how it can…
+
+319
+00:36:59.170 --> 00:37:06.450
+24201413 HADI Muhammad: you know, analyze data, for example, create a CSV file of, like, names and salaries or whatever, like.
+
+320
+00:37:07.120 --> 00:37:13.159
+24201413 HADI Muhammad: used to be done in Excel manually can be done by the agent
+
+321
+00:37:13.560 --> 00:37:18.380
+24201413 HADI Muhammad: by one single prompt, I guess that could be a good demo as well.
+
+322
+00:37:19.180 --> 00:37:25.990
+Simon Wang: to, create a CSV out of… Auto for what?
+
+323
+00:37:25.990 --> 00:37:28.540
+24201413 HADI Muhammad: So, like, give,
+
+324
+00:37:29.060 --> 00:37:36.540
+24201413 HADI Muhammad: bunch of untidy data, like random noise or whatever, and then ask the agent to make a…
+
+325
+00:37:36.870 --> 00:37:42.630
+24201413 HADI Muhammad: a properly formatted CSV file, like it's done in Excel.
+
+326
+00:37:42.980 --> 00:37:43.720
+Simon Wang: Okay.
+
+327
+00:37:44.430 --> 00:37:49.649
+Simon Wang: Yeah, so I think that's data cleaning, right? Which is,
+
+328
+00:37:49.780 --> 00:37:55.149
+Simon Wang: Which is also relevant. But let's do a quick demo here.
+
+329
+00:37:55.300 --> 00:38:03.960
+Simon Wang: We have a, PDF. Okay, so this is actually a, a, very fresh new book.
+
+330
+00:38:04.190 --> 00:38:06.809
+Simon Wang: And it's open access for about 2 weeks.
+
+331
+00:38:07.160 --> 00:38:14.979
+Simon Wang: And Samantha Crow is someone I actually worked with before, so I kind of know her.
+
+332
+00:38:15.100 --> 00:38:22.600
+Simon Wang: Right, so… so, what do we do with this PDF?
+
+333
+00:38:24.360 --> 00:38:28.580
+Simon Wang: Now, what we do is basically say,
+
+334
+00:38:29.260 --> 00:38:37.429
+Simon Wang: This is the PDF. I mean, as I mentioned earlier, AI agent won't be able to read the PDF, so we'll just say write a Python
+
+335
+00:38:37.940 --> 00:38:39.000
+Simon Wang: For when?
+
+336
+00:38:39.130 --> 00:38:40.470
+Simon Wang: to convert.
+
+337
+00:38:40.720 --> 00:38:44.290
+Simon Wang: the PDF into… Markdown.
+
+338
+00:38:46.020 --> 00:38:54.250
+Simon Wang: And we could also say, but I'm not sure how… How, mmm…
+
+339
+00:38:55.250 --> 00:39:00.850
+Simon Wang: well, it can perform this, but I can copy this… content.
+
+340
+00:39:04.430 --> 00:39:09.140
+Simon Wang: And, say, split the markdown.
+
+341
+00:39:09.350 --> 00:39:16.550
+Simon Wang: File into several ones, based on… the TOC.
+
+342
+00:39:16.670 --> 00:39:17.770
+Simon Wang: Attached.
+
+343
+00:39:18.810 --> 00:39:19.760
+Simon Wang: Alright?
+
+344
+00:39:20.260 --> 00:39:28.940
+Simon Wang: So… I mean, this is a pretty, practical task, in the sense that
+
+345
+00:39:29.050 --> 00:39:40.550
+Simon Wang: now we are… we have to collaborate with AI, but AI cannot read PDF directly, so we asked the agent to write an ad hoc
+
+346
+00:39:40.670 --> 00:39:44.109
+Simon Wang: Python program to convert the PDF into
+
+347
+00:39:44.750 --> 00:39:52.679
+Simon Wang: markdown, but then the markdown would include over 70 pages, but we want to
+
+348
+00:39:53.270 --> 00:39:59.140
+Simon Wang: you know, just split them into several files, because maybe Divide and Conquer, I want to…
+
+349
+00:39:59.320 --> 00:40:04.750
+Simon Wang: you know, read a one chapter or something, right? So I just go ahead and…
+
+350
+00:40:05.030 --> 00:40:07.420
+Simon Wang: And, provide that insertion.
+
+351
+00:40:11.270 --> 00:40:30.290
+Simon Wang: Yeah, and that's an example of how we are using AI agent to deal with PDF. But of course, in the process, we also write a little bit Python program, but I wouldn't really… I wouldn't really call it vibe coding. It's like… it's just kind of write a very little
+
+352
+00:40:30.290 --> 00:40:40.219
+Simon Wang: tool to do a conversion job, right? It's nothing significant or remarkable.
+
+353
+00:40:40.720 --> 00:40:43.770
+Simon Wang: Yeah.
+
+354
+00:40:44.570 --> 00:40:47.579
+Simon Wang: So, so they create this Python…
+
+355
+00:40:47.870 --> 00:40:54.420
+Simon Wang: And, they run this, but, before they run it, they have to, like…
+
+356
+00:40:56.410 --> 00:40:58.910
+Simon Wang: They have to install something.
+
+357
+00:40:59.190 --> 00:41:00.150
+Simon Wang: Okay?
+
+358
+00:41:00.320 --> 00:41:07.790
+Simon Wang: But see, now, we got the… Sprint markdown.
+
+359
+00:41:11.400 --> 00:41:14.390
+Simon Wang: But, apparently, they didn't do a very good job.
+
+360
+00:41:15.290 --> 00:41:19.929
+Simon Wang: Let me see…
+
+361
+00:41:25.840 --> 00:41:35.569
+Simon Wang: So, I think… I think this is… this is where, the… the… I mean, this may not be a very good example, because apparently, there's something…
+
+362
+00:41:35.840 --> 00:41:42.200
+Simon Wang: That is not… Because… because… let me… let me double check.
+
+363
+00:41:43.670 --> 00:41:46.670
+Simon Wang: Introduction…
+
+364
+00:41:58.670 --> 00:42:00.200
+Simon Wang: Exterminating.
+
+365
+00:42:10.850 --> 00:42:17.260
+Simon Wang: Data privacy… So, I, I, I, I, I'm not sure, it, it seems that…
+
+366
+00:42:17.400 --> 00:42:26.659
+Simon Wang: Because, you see, they, they, they, they got this, but then introduction is only this, so apparently that's not quite right. Let's, let's give…
+
+367
+00:42:27.600 --> 00:42:33.519
+Simon Wang: the chapel another chance. But it seems like, at the very minimum, it does cover…
+
+368
+00:42:33.710 --> 00:42:36.110
+Simon Wang: All the pages here, which is great.
+
+369
+00:42:36.360 --> 00:42:42.590
+Simon Wang: So, the split doesn't work very well. So, let's give it another chance, okay?
+
+370
+00:42:43.240 --> 00:42:45.940
+Simon Wang: So… the split.
+
+371
+00:42:46.600 --> 00:42:48.579
+Simon Wang: Did not work.
+
+372
+00:42:48.700 --> 00:42:58.459
+Simon Wang: Well… Please check… And maybe we should give them a little bit more hints
+
+373
+00:42:59.040 --> 00:43:03.410
+Simon Wang: And, we need to understand the structure a little bit better.
+
+374
+00:43:04.070 --> 00:43:10.610
+Simon Wang: So something like… Oh, actually, the introduction only got one page.
+
+375
+00:43:13.760 --> 00:43:15.209
+Simon Wang: Is that right?
+
+376
+00:43:16.420 --> 00:43:17.450
+Simon Wang: Okay…
+
+377
+00:43:23.650 --> 00:43:26.740
+Simon Wang: So maybe it's not that bad at all?
+
+378
+00:43:29.980 --> 00:43:32.030
+Simon Wang: Introduction file.
+
+379
+00:43:35.150 --> 00:43:37.500
+Simon Wang: is near empty.
+
+380
+00:43:54.060 --> 00:43:55.350
+Simon Wang: Not much.
+
+381
+00:43:55.980 --> 00:43:57.530
+Simon Wang: here, either.
+
+382
+00:44:00.210 --> 00:44:02.300
+Simon Wang: But of course, I mean,
+
+383
+00:44:02.670 --> 00:44:08.229
+Simon Wang: When you have… when you do this kind of feedback and everything, that means the tool is not…
+
+384
+00:44:08.600 --> 00:44:10.400
+Simon Wang: that mature.
+
+385
+00:44:10.550 --> 00:44:15.410
+Simon Wang: But I'm trying to kind of, like,
+
+386
+00:44:15.960 --> 00:44:25.979
+Simon Wang: get a… trying to solve a practical problem, so… I really don't mind, you know, trying to… Okay, so what we can do is say, ask…
+
+387
+00:44:26.210 --> 00:44:29.240
+Simon Wang: The chatbot to look at this.
+
+388
+00:44:29.830 --> 00:44:35.029
+Simon Wang: Table of content. So, pay attention.
+
+389
+00:44:35.430 --> 00:44:38.139
+Simon Wang: to the… Page number.
+
+390
+00:44:38.730 --> 00:44:39.490
+Simon Wang: Thanks.
+
+391
+00:44:40.200 --> 00:44:46.089
+Simon Wang: Okay, and, double check, and see whether the page number is correct.
+
+392
+00:44:48.600 --> 00:44:50.560
+Simon Wang: Yeah, the patient number is correct.
+
+393
+00:44:51.410 --> 00:44:57.389
+Simon Wang: So that means, you know, basically it's a less than 50 pages of book. It's a very small book.
+
+394
+00:44:58.810 --> 00:44:59.880
+Simon Wang: short book.
+
+395
+00:45:09.140 --> 00:45:17.939
+Simon Wang: And actually, this is another power of AI Agent, is that, it, when it receives, feedback, it, it can…
+
+396
+00:45:18.170 --> 00:45:20.209
+Simon Wang: Trying to solve the problem.
+
+397
+00:45:20.420 --> 00:45:21.300
+Simon Wang: Right?
+
+398
+00:45:31.410 --> 00:45:39.270
+Simon Wang: And this is just one example of how AI Agent can deal with a piece of text.
+
+399
+00:45:39.400 --> 00:45:44.049
+Simon Wang: Right? Of course, this text is a bit long, we're talking about over 70 pages.
+
+400
+00:45:46.380 --> 00:45:53.090
+Simon Wang: But then, usually, a research article is something like, 30 pages or something, right?
+
+401
+00:45:53.570 --> 00:46:02.630
+Simon Wang: In my workshop at PolyU, I actually use an, review article.
+
+402
+00:46:03.710 --> 00:46:07.840
+Simon Wang: So, I could potentially use a review article.
+
+403
+00:46:09.290 --> 00:46:10.920
+Simon Wang: Let me just,
+
+404
+00:46:14.570 --> 00:46:17.149
+Simon Wang: I remember there's a scoping review.
+
+405
+00:46:28.490 --> 00:46:31.110
+Simon Wang: There's actually a lot of review articles on this.
+
+406
+00:46:33.810 --> 00:46:35.679
+Simon Wang: Oh, this is for medication.
+
+407
+00:46:36.970 --> 00:46:47.459
+Simon Wang: So, a scoping review on how to generate artificial intelligence form assessment in higher education.
+
+408
+00:46:48.840 --> 00:46:51.010
+Simon Wang: So, this could be…
+
+409
+00:46:52.390 --> 00:47:00.880
+Simon Wang: a review article, and in this case, we're not dealing with PDF now, we are dealing with HTML,
+
+410
+00:47:01.270 --> 00:47:05.580
+Simon Wang: So, I can simply… Copy and paste the whole thing.
+
+411
+00:47:06.330 --> 00:47:19.540
+Simon Wang: Right? And That's also a pretty common… Case, and then… I'm going to put… a new…
+
+412
+00:47:22.310 --> 00:47:24.209
+Simon Wang: Is this 2025?
+
+413
+00:47:24.450 --> 00:47:25.960
+Simon Wang: Don't really matter.
+
+414
+00:47:33.630 --> 00:47:37.369
+Simon Wang: Okay, so I got a whole paper here.
+
+415
+00:47:38.030 --> 00:47:40.149
+Simon Wang: Oh, it's actually 2024.
+
+416
+00:47:41.090 --> 00:47:43.950
+Simon Wang: As you said, it doesn't really matter that much.
+
+417
+00:47:44.830 --> 00:47:47.580
+Simon Wang: But let me try to fix this.
+
+418
+00:47:48.520 --> 00:47:49.979
+Simon Wang: We'll do a rename.
+
+419
+00:47:57.090 --> 00:48:00.879
+Simon Wang: Okay, now we have… We have a literature.
+
+420
+00:48:01.180 --> 00:48:09.850
+Simon Wang: which is, a scoping review, then what can we do? You know, what can we do with this scoping review?
+
+421
+00:48:10.280 --> 00:48:14.880
+Simon Wang: I mean, obviously, we can…
+
+422
+00:48:15.310 --> 00:48:21.100
+Simon Wang: we can ask it for summary, right? But, since we are…
+
+423
+00:48:21.390 --> 00:48:29.249
+Simon Wang: We don't want to just do a simple task that a chapel can do, right? So we need to come up with something a little bit more sophisticated.
+
+424
+00:48:29.990 --> 00:48:39.730
+Simon Wang: So what are we gonna do is, we will create… less… studies.
+
+425
+00:48:42.010 --> 00:48:43.130
+Simon Wang: Markdown.
+
+426
+00:48:58.030 --> 00:48:59.600
+Simon Wang: Is it better now?
+
+427
+00:49:03.180 --> 00:49:05.080
+Simon Wang: Yeah, I think it is better now.
+
+428
+00:49:08.010 --> 00:49:08.860
+Simon Wang: Great.
+
+429
+00:49:12.600 --> 00:49:16.229
+Simon Wang: Okay, so let's, let's, let's work on this a little bit.
+
+430
+00:49:18.330 --> 00:49:22.139
+Simon Wang: Okay, so… so what we could do… let's focus on here.
+
+431
+00:49:22.380 --> 00:49:31.470
+Simon Wang: Again, we copy this pass, And we say, please. Read.
+
+432
+00:49:32.160 --> 00:49:50.680
+Simon Wang: this review article… by Shaw… And identify all the studies being reviewed, and update… this file.
+
+433
+00:49:52.220 --> 00:49:59.500
+Simon Wang: For each study, you find… locate.
+
+434
+00:49:59.800 --> 00:50:01.140
+Simon Wang: the comments.
+
+435
+00:50:01.660 --> 00:50:04.960
+Simon Wang: from the… Review article.
+
+436
+00:50:06.020 --> 00:50:17.859
+Simon Wang: and put them… into a reasonable… Set of groups.
+
+437
+00:50:19.520 --> 00:50:25.670
+Simon Wang: Okay? So… This is another instruction.
+
+438
+00:50:28.850 --> 00:50:30.970
+Simon Wang: And… You see?
+
+439
+00:50:32.050 --> 00:50:41.049
+Simon Wang: We are trying to… Ask AI Agent to perform tasks that typically would be a research assistant.
+
+440
+00:50:41.620 --> 00:50:42.680
+Simon Wang: would do it.
+
+441
+00:50:43.000 --> 00:50:43.820
+Simon Wang: Right?
+
+442
+00:50:46.790 --> 00:50:52.380
+Simon Wang: But again, it can be challenging, because we are not sure
+
+443
+00:50:52.790 --> 00:50:56.229
+Simon Wang: How well it can do the job.
+
+444
+00:50:56.910 --> 00:51:00.389
+Simon Wang: And that's actually something we need to kind of,
+
+445
+00:51:00.720 --> 00:51:07.000
+Simon Wang: figure out, we have to be careful. Because…
+
+446
+00:51:07.450 --> 00:51:16.460
+Simon Wang: the AI agent can perform fairly sophisticated tasks, because, as you can see here, in order to do this…
+
+447
+00:51:16.960 --> 00:51:19.710
+Simon Wang: You have… they have to read this paper.
+
+448
+00:51:20.050 --> 00:51:26.080
+Simon Wang: But then, they also need to, locate or identify all the…
+
+449
+00:51:26.920 --> 00:51:30.369
+Simon Wang: All the studies being reviewed, because it's a scoping review, right?
+
+450
+00:51:32.800 --> 00:51:35.419
+Simon Wang: And then try to put them into categories.
+
+451
+00:51:38.620 --> 00:51:39.780
+Simon Wang: Okay.
+
+452
+00:51:42.400 --> 00:51:53.469
+Simon Wang: I mean, of course, you can also do that by copy and paste… paste it somewhere, but now, with this AI agent, you can… you don't have to copy and paste.
+
+453
+00:51:54.010 --> 00:51:59.150
+Simon Wang: But then… Beyond that, we still have to, kind of.
+
+454
+00:52:00.000 --> 00:52:04.750
+Simon Wang: I mean, we can think of something even more sophisticated, some other task.
+
+455
+00:52:05.060 --> 00:52:13.690
+Simon Wang: Which is something you guys can… Can think about, you know, in your context, So anyway,
+
+456
+00:52:13.860 --> 00:52:25.240
+Simon Wang: during the Friday workshop, I need to come up with… You know, this kind of…
+
+457
+00:52:27.920 --> 00:52:29.699
+Simon Wang: This kind of,
+
+458
+00:52:32.840 --> 00:52:34.380
+Simon Wang: use case.
+
+459
+00:52:37.600 --> 00:52:45.500
+Simon Wang: So… Now we have group 1, student academic integrity and Cheating Concerns.
+
+460
+00:52:46.200 --> 00:52:50.530
+Simon Wang: We have Group 2 is feedback and self-assessment.
+
+461
+00:52:51.060 --> 00:52:56.000
+Simon Wang: And group 3, and Group 4, and Group 5, and Group 6, okay?
+
+462
+00:53:02.300 --> 00:53:10.049
+Simon Wang: I mean, of course, this needs to be validated, so if any of you have time tomorrow.
+
+463
+00:53:10.160 --> 00:53:12.320
+Simon Wang: Maybe you can help me validate this.
+
+464
+00:53:13.190 --> 00:53:24.649
+Simon Wang: And of course, we can also send this over to a different chatbot for validation, right? We can go to poll.com and ask for validation. Now.
+
+465
+00:53:25.370 --> 00:53:40.210
+Simon Wang: There could be another performance we can do, something like, okay, please draw… a mermaid… Diagram.
+
+466
+00:53:40.720 --> 00:53:42.330
+Simon Wang: to visualize.
+
+467
+00:53:42.910 --> 00:53:44.639
+Simon Wang: this studies.
+
+468
+00:53:45.750 --> 00:53:48.300
+Simon Wang: In a new file.
+
+469
+00:53:53.660 --> 00:53:58.749
+Simon Wang: But then we have to install Some kind of extension.
+
+470
+00:53:59.550 --> 00:54:04.530
+Simon Wang: something like Mermaid.
+
+471
+00:54:05.140 --> 00:54:14.900
+Simon Wang: Because… Otherwise, even when… they… write the mermaid codes.
+
+472
+00:54:15.050 --> 00:54:18.530
+Simon Wang: You won't be able to… Read it.
+
+473
+00:54:20.370 --> 00:54:25.160
+Simon Wang: Okay, anyway, that's the first…
+
+474
+00:54:26.300 --> 00:54:32.730
+Simon Wang: part of the… of the introduction. Well, I mean, I… during… during the, the, the workshop.
+
+475
+00:54:33.270 --> 00:54:41.609
+Simon Wang: the trick for the first part is to try to impress the audience, but I do believe it's quite impressive.
+
+476
+00:54:41.730 --> 00:54:49.599
+Simon Wang: Anyway, it's already an hour, so let me… let me finish, now, the second part…
+
+477
+00:54:50.460 --> 00:54:57.350
+Simon Wang: The second part is actually to introduce a… existing tools, okay?
+
+478
+00:54:57.930 --> 00:55:01.889
+Simon Wang: Because Lead Study is another repository.
+
+479
+00:55:02.260 --> 00:55:06.779
+Simon Wang: Which… Wait, I don't think I have…
+
+480
+00:55:07.630 --> 00:55:13.550
+Simon Wang: Oh, I see. See, the thing is… When we,
+
+481
+00:55:13.690 --> 00:55:19.160
+Simon Wang: fork this repository. They won't fork any, like…
+
+482
+00:55:20.370 --> 00:55:24.560
+Simon Wang: They won't fork this kind of,
+
+483
+00:55:24.780 --> 00:55:29.160
+Simon Wang: embedded one. So, actually, we have to go back.
+
+484
+00:55:29.700 --> 00:55:32.770
+Simon Wang: And, find that late study.
+
+485
+00:55:35.560 --> 00:55:38.590
+Simon Wang: So, let's, let's leave a note.
+
+486
+00:55:39.310 --> 00:55:44.690
+Simon Wang: I'll try to finish in about half an hour, okay? And then you guys can… can decide.
+
+487
+00:55:45.220 --> 00:55:51.569
+Simon Wang: If you want to, okay, so now…
+
+488
+00:55:51.710 --> 00:55:56.290
+Simon Wang: There's the file… wait a minute, it's an MD, right?
+
+489
+00:55:57.050 --> 00:56:02.090
+Simon Wang: It's an MD, but then how can I… How can I,
+
+490
+00:56:08.520 --> 00:56:09.940
+Simon Wang: visualization.
+
+491
+00:56:10.880 --> 00:56:17.780
+Simon Wang: So what you can… what I can do is I could potentially…
+
+492
+00:56:22.360 --> 00:56:31.899
+Simon Wang: I think… Hold on, hold on just one second. Because I only figured out how to use this.
+
+493
+00:56:37.790 --> 00:56:38.770
+Simon Wang: Hmm.
+
+494
+00:57:27.200 --> 00:57:31.410
+Simon Wang: Because I was actually expecting…
+
+495
+00:57:38.280 --> 00:57:41.830
+Simon Wang: I was expecting, like… some kind of…
+
+496
+00:57:58.810 --> 00:57:59.630
+Simon Wang: Hmm.
+
+497
+00:57:59.780 --> 00:58:10.690
+Simon Wang: Okay. How about this? Draw some… Create some simple… Black.
+
+498
+00:58:11.560 --> 00:58:12.910
+Simon Wang: and white.
+
+499
+00:58:23.280 --> 00:58:24.540
+Simon Wang: Let's try this.
+
+500
+00:58:28.370 --> 00:58:40.070
+Simon Wang: Anyway, my point is, we can actually ask the agent to write some code to visualize something, right? To draw some diagrams.
+
+501
+00:58:55.590 --> 00:59:02.480
+Simon Wang: Okay, so now we have this…
+
+502
+00:59:03.250 --> 00:59:12.970
+Simon Wang: New code, but again, we have to… install the… preview…
+
+503
+00:59:42.950 --> 00:59:46.260
+Simon Wang: Okay, so now, once you got…
+
+504
+00:59:46.910 --> 00:59:50.509
+Simon Wang: This preview, you will be able to see
+
+505
+00:59:51.350 --> 00:59:57.109
+Simon Wang: This is the more, kind of, visualized… version, right?
+
+506
+00:59:57.800 --> 01:00:03.140
+Simon Wang: So, now we'll be able to… Draw some pretty cool…
+
+507
+01:00:03.470 --> 01:00:06.180
+Simon Wang: lines, and I mean, I mean diagrams.
+
+508
+01:00:06.650 --> 01:00:09.770
+Simon Wang: to… Visualize.
+
+509
+01:00:11.940 --> 01:00:12.900
+Simon Wang: Okay.
+
+510
+01:00:16.240 --> 01:00:22.619
+Simon Wang: Well, I mean, you can always… Go to a chatbot.
+
+511
+01:00:22.760 --> 01:00:26.670
+Simon Wang: and asked the chatbot to write this kind of codes.
+
+512
+01:00:27.090 --> 01:00:34.369
+Simon Wang: And then you go to another place to copy and paste the codes, and then you can also get this kind of diagrams, right?
+
+513
+01:00:34.820 --> 01:00:43.750
+Simon Wang: But, when we are doing this, In an integrated development environment, Then everything can come together.
+
+514
+01:00:45.120 --> 01:00:45.900
+Simon Wang: Right.
+
+515
+01:00:46.380 --> 01:00:51.590
+Simon Wang: So that's… That's the whole point of the Of doing this.
+
+516
+01:00:52.400 --> 01:00:59.790
+Simon Wang: Now, the next part is actually…
+
+517
+01:01:04.600 --> 01:01:06.390
+Simon Wang: I want to…
+
+518
+01:01:12.590 --> 01:01:17.119
+Simon Wang: I want to clone this thing, okay? So I have to clone this.
+
+519
+01:01:20.370 --> 01:01:23.150
+Simon Wang: And this is a very important point.
+
+520
+01:01:23.520 --> 01:01:27.900
+Simon Wang: Because when you use AI Agent, you don't want to start from scratch.
+
+521
+01:01:28.180 --> 01:01:30.989
+Simon Wang: You want to leverage existing codes.
+
+522
+01:01:32.440 --> 01:01:33.290
+Simon Wang: Right?
+
+523
+01:01:36.910 --> 01:01:39.790
+Simon Wang: So I con this repository to this folder.
+
+524
+01:01:40.090 --> 01:01:43.620
+Simon Wang: And tell me how this would work.
+
+525
+01:01:44.060 --> 01:01:49.459
+Simon Wang: and prepare a demoplan.md.
+
+526
+01:01:51.930 --> 01:01:52.730
+Simon Wang: Right?
+
+527
+01:01:53.680 --> 01:01:59.589
+Simon Wang: So now you, you, Clone this repository.
+
+528
+01:02:03.380 --> 01:02:08.829
+Simon Wang: And of course, if you want to learn more about repository, you can read here.
+
+529
+01:02:11.250 --> 01:02:24.540
+Simon Wang: So, it offers 5 main features. Extract metadata from scientific documents sourced from various locations, blah blah blah…
+
+530
+01:02:26.560 --> 01:02:34.100
+Simon Wang: Actually, I haven't, I haven't, looked at… looked at this very closely, so if any of you,
+
+531
+01:02:34.350 --> 01:02:38.200
+Simon Wang: could help me. If you have time tomorrow.
+
+532
+01:02:39.370 --> 01:02:44.460
+Simon Wang: It has to be tomorrow, right? Because I need to finalize everything tomorrow night.
+
+533
+01:02:45.090 --> 01:02:52.459
+Simon Wang: But, as you can see here, I provide the instruction, ask.
+
+534
+01:02:52.570 --> 01:02:56.630
+Simon Wang: To travel to clone the repository,
+
+535
+01:02:57.300 --> 01:02:59.700
+Simon Wang: And then tell me how this would work.
+
+536
+01:03:00.470 --> 01:03:04.540
+Simon Wang: And prepared a demo, plan. So…
+
+537
+01:03:05.040 --> 01:03:13.279
+Simon Wang: the chatbot would… I mean, the agent would read through the entire repository, And the repository has been…
+
+538
+01:03:13.830 --> 01:03:15.149
+Simon Wang: Cloned here.
+
+539
+01:03:16.840 --> 01:03:19.420
+Simon Wang: And then create a comprehensive demo plan.
+
+540
+01:03:21.480 --> 01:03:23.339
+Simon Wang: And this will take a little while.
+
+541
+01:03:23.800 --> 01:03:24.680
+Simon Wang: Alright.
+
+542
+01:03:26.760 --> 01:03:32.260
+Simon Wang: And hopefully, We'll figure out how this whole thing would work.
+
+543
+01:03:32.570 --> 01:03:37.100
+Simon Wang: And, you know, it can create some value.
+
+544
+01:03:37.800 --> 01:03:41.539
+Simon Wang: for… For the user.
+
+545
+01:03:42.100 --> 01:03:44.900
+Simon Wang: But, the most important thing is…
+
+546
+01:03:46.960 --> 01:03:56.870
+Simon Wang: Even if you do not have that much of, programming background.
+
+547
+01:03:57.220 --> 01:04:01.569
+Simon Wang: Now you can very easily clone any repository.
+
+548
+01:04:02.040 --> 01:04:12.139
+Simon Wang: from GitHub, a lot of them open source, high quality, you know, Excellent work done by… Selfless people.
+
+549
+01:04:13.620 --> 01:04:25.050
+Simon Wang: I remember there's another keyhub It's called, like, paper… turn to…
+
+550
+01:04:25.710 --> 01:04:31.900
+Simon Wang: slides, or something, or paper turns to… Podcast or something.
+
+551
+01:04:32.430 --> 01:04:42.990
+Simon Wang: Alright, so, you see, you can turn paper into… Slides…
+
+552
+01:04:43.660 --> 01:04:50.850
+Simon Wang: But then this is not… it's only 10 stars, so not necessarily very good. I… I remember there's a… there's a couple of other…
+
+553
+01:04:51.350 --> 01:05:01.870
+Simon Wang: repository, which we can very, very briefly mention. I mean, there are a lot of repositories out there in GitHub that can support our scholarly work, okay?
+
+554
+01:05:02.280 --> 01:05:11.270
+Simon Wang: But then going back here, I guess I would just… Focus on this one.
+
+555
+01:05:12.760 --> 01:05:15.600
+Simon Wang: And you see, now they've got a plan.
+
+556
+01:05:16.840 --> 01:05:18.160
+Simon Wang: Where's the plan?
+
+557
+01:05:23.480 --> 01:05:25.630
+Simon Wang: See, now we got a demo plan.
+
+558
+01:05:28.460 --> 01:05:36.259
+Simon Wang: It says, show 5 main features… Extract filters, statistics…
+
+559
+01:05:36.570 --> 01:05:39.860
+Simon Wang: I mean, it's just copy from the README,
+
+560
+01:05:40.640 --> 01:05:43.750
+Simon Wang: So the demo plan is to install this first.
+
+561
+01:05:44.030 --> 01:05:46.879
+Simon Wang: We have a study list, list of studies.
+
+562
+01:05:48.170 --> 01:05:51.280
+Simon Wang: We're going to ex- export references.
+
+563
+01:05:51.400 --> 01:05:53.359
+Simon Wang: Search and download.
+
+564
+01:05:53.590 --> 01:05:55.450
+Simon Wang: and create a CSV.
+
+565
+01:05:57.620 --> 01:06:03.890
+Simon Wang: Okay, so, great. Let's… Execute.
+
+566
+01:06:04.610 --> 01:06:05.600
+Simon Wang: step.
+
+567
+01:06:06.970 --> 01:06:07.930
+Simon Wang: 1.
+
+568
+01:06:09.230 --> 01:06:10.840
+Simon Wang: Face one.
+
+569
+01:06:33.530 --> 01:06:42.470
+Simon Wang: Now, in order for this thing to work, they will have to… Do a lot of, installing, right?
+
+570
+01:06:43.120 --> 01:06:45.929
+Simon Wang: See, before AI Agent.
+
+571
+01:06:47.200 --> 01:06:54.300
+Simon Wang: if you want to run this whole thing, you need to open up another AI chatbot somewhere.
+
+572
+01:06:54.620 --> 01:07:09.410
+Simon Wang: And whenever… you will get a lot of complaints, right? A lot of complaints from the terminal saying, this hasn't been installed, that hasn't been installed, then you have to copy and paste, you got a lot of, you know, instruction. But now,
+
+573
+01:07:10.040 --> 01:07:12.720
+Simon Wang: It's all done… autonomously.
+
+574
+01:07:16.010 --> 01:07:21.619
+Simon Wang: And, here, it says events not found, so that means there's something wrong.
+
+575
+01:07:22.680 --> 01:07:29.090
+Simon Wang: But then the chapel would… I mean, the AI agent would try to figure it out.
+
+576
+01:07:33.080 --> 01:07:36.160
+Simon Wang: Any questions so far? Any comments?
+
+577
+01:07:54.770 --> 01:07:57.600
+Naina Manoj RAMCHANDANI: Our best in the presentation, Leisure.
+
+578
+01:07:57.760 --> 01:08:14.300
+Naina Manoj RAMCHANDANI: Mainly mentioned that, yes, it can take large amounts of data in, because if we're using this for research purposes, specifically non-programming, like you're… like, that's what the whole thing is about, then you should mention that, it can take in large amounts of data at once.
+
+579
+01:08:14.350 --> 01:08:17.770
+Naina Manoj RAMCHANDANI: And be able to look over and help you with this.
+
+580
+01:08:18.550 --> 01:08:20.770
+Naina Manoj RAMCHANDANI: That would be one of the main qualities.
+
+581
+01:08:22.109 --> 01:08:23.229
+Simon Wang: Yeah, you're right.
+
+582
+01:08:24.009 --> 01:08:30.659
+Simon Wang: Because if, there's just, dealing with one… file at the time.
+
+583
+01:08:30.759 --> 01:08:33.789
+Simon Wang: Then, you can always copy and paste, right?
+
+584
+01:08:36.409 --> 01:08:39.009
+Naina Manoj RAMCHANDANI: That's a good point. I'm, I'm, I'm.
+
+585
+01:08:39.229 --> 01:08:46.289
+Simon Wang: Maybe in the introduction part, I need to… I need to… showcase how…
+
+586
+01:08:46.589 --> 01:08:51.409
+Simon Wang: By writing one line of instruction, The agent can handle…
+
+587
+01:08:51.849 --> 01:08:56.009
+Simon Wang: Maybe 10 files simultaneously or something, right?
+
+588
+01:08:57.149 --> 01:09:16.619
+Naina Manoj RAMCHANDANI: Maybe you should start off by, like, yeah, like you said, that, like, it can handle 10 files at once, because most other AI agents are not powerful enough for that. You can also say that there's no exact limit to how much texting could be put, because you can see that there's no compliment, there's no exact thing, but usually other AI agents have that.
+
+589
+01:09:17.819 --> 01:09:20.969
+Simon Wang: Well, in order for this to work.
+
+590
+01:09:21.319 --> 01:09:23.550
+Simon Wang: We have to be very careful.
+
+591
+01:09:23.750 --> 01:09:29.609
+Simon Wang: Because there's always this limitation about the context window, right?
+
+592
+01:09:29.899 --> 01:09:36.149
+Simon Wang: So, what we could do is say, ask AI agent to…
+
+593
+01:09:36.300 --> 01:09:41.550
+Simon Wang: Handle one file at a time, and generate some kind of output, and put it in a file.
+
+594
+01:09:42.380 --> 01:09:47.310
+Simon Wang: And then continuously updating the file, one file at a time.
+
+595
+01:09:47.960 --> 01:09:53.309
+Simon Wang: and eventually we will have something. And that something is like an aggregate of
+
+596
+01:09:53.939 --> 01:09:59.620
+Simon Wang: Processing all the files can be then… you know, Take to the next step.
+
+597
+01:10:00.050 --> 01:10:02.500
+Simon Wang: So… I think the…
+
+598
+01:10:02.800 --> 01:10:12.730
+Simon Wang: the key power of AI Agent is not just to handle multiple files, but also to execute multiple steps in an instruction file.
+
+599
+01:10:13.110 --> 01:10:17.190
+Naina Manoj RAMCHANDANI: Yeah, you should totally mention that, that is really a good feature.
+
+600
+01:10:17.870 --> 01:10:23.130
+Simon Wang: I think I… I need to build some… kind of…
+
+601
+01:10:23.610 --> 01:10:31.310
+Simon Wang: more convincing use case, because the one that I demonstrate tonight, you know, some of them are not completely…
+
+602
+01:10:31.690 --> 01:10:34.539
+Simon Wang: Kind of, smooth working.
+
+603
+01:10:34.670 --> 01:10:40.690
+Simon Wang: So, we'll see, I think I… I could probably…
+
+604
+01:10:40.800 --> 01:10:48.239
+Simon Wang: edit this a little bit. And if any of you have got time tomorrow, have some good ideas.
+
+605
+01:10:48.410 --> 01:10:54.089
+Simon Wang: Feel free to, you know, spend some time on this, and
+
+606
+01:10:54.230 --> 01:10:57.959
+Simon Wang: And let me know, okay? Let me know if you got something.
+
+607
+01:10:58.190 --> 01:11:03.819
+Simon Wang: But I still want to…
+
+608
+01:11:03.970 --> 01:11:07.929
+Simon Wang: try and see how this whole lit study thing would work.
+
+609
+01:11:08.050 --> 01:11:14.850
+Simon Wang: and maybe I can demonstrate this. You know, that there are some other repository…
+
+610
+01:11:15.150 --> 01:11:19.550
+Simon Wang: That I can demonstrate as well. But then the third…
+
+611
+01:11:20.160 --> 01:11:24.889
+Simon Wang: The third part of this demo is new use cases.
+
+612
+01:11:25.470 --> 01:11:32.910
+Simon Wang: And this is where I would… Probably invite some… participants…
+
+613
+01:11:33.090 --> 01:11:35.839
+Simon Wang: To come up with some new ideas.
+
+614
+01:11:42.200 --> 01:11:46.109
+Simon Wang: But, again, that… That would be…
+
+615
+01:11:46.500 --> 01:11:54.170
+Simon Wang: Hopefully, by the time they've done the first two parts, They will have some… Good ideas.
+
+616
+01:11:54.270 --> 01:11:55.060
+Simon Wang: Right.
+
+617
+01:11:59.240 --> 01:12:00.500
+Simon Wang: So, what do you think?
+
+618
+01:12:07.650 --> 01:12:09.070
+N24216883 NADEEM Muhammad Ahmad: Hey, Simon.
+
+619
+01:12:09.070 --> 01:12:09.690
+Simon Wang: Yep.
+
+620
+01:12:09.980 --> 01:12:14.970
+N24216883 NADEEM Muhammad Ahmad: I just wanted to discuss, what we've, summarized today here.
+
+621
+01:12:15.160 --> 01:12:16.869
+N24216883 NADEEM Muhammad Ahmad: So…
+
+622
+01:12:17.140 --> 01:12:26.539
+N24216883 NADEEM Muhammad Ahmad: You talked about a whole bunch of things here, so I kind of did get lost in between it all, so I just want to kind of confirm it with you.
+
+623
+01:12:26.800 --> 01:12:28.030
+Simon Wang: Right. So…
+
+624
+01:12:28.330 --> 01:12:40.389
+N24216883 NADEEM Muhammad Ahmad: we're going to be delivering this workshop at HKU, and we're supposed to, you know, introduce the idea that, okay, HGNTech AI can be used for purposes other than vibe coding to
+
+625
+01:12:40.800 --> 01:12:50.019
+N24216883 NADEEM Muhammad Ahmad: you know, carry out more simpler tasks, like, for example, if you throw a PDF into an IDE, you can just write some English and, you know, get your task out of the way.
+
+626
+01:12:50.090 --> 01:13:06.519
+N24216883 NADEEM Muhammad Ahmad: Now, what I'm struggling with over here, in terms of my understanding, is that you have a lot of directories already put into the repo, so that can get a little bit distracting, you know, especially as someone who hasn't seen the codebase developed from the ground up, right?
+
+627
+01:13:06.600 --> 01:13:12.019
+N24216883 NADEEM Muhammad Ahmad: Right. So, what I was thinking is maybe we start off with, you know.
+
+628
+01:13:12.650 --> 01:13:21.839
+N24216883 NADEEM Muhammad Ahmad: less directories to kind of get people into the swing of things. And then maybe, you know, move towards a directory that already has all of the folders in it.
+
+629
+01:13:23.500 --> 01:13:24.210
+Simon Wang: Right.
+
+630
+01:13:24.400 --> 01:13:38.409
+Simon Wang: That's a good idea. I agree that for someone who is completely new to this whole thing, having too many files and folders or folders in what we call the code space.
+
+631
+01:13:38.980 --> 01:13:45.329
+Simon Wang: Our codebase can be, overwhelming and, intimidating and confusing.
+
+632
+01:13:45.670 --> 01:13:57.259
+Simon Wang: So… But then at the same time, we do need some kind of… Files to work with.
+
+633
+01:13:59.160 --> 01:14:06.469
+Simon Wang: So, I would say… We should definitely… Streamline this a little bit.
+
+634
+01:14:07.220 --> 01:14:14.699
+Simon Wang: Because… We need to get to the bottom of this.
+
+635
+01:14:14.800 --> 01:14:26.300
+Simon Wang: And… like… step back and ask the very basic question, like, what exactly can this AI agent do?
+
+636
+01:14:26.780 --> 01:14:31.430
+Simon Wang: For someone who… who's not going to do vibe coding?
+
+637
+01:14:31.590 --> 01:14:34.930
+Simon Wang: Who just needs to… Right.
+
+638
+01:14:35.070 --> 01:14:36.950
+Simon Wang: papers, right?
+
+639
+01:14:43.380 --> 01:14:51.149
+Simon Wang: I would say… The… A really good starting point is still review article.
+
+640
+01:14:51.700 --> 01:14:59.280
+Simon Wang: And I think at some point, I actually demonstrated that, right? There's a scoping review, and I…
+
+641
+01:14:59.380 --> 01:15:08.409
+Simon Wang: Sent this whole review article as a markdown file to the AI agent, and the AI was able to
+
+642
+01:15:08.750 --> 01:15:17.560
+Simon Wang: process the text and… and put, put them into categories. But, of course.
+
+643
+01:15:17.990 --> 01:15:29.490
+Simon Wang: I mean, this can also be done in a chatbot, right? So you can copy and paste the entire paper to a chatbot, and the chatbot can probably
+
+644
+01:15:29.830 --> 01:15:34.820
+Simon Wang: Categorize something for you.
+
+645
+01:15:35.670 --> 01:15:39.550
+Simon Wang: But,
+
+646
+01:15:40.310 --> 01:15:48.769
+Simon Wang: again, at the operational level, what AI Agent was able to do is to perform actions like read and write.
+
+647
+01:15:49.100 --> 01:15:56.890
+Simon Wang: And also read and write multiple files, and read and execute multiple lines of instructions.
+
+648
+01:15:58.080 --> 01:16:03.409
+Simon Wang: I mean, that… that's… that's there, which I believe is very powerful, very promising.
+
+649
+01:16:04.240 --> 01:16:08.589
+Simon Wang: But, we kind of need to…
+
+650
+01:16:09.560 --> 01:16:20.839
+Simon Wang: sharpen our use case here. I mean, we got our use case, but as you said, you know, if there are too many subfolders and everything, it can be confusing, so we need to really, kind of.
+
+651
+01:16:21.270 --> 01:16:30.960
+Simon Wang: Sharpen our focus, and ensure that whatever use cases that we can demonstrate, it will be super…
+
+652
+01:16:32.740 --> 01:16:38.890
+Simon Wang: Impressive, and also super clear in terms of what it can be done.
+
+653
+01:16:39.540 --> 01:16:42.209
+Simon Wang: does that make sense?
+
+654
+01:16:44.210 --> 01:16:44.910
+Naina Manoj RAMCHANDANI: Yeah.
+
+655
+01:16:48.890 --> 01:16:55.170
+Simon Wang: I think at the end of the day, it's… It's all about, conversion.
+
+656
+01:16:55.460 --> 01:17:03.690
+Simon Wang: You know, how can we convince more people To pick up this tool, and make it…
+
+657
+01:17:03.960 --> 01:17:06.849
+Simon Wang: As part of their daily workflow.
+
+658
+01:17:07.510 --> 01:17:15.830
+Simon Wang: In fact, what I'm going to do is I will… Put this entire transcript
+
+659
+01:17:16.500 --> 01:17:26.620
+Simon Wang: you know, to AI, and ask AI to generate some new ideas for me, and see if there might be some interesting, use cases.
+
+660
+01:17:28.440 --> 01:17:38.230
+Simon Wang: Any, any other… so, so I think we're going to end here very soon, because I got another meeting at 9.30. So, you guys have any quick, final thoughts?
+
+661
+01:17:38.720 --> 01:17:46.249
+Simon Wang: And also, if anybody would like to work on this tomorrow, just in case you got a few hours to work on tomorrow.
+
+662
+01:17:46.520 --> 01:17:51.479
+Simon Wang: You know, this is a good time to share your ideas.
+
+663
+01:18:23.870 --> 01:18:24.840
+Simon Wang: Anyone?
+
+664
+01:18:33.300 --> 01:18:36.479
+Simon Wang: Anyone got, some time tomorrow?
+
+665
+01:18:36.700 --> 01:18:38.060
+Simon Wang: You can help me?
+
+666
+01:18:42.170 --> 01:18:47.780
+Naina Manoj RAMCHANDANI: How about to, like, sharpen what exactly this can do, or…
+
+667
+01:18:47.780 --> 01:18:55.300
+Simon Wang: Yeah, cause, as, Arma mentioned earlier, we, we do need to…
+
+668
+01:18:56.530 --> 01:19:01.000
+Simon Wang: We do need to kind of,
+
+669
+01:19:02.370 --> 01:19:08.399
+Simon Wang: Sharpen the focus a bit, and clean up the… Folder bit, as well.
+
+670
+01:19:09.730 --> 01:19:11.679
+Naina Manoj RAMCHANDANI: I can help out if needed.
+
+671
+01:19:12.080 --> 01:19:16.410
+Simon Wang: Great, yeah, do… Cuz…
+
+672
+01:19:19.710 --> 01:19:23.850
+Simon Wang: I think… I think you can create a… a new branch.
+
+673
+01:19:24.250 --> 01:19:25.270
+Simon Wang: of this.
+
+674
+01:19:26.160 --> 01:19:30.919
+Simon Wang: And, you can work on it, and later on, you can issue, issue a,
+
+675
+01:19:31.670 --> 01:19:39.159
+Simon Wang: a pull request, and I will probably create a sub-branch to, like, backup these files.
+
+676
+01:19:39.930 --> 01:19:44.410
+Simon Wang: This one is not working, but…
+
+677
+01:19:57.820 --> 01:20:02.910
+Simon Wang: Right, so, and also in terms of open-ended use case.
+
+678
+01:20:03.080 --> 01:20:05.260
+Simon Wang: If you guys have any ideas.
+
+679
+01:20:05.440 --> 01:20:10.449
+Simon Wang: I mean, it's okay if you don't have time tomorrow, no worry, because…
+
+680
+01:20:10.630 --> 01:20:15.869
+Simon Wang: you know, Friday workshop is not the only workshop we're gonna run, there will be more workshops.
+
+681
+01:20:16.430 --> 01:20:23.030
+Simon Wang: So… but, Just… Because…
+
+682
+01:20:23.480 --> 01:20:26.980
+Simon Wang: again, as I said, it would be, like…
+
+683
+01:20:27.830 --> 01:20:30.000
+Simon Wang: You are all end users, right?
+
+684
+01:20:30.260 --> 01:20:31.940
+Simon Wang: The workshop is not just
+
+685
+01:20:32.100 --> 01:20:43.130
+Simon Wang: run for them, for those research students at Hong Kong U is also for you, right? You're undergraduates, you have a different kind of, needs.
+
+686
+01:20:43.890 --> 01:20:54.739
+Simon Wang: And, and, everything. So… so, just… Think about, how… The whole thing can change.
+
+687
+01:20:55.650 --> 01:20:57.449
+Simon Wang: The way you study.
+
+688
+01:20:58.850 --> 01:21:06.140
+Simon Wang: And, in fact, you may… You may be, you know…
+
+689
+01:21:06.780 --> 01:21:14.679
+Simon Wang: you may be the devil's advocate, right? You may say, hey, I don't think it's going to work, right? Just… just tell me.
+
+690
+01:21:14.940 --> 01:21:18.290
+Simon Wang: Tell me why you, you, you, you think it may not work.
+
+691
+01:21:19.950 --> 01:21:26.330
+Simon Wang: Installed, 7 data loading…
+
+692
+01:21:31.910 --> 01:21:36.800
+Simon Wang: create a CSV file from the study list, We already have…
+
+693
+01:21:40.810 --> 01:21:44.929
+Simon Wang: Move to Phase 2… And so on and so forth.
+
+694
+01:21:45.650 --> 01:21:51.440
+Simon Wang: So yeah, so Naina, if you can help tomorrow, why don't you come over to my office?
+
+695
+01:21:51.440 --> 01:21:53.999
+Naina Manoj RAMCHANDANI: Yeah, I'll be there for the meeting, right?
+
+696
+01:21:54.350 --> 01:21:55.230
+Simon Wang: I'm sorry?
+
+697
+01:21:55.230 --> 01:21:57.550
+Naina Manoj RAMCHANDANI: I'll be there meeting, I think.
+
+698
+01:21:58.410 --> 01:22:03.260
+Simon Wang: Yeah, so we can, we can talk a bit, because, tomorrow I got…
+
+699
+01:22:03.370 --> 01:22:08.540
+Simon Wang: I got 11.30 class, so we can meet probably 9.30 or 10, yeah?
+
+700
+01:22:08.540 --> 01:22:10.139
+Naina Manoj RAMCHANDANI: Yeah, I can come on there.
+
+701
+01:22:10.540 --> 01:22:16.260
+Simon Wang: Great, so… Great, so yeah, thank you again for your time. We are…
+
+702
+01:22:16.500 --> 01:22:25.129
+Simon Wang: going to end now, but, I will send you the video, and, do have some thoughts on,
+
+703
+01:22:25.240 --> 01:22:30.359
+Simon Wang: I mean, I mean, on Friday, you don't have to… I won't invite you to talk.
+
+704
+01:22:30.750 --> 01:22:35.299
+Simon Wang: Unless, if you have something you only share, maybe during the open-ended…
+
+705
+01:22:35.490 --> 01:22:50.559
+Simon Wang: session apart, you can talk. But otherwise, your main job is just to help out, and to answer any questions that, the other people may have. So you do need to kind of go through all this operation by yourself.
+
+706
+01:22:50.670 --> 01:22:55.640
+Simon Wang: So you know, how this will work, and, and then,
+
+707
+01:22:57.820 --> 01:23:02.700
+Simon Wang: Yeah, so… so hopefully you can… you can help others a bit.
+
+708
+01:23:03.050 --> 01:23:03.920
+Simon Wang: Great.
+
+709
+01:23:05.630 --> 01:23:13.909
+Simon Wang: Thank you, and I will see you on Friday. Now, for Friday, I will send you a…
+
+710
+01:23:14.270 --> 01:23:17.410
+Simon Wang: address at Hong Kong Yu.
+
+711
+01:23:17.860 --> 01:23:24.670
+Simon Wang: We're gonna meet at 6.15,
+
+712
+01:23:25.540 --> 01:23:28.349
+Simon Wang: We're gonna meet at 6.15 there.
+
+713
+01:23:28.850 --> 01:23:39.500
+Simon Wang: Because the workshop will start at 6.30, so just a little bit earlier. You probably want to get some sandwich or an early…
+
+714
+01:23:39.850 --> 01:23:41.129
+Simon Wang: meal.
+
+715
+01:23:41.750 --> 01:23:47.409
+Simon Wang: And I think, most of the restaurants, canteens at Hong Kong Yu would require Hong Kong Yu
+
+716
+01:23:47.920 --> 01:23:55.330
+Simon Wang: Identity card, so that means, you probably won't be able to eat there, so you need to plan ahead.
+
+717
+01:23:56.010 --> 01:24:05.190
+Simon Wang: Yeah, so, okay, so thanks again, I will see you on Friday.
+
+718
+01:24:08.520 --> 01:24:09.700
+Simon Wang: Bye bye!
+
+719
+01:24:10.340 --> 01:24:11.439
+tszwai: Thank you.
+
