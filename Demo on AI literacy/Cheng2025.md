@@ -74,7 +74,9 @@ Show less**Add to Mendeley****Share**
 
 **Cite**
 
-[https://doi.org/10.1016/j.compcom.2025.102934](https://doi.org/10.1016/j.compcom.2025.102934 "Persistent link using digital object identifier")[Get rights and content](https://s100.copyright.com/AppDispatchServlet?publisherName=ELS&contentID=S8755461525000210&orderBeanReset=true)
+[https://doi.org/10.1016/j.compcom.2025.102934](https://doi.org/10.1016/j.compcom.2025.102934 "Persistent link using digital object identifier")
+
+[Get rights and content](https://s100.copyright.com/AppDispatchServlet?publisherName=ELS&contentID=S8755461525000210&orderBeanReset=true)
 
 Full text access
 
